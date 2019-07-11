@@ -7,6 +7,4 @@ Note: I currently don't have the time to finish this idea up, but I would love t
 
 If you would like to work on this or help create it before I have time to please do. I would love the help. Either shoot a pull request, make an issue or contact me directly and lets get this going.
 
-P.S. Yes I'll turn on HTTPS Only for GH Pages as soon as it's been 24 hours... ya'll are crazy.
-
-P.P.S This is definitely not a "mubix" project, so if there is a better home for this repo or site, I'm totally open to doing that, just want to make it somewhere we can learn about those we have lost and the increible works they did.
+P.S This is definitely not a "mubix" project, so if there is a better home for this repo or site, I'm totally open to doing that, just want to make it somewhere we can learn about those we have lost and the increible works they did.
