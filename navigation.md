@@ -1,6 +1,7 @@
 # Rest In Code
 
-[gimmick:themechooser](Choose theme)
+[gimmick:theme](readable
+)
 [Home](home.md)
 [About](about.md)
 [Memorial List](memorials.md)
