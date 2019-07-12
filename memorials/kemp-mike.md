@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Mike Kemp (ClappyMonkey)
 
 
 ## Contributions
@@ -18,5 +18,5 @@
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
+![](/images/y3t1_Art-Mike_Kemp.jpg)
 

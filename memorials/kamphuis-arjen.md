@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Arjen Kamphuis
 
 
 ## Contributions
@@ -17,6 +17,3 @@
 > Lorem Ipsum - Rob Fuller
 
 ## Images
-
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-

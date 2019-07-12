@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Gary James (Turb1n3)
 
 
 ## Contributions
@@ -11,6 +11,7 @@
 
 ## Social Media
 
+- Twitter - [@kingtuna](https://github.com/kingtuna)
 
 ## Comments
 
@@ -18,5 +19,4 @@
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-
+![](/images/y3t1_Art-Gary_James_aka_Turb1n3.png)

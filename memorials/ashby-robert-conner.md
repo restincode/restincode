@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Robert Conner Ashby (Poolboy)
 
 
 ## Contributions
@@ -11,12 +11,10 @@
 
 ## Social Media
 
-
 ## Comments
 
 > Lorem Ipsum - Rob Fuller
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-
+![](/images/y3t1_Art-Robert_Conner_Ashby_aka_Poolboy.jpg)

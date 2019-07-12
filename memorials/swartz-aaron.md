@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Aaron Swartz
 
 
 ## Contributions
@@ -18,5 +18,4 @@
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-
+![](/images/y3t1_Art-Aaron_Swartz.png)

@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Josh Cohen (PacBell)
 
 
 ## Contributions
@@ -11,12 +11,10 @@
 
 ## Social Media
 
-
 ## Comments
 
 > Lorem Ipsum - Rob Fuller
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-
+![](/images/y3t1_Art-Josh_Cohen_aka_PacBell.jpg)

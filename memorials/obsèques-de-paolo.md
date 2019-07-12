@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Obsèques de Paolo
 
 
 ## Contributions
@@ -11,12 +11,8 @@
 
 ## Social Media
 
-
 ## Comments
 
 > Lorem Ipsum - Rob Fuller
 
 ## Images
-
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-

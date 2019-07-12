@@ -1,4 +1,4 @@
-# David Jones (Rance)
+# Branden Hancock (Ghent)
 
 
 ## Contributions
@@ -18,5 +18,4 @@
 
 ## Images
 
-![](/images/y3t1_Art-David_Jones_aka_Rance.jpg)
-
+![](/images/y3t1_Art-Branden_Hancock_aka_Ghent.jpg)
