@@ -2,6 +2,6 @@
 
 [gimmick:theme](readable
 )
-[Home](home.md)
+[Home](index.md)
 [About](about.md)
 [Memorial List](memorials.md)
