@@ -1,0 +1,4 @@
+baseURL = "https://restincode.com"
+languageCode = "en-us"
+title = "Rest In Code"
+theme = "newsprint"

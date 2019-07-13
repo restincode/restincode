@@ -1,0 +1,3 @@
+[submodule "themes/newsprint"]
+	path = themes/newsprint
+	url = https://git.sr.ht/~samwhited/newsprint
