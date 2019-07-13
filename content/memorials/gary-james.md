@@ -1,5 +1,8 @@
-# Gary James (Turb1n3)
-
+---
+title: "Gary James (Turb1n3)"
+date: 2019-07-13T11:20:26-07:00
+draft: true
+---
 
 ## Contributions
 
@@ -10,8 +13,6 @@
 ### Research
 
 ## Social Media
-
-- Twitter - [@kingtuna](https://github.com/kingtuna)
 
 ## Comments
 

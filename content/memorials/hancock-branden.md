@@ -1,5 +1,8 @@
-# Branden Hancock (Ghent)
-
+---
+title: "Branden Hancock (Ghent)"
+date: 2019-07-13T11:20:26-07:00
+draft: true
+---
 
 ## Contributions
 
@@ -10,7 +13,6 @@
 ### Research
 
 ## Social Media
-
 
 ## Comments
 

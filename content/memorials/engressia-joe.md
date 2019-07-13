@@ -1,5 +1,8 @@
-# Robert Conner Ashby (Poolboy)
-
+---
+title: "Joe Engressia (JoyBubbles)"
+date: 2019-07-13T11:20:26-07:00
+draft: true
+---
 
 ## Contributions
 
@@ -17,4 +20,3 @@
 
 ## Images
 
-![](/images/y3t1_Art-Robert_Conner_Ashby_aka_Poolboy.jpg)
