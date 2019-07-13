@@ -26,5 +26,3 @@ thumbnail: /images/y3t1_Art-Robert_Conner_Ashby_aka_Poolboy.jpg
 > Lorem Ipsum - Rob Fuller
 
 ## Images
-
-![](/images/y3t1_Art-Robert_Conner_Ashby_aka_Poolboy.jpg)
