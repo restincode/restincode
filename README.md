@@ -25,3 +25,5 @@ Submit an [Issue](https://github.com/mubix/restincode/issues) with the following
 ### Adding new data to a person
 
 If there is an existing [Issue](https://github.com/mubix/restincode/issues) for the person, utilize that Issue to suggest additional content from the "Content Suggestions" above. Please do not create new tickets for People that already exist.
+
+You can choose to also submit the actual markdown file (located in [memories/](https://github.com/mubix/restincode/tree/master/memorials) or have us do it. Please follow an existing person's file for an example template.
