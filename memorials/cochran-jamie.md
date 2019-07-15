@@ -1,4 +1,4 @@
-# Arjen Kamphuis
+# Jaime Cochran (ACKFlags)
 
 
 ## Contributions
@@ -11,16 +11,11 @@
 
 ## Social Media
 
-### Twitter
-
-> https://twitter.com/ArjenKamphuis/
-
-### About.me
-
-> https://about.me/arjenkamphuis
 
 ## Comments
 
 > Lorem Ipsum - Rob Fuller
 
 ## Images
+
+
