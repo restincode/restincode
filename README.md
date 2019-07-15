@@ -22,8 +22,9 @@ Submit an [Issue](https://github.com/mubix/restincode/issues) with the following
  * Body: Please provide as much or as little information as you have about the individual.
  * Content suggestions: Contributions (software, hardware, research), Publications (Books, Blogs, Talks), Social Media (Twitter, about.me, mastodon), Wiki pages, LinkedIn, and an Obituary
 
+You can also choose to submit the markdown file (located in [memories/](https://github.com/mubix/restincode/tree/master/memorials)) or have us do it for you by just opening an Issue. If you wish to submit your own, please follow an existing person's file for an example template.
+
 ### Adding new data to a person
 
 If there is an existing [Issue](https://github.com/mubix/restincode/issues) for the person, utilize that Issue to suggest additional content from the "Content Suggestions" above. Please do not create new tickets for People that already exist.
 
-You can also choose to submit the markdown file (located in [memories/](https://github.com/mubix/restincode/tree/master/memorials)) or have us do it for you by just opening an Issue. If you wish to submit your own, please follow an existing person's file for an example template.
