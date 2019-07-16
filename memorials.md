@@ -17,10 +17,15 @@ Are we missing someone? Please make an issue on our Github page: [https://github
 - [Jones, David (Rance)](/memorials/jones-david.md)
 - [Kamphuis, Arjen](/memorials/kamphuis-arjen.md)
 - [Kemp, Mike (ClappyMonkey)](/memorials/kemp-mike.md)
+- [Karl Koch](/memorials/koch-karl.md)
+- [Mattingly, Bret (Delta)](/memorials/mattingly-bret.md)
+- [Murdock, Ian](/memorials/murdock-ian.md)
+- [Rogers, Joe (Selir)](/memorials/rogers-joe.md)
+- [Sassaman, Len](/memorials/sassaman-len.md)
+- [Smith, Brad (Nurse)](/memorials/smith-brad.md)
+- [Stuart, Jonathan (dent1zt)](/memorials/stuart-jonathan.md)
 - [Rogers, Joe (Selir)](/memorials/rogers-joe.md)
 - [Sassaman, Len](/memorials/sassaman-len.md)
 - [Smith, Brad (Nurse)](/memorials/smith-brad.md)
 - [Swartz, Aaron](/memorials/swartz-aaron.md)
 - [Wright, Christian (Curiosity)](/memorials/wright-christian.md)
-
-

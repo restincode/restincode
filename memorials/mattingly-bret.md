@@ -18,5 +18,5 @@
 
 ## Images
 
-![](/images/Bret_Mattingly.jpg
+![](/images/Bret_Mattingly.jpg)
 
