@@ -1,5 +1,6 @@
 # Josh Cohen (PacBell)
 
+## 1978-2005
 
 ## Contributions
 
@@ -10,6 +11,10 @@
 ### Research
 
 ## Social Media
+
+## Affiliations
+
+> []DEF CON Goon](https://www.defcon.org/html/links/dc-goon-hof.html)
 
 ## Comments
 
