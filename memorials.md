@@ -4,15 +4,10 @@ Are we missing someone? Please make an issue on our Github page: [https://github
 
 - [Ashby, Robert Conner (Poolboy)](/memorials/ashby-robert-conner.md)
 - [Assante, Mike](/memorials/assante-mike.md)
-- [Bace, Rebecca](/memorials/bace-rebecca.md)
-- [Bennet, Geofrey](/memorials/bennet-geoffrey.md)
-- [Byer, Ben (bushing)](/memorials/byer-ben.md)
 - [Cohen, Josh (PacBell)](/memorials/cohen-josh.md)
-- [Cochran, Jamie (ACKFlags)](/memorials/cochran-jamie.md)
 - [de Paolo, Obsèques](/memorials/obsèques-de-paolo.md)
 - [Dyson, Jay Des (Cancer Omega)](/memorials/dyson-jay-des.md)
 - [Engressia, Joe (Joybubbles)](/memorials/engressia-joe.md)
-- [Floricic, Boris (Tron)](/memorials/floricic-boris.md)
 - [Gareau, Terrence (Tuna)](/memorials/gareau-terrence.md)
 - [(Hacker Joe)](/memorials/hacker-joe.md)
 - [Hancock, Branden (Ghent)](/memorials/hancock-branden.md)
@@ -29,7 +24,8 @@ Are we missing someone? Please make an issue on our Github page: [https://github
 - [Sassaman, Len](/memorials/sassaman-len.md)
 - [Smith, Brad (Nurse)](/memorials/smith-brad.md)
 - [Stuart, Jonathan (dent1zt)](/memorials/stuart-jonathan.md)
+- [Rogers, Joe (Selir)](/memorials/rogers-joe.md)
+- [Sassaman, Len](/memorials/sassaman-len.md)
+- [Smith, Brad (Nurse)](/memorials/smith-brad.md)
 - [Swartz, Aaron](/memorials/swartz-aaron.md)
 - [Wright, Christian (Curiosity)](/memorials/wright-christian.md)
-
-
