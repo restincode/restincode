@@ -13,7 +13,7 @@
 
 ## Affiliations
 
-> []DEF CON Goon](https://www.defcon.org/html/links/dc-goon-hof.html)
+> [DEF CON Goon](https://www.defcon.org/html/links/dc-goon-hof.html)
 
 
 ## Comments
