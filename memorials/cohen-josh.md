@@ -1,5 +1,6 @@
 # Josh Cohen (PacBell)
 
+### 1978-2005
 
 ## Contributions
 
@@ -11,9 +12,17 @@
 
 ## Social Media
 
+## Affiliations
+
+> [DEF CON Goon](https://www.defcon.org/html/links/dc-goon-hof.html)
+
 ## Comments
 
-> Lorem Ipsum - Rob Fuller
+* Ted Turner Wannabe (DEF CON TV Engineer), RBOC, Network Flunkie, Deputy Schmoozer.
+* Superpowers: Taking over cable networks without breaking a sweat, cabling/crimping for 36 hrs straight, reading minds of lame telco installers.
+* Best con moment: We now interrupt the regularly scheduled programming to bring you Cindy Salsa
+* Favorite con event: Hacker Jeopardy
+* Worst con moment: Fearing my life would end at the hands of a Lou Gosset Junior wannabe guard
 
 ## Images
 
