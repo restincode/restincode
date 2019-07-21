@@ -11,7 +11,7 @@
 
 ## Social Media
 
-- Twitter - [@kingtuna](https://github.com/kingtuna)
+- Twitter - [@jhartftw](https://github.com/jhartftw)
 
 ## Comments
 
