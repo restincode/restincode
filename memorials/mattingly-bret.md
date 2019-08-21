@@ -11,6 +11,9 @@
 
 ## Social Media
 
+- Twitter - [@adeptisdelta](https://twitter.com/adeptisdelta)
+- Instagram - [justcallmedelta](https://www.instagram.com/justcallmedelta/)
+- LinkedIn - [Bret Mattingly](https://www.linkedin.com/in/bretmattinglyii/)
 
 ## Comments
 
