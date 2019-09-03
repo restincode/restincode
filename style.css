@@ -1,0 +1,139 @@
+body {
+	font-family: Tahoma, sans-serif;
+	margin: 0;
+	padding: 0;
+	background: #efefef;
+}
+
+hr {
+	clear: both;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	color: #071;
+}
+a:active {
+	text-decoration: none;
+	border: 1px dotted #071;
+	color: #0a2;
+}
+a:visited {
+	color: #0a2;
+}
+a:hover {
+	background: #0f9;
+	color: #000;
+}
+
+
+header {
+	padding: 20px;
+	background-color: #ededed;
+	background-image: url("/images/header-bg.jpg");
+	text-shadow: #fff 3px 3px 20px;
+}
+header h1 { color: #0f5; }
+#subtitle {
+	font-size: 0.7em;
+	font-style: italic;
+}
+#tagline {
+	text-indent: 45px;
+	color: #0f0;
+}
+
+main { margin: 30px; }
+
+main#homepage-content {
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	min-height: 500px;
+}
+
+nav { 
+	grid-row: 1 / 3;
+	border: 1px solid #ededed;
+	margin-right: 25px;
+}
+
+
+#contributions-list li {
+	padding-bottom:10px;
+}
+
+aside {
+	text-align: center;
+	border: 1px solid #ddd;
+	padding: 20px;
+	max-width: 250px;
+}
+aside h4 {
+	text-decoration: underline;
+}
+
+.memorial-main-image, .memorial-gallery {
+	border: 2px solid #000;
+	border-radius: 8px;
+	min-height: 200px;
+	min-width: 100px;
+}
+.memorial-main-image {
+	display: block;
+	max-width: 100%;
+	margin-bottom: 10px;
+}
+
+#gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.memorial-gallery img {
+	max-width: 500px;
+}
+.memorial-gallery figcaption {
+	font-variant: small-caps;
+}	
+
+
+footer {
+	padding: 10px;
+	background-color: #343434;
+	color: #cdcdcd;
+	font-style: italic;
+	font-size:0.7em;
+	text-align: right;
+}
+a.btn-main-back {
+	display: inline; 
+	float: left;
+	color:#fff;
+	font-weight: bolder;
+}
+a.btn-main-back:hover{
+	color: #000;
+}
+
+
+/*** media queries for desktop view ***/
+@media (min-width: 769px) {
+	aside {
+		float: right;
+		margin: 20px;
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.memorial-main-image {
+		float: left;
+		margin: 25px;
+		max-width: 350px;
+	}
+}

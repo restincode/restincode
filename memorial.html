@@ -1,0 +1,149 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<title>Rest In Code - In Memory of </title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="author" content="Connie \'Sunfire\' Hill and Rest In Code contributors" />
+
+		<link rel="stylesheet" href="style.css" />
+		<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
+
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+		<script>
+			$(function(){
+				// find out who it is based on link that sent us here
+				var person;
+				var params = new URLSearchParams(window.location.search);
+				if (params.get('name') != null){
+					var name = params.get('name');
+					person = "/people/"+name+".json";
+				} else {
+					person = "/people/person.json";
+				}				
+
+				// pull the json data for that person
+				$.getJSON(person, function(data){
+					var fullname = data.firstname + " " + data.lastname;
+					if(data.handle != "") {
+						fullname += " (" + data.handle + ")";
+					}
+					// insert basic data where appropriate
+					$('title').append(fullname);
+					$("#subtitle").append(fullname);
+					$("#memorial-name").append(fullname);
+					$(".birth").append(data.birth);
+					$(".death").append(data.death);
+					// is there a main image value?
+					if(data.mainimage == "") {
+						$(".memorial-main-image").attr("src", "//restincode.wenatchee.tech/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
+					} else {
+						$(".memorial-main-image").attr("src", data.mainimage).attr("alt", "Main photo of "+fullname);
+					}
+
+					if(data.maintext == "") {
+						$("#memorial-text").append("<p>No description has been submitted for this person.</p>");
+					} else {
+						$("#memorial-text").append(data.maintext);
+					}
+					
+					// check for and then build social media links list
+					if(data.socialmedialinks == "") {
+						$("#social-media").append("No social media links have been submitted for this person.");
+					} else {
+						for (s=0; s<data.socialmedialinks.length; s++) {
+							var sitename = data.socialmedialinks[s]["sitename"];
+							var siteurl = data.socialmedialinks[s]["siteurl"];
+							var social = "<a href'"+siteurl+"'>"+sitename+"</a></br />";
+							$("#social-media").append(social);
+						}
+					}
+
+					// check for and then build contributions links list
+					if(data.contributions == "") {
+						$("#contributions-list").append("<li>No contributions have been submitted for this person.</li>");
+					} else {
+						for (x=0; x<data.contributions.length; x++){
+							var title = data.contributions[x]["title"];
+							var url = data.contributions[x]["url"];
+							var text = data.contributions[x]["description"];
+							var cont;
+							// contributions don't have to have links
+							if (url == "") {
+								cont = "<li><b>"+title+"</b> - "+text+"</li>";
+							} else {
+								cont = "<li><a href='"+url+"'>"+title+"</a> - "+text+"</li>";
+							}
+							$("#contributions-list").append(cont);
+						}
+					}
+					
+					// check for and then build photo gallery
+					if(data.gallery == "") {
+						$("#gallery").append("No images have been submitted for this person.");
+					} else {
+						for (i=0; i<data.gallery.length; i++){
+							var imgurl = data.gallery[i]["url"];
+							var imgtitle = data.gallery[i]["title"];
+							var caption = data.gallery[i]["caption"];
+							var image = "<figure class='memorial-gallery'><img src='"+imgurl+"' alt='"+imgtitle+"'><figcaption>"+caption+"</figcaption>";
+							$("#gallery").append(image);
+						}						
+					}
+
+					
+				});
+			});
+		</script>
+
+	</head>
+	<body>
+		<header>
+			<h1 id="main-title">RestInCode - <span id="subtitle">In Memory of </span></h1>
+		</header>
+		
+
+		<main id="memorial-page">
+			<article>
+				<h2 id="memorial-name"></h2>
+
+				<aside>
+					<!-- Info at a glance -->
+					<p class="birth">Born: </p>
+					<p class="death">Died: </p>
+					<!-- Links -->
+					<div id="social-media">
+					<h4>Social Media</h4>
+
+					</div>
+				</aside>
+				
+				<p id="memorial-text"><img src="#" alt="" class="memorial-main-image">
+				<!-- summary, obituary, or main description --></p>
+				
+				<hr />
+				<h3>Contributions</h3>
+				<ul id="contributions-list">
+					
+				</ul>
+				
+				<hr />
+				<h3>Gallery</h3>
+				<div id="gallery">
+
+				</div>
+
+			</article>
+
+			
+		</main>
+
+		<footer>
+			<a href="index.html" class="btn-main-back">&lt;&lt; Back</a>
+			Content and Images, unless otherwise specified, &copy; Rest In Code || Website design by <a href="https://sunfire.hitsaru.com" target="_blank" rel="noopener noreferrer">Sunfire</a> 2019
+		</footer>
+
+		
+	</body>
+</html>

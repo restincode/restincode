@@ -1,0 +1,80 @@
+{
+	"firstname" : "",
+	"lastname" : "",
+	"handle" : "",
+	"birth" : "",
+	"death" : "",
+	"mainimage" : "//restincode.wenatchee.tech/images/face-silhouette-clipart.png",
+	"maintext" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit nisi eveniet expedita quo enim porro quia eaque at rerum. Eum ullam, sequi temporibus magnam optio dolorum at, id quod totam?</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque perferendis quos facere. Aspernatur dolorum vitae sunt eum, dolores debitis repellat neque inventore pariatur at sed distinctio, maiores quas numquam repellendus.</p>",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/"
+		},
+		{
+			"sitename" : "Github",
+			"siteurl" : "https://www.github.com/"
+		},
+		{
+			"sitename" : "LinkedIn",
+			"siteurl" : "https://www.linkedin.com/in/"
+		},
+		{
+			"sitename" : "Facebook",
+			"siteurl" : "https://www.facebook.com/"
+		},
+		{
+			"sitename" : "Other",
+			"siteurl" : "https://about.me/"
+		}
+	],
+	"contributions" : [
+		{
+			"title" : "[project name]",
+			"url" : "htps://www.cyberz.tech/",
+			"description" : "Research paper on [project name]. As part of a team studying lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quibusdam, officia eos."
+		},
+		{
+			"title" : "",
+			"url" : "",
+			"description" : ""
+		},
+		{
+			"title" : "",
+			"url" : "",
+			"description" : ""
+		},
+		{
+			"title" : "",
+			"url" : "",
+			"description" : ""
+		}
+	],
+	"gallery" : [
+		{
+			"url" : "//restincode.wenatchee.tech/images/face-silhouette-clipart.png",
+			"title" : "Photo of [person] at [location or event]",
+			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
+		},
+		{
+			"url" : "",
+			"title" : "Photo of [person] at [location or event]",
+			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
+		},
+		{
+			"url" : "",
+			"title" : "Photo of [person] at [location or event]",
+			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
+		},
+		{
+			"url" : "",
+			"title" : "Photo of [person] at [location or event]",
+			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
+		},
+		{
+			"url" : "",
+			"title" : "Photo of [person] at [location or event]",
+			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
+		}
+	]
+}
