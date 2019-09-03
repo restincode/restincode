@@ -50,7 +50,7 @@
 					
 					// check for and then build social media links list
 					if(data.socialmedialinks == "") {
-						$("#social-media").append("No social media links have been submitted for this person.");
+						$("#social-media").append("No social media links have been submitted for this person. Submit <a href='https://github.com/restincode/restincode'>here</a>");
 					} else {
 						for (s=0; s<data.socialmedialinks.length; s++) {
 							var sitename = data.socialmedialinks[s]["sitename"];
@@ -62,7 +62,7 @@
 
 					// check for and then build contributions links list
 					if(data.contributions == "") {
-						$("#contributions-list").append("<li>No contributions have been submitted for this person.</li>");
+						$("#contributions-list").append("<li>No contributions have been submitted for this person. Submit <a href='https://github.com/restincode/restincode'>here</a></li>");
 					} else {
 						for (x=0; x<data.contributions.length; x++){
 							var title = data.contributions[x]["title"];
@@ -81,7 +81,7 @@
 					
 					// check for and then build photo gallery
 					if(data.gallery == "") {
-						$("#gallery").append("No images have been submitted for this person.");
+						$("#gallery").append("No images have been submitted for this person yet, please submit to:<a href='https://github.com/restincode/restincode/issues'>https://github.com/restincode/restincode/issues</a>");
 					} else {
 						for (i=0; i<data.gallery.length; i++){
 							var imgurl = data.gallery[i]["url"];
