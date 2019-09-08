@@ -24,8 +24,5 @@ Are we missing someone? Please make an issue on our Github page: [https://github
 - [Sassaman, Len](/memorials/sassaman-len.md)
 - [Smith, Brad (Nurse)](/memorials/smith-brad.md)
 - [Stuart, Jonathan (dent1zt)](/memorials/stuart-jonathan.md)
-- [Rogers, Joe (Selir)](/memorials/rogers-joe.md)
-- [Sassaman, Len](/memorials/sassaman-len.md)
-- [Smith, Brad (Nurse)](/memorials/smith-brad.md)
 - [Swartz, Aaron](/memorials/swartz-aaron.md)
 - [Wright, Christian (Curiosity)](/memorials/wright-christian.md)
