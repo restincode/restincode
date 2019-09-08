@@ -1,6 +1,6 @@
 # Memorials List (in alphabetical order)
 
-Are we missing someone? Please make an issue on our Github page: [https://github.com/mubix/restincode/issues](https://github.com/mubix/restincode/issues) and we will add them to the list. Please give as much detail as possible.
+Are we missing someone? Please make an issue on our Github page: [https://github.com/restincode/restincode/issues](https://github.com/mubix/restincode/issues) and we will add them to the list. Please give as much detail as possible.
 
 - [Ashby, Robert Conner (Poolboy)](/memorials/ashby-robert-conner.md)
 - [Assante, Mike](/memorials/assante-mike.md)
