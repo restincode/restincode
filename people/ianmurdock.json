@@ -1,0 +1,18 @@
+{
+	"firstname" : "Ian",
+	"lastname" : "Murdock",
+	"handle" : "",
+	"birth" : "1973",
+	"death" : "2015",
+	"mainimage" : "/images/Ian_Murdock.jpg",
+	"maintext" : "<p>While a college student, Murdock founded the Debian project in August 1993, and wrote the Debian Manifesto in January 1994. Murdock conceived Debian as a Linux distribution that embraced open design, contributions, and support from the free software community. He named Debian after his then-girlfriend (later wife) Debra Lynn, and himself (Deb and Ian). They later married, had three children, and divorced in January 2008. In January 2006, Murdock was appointed Chief Technology Officer of the Free Standards Group and elected chair of the Linux Standard Base workgroup. He continued as CTO of the Linux Foundation when the group was formed from the merger of the Free Standards Group and Open Source Development Labs.</p>",
+	"socialmedialinks" : "",
+	"contributions" : [
+		{
+			"title" : "Debian",
+			"url" : "https://en.wikipedia.org/wiki/Debian",
+			"description" : "Debian (/ˈdɛbiən/) is a Unix-like operating system composed of free and open-source software. Ian Murdock founded the Debian Project on August 16, 1993."
+		}
+	],
+	"gallery" : ""
+}
