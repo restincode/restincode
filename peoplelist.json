@@ -29,6 +29,10 @@
 			"filename" : "lensassaman"
 		},
 		{
+			"displayname" : "Maxx Redwine",
+			"filename" : "maxxredwine"
+		},
+		{
 			"displayname" : "Aaron Swartz",
 			"filename" : "aaronswartz"
 		},
@@ -69,8 +73,12 @@
 			"filename" : "joerogers"
 		},
 		{
-			"displayname" : "Obseques de Paolo",
-			"filename" : "obsequesdepaolo"
+			"displayname" : "Obsèques de Paolo",
+			"filename" : "obsèquesdepaolo"
+		},
+		{
+			"displayname" : "Ryan Van Der Wall",
+			"filename" : "ryanvanderwall"
 		},
 		{
 			"displayname" : "Mike Kemp (ClappyMonkey)",
@@ -83,6 +91,10 @@
 		{
 			"displayname" : "Karl Koch",
 			"filename" : "karlkoch"
+		},
+		{
+			"displayname" : "Kris Kaspersky",
+			"filename" : "kriskaspersky"
 		},
 		{
 			"displayname" : "Boris Floricic (Tron)",
