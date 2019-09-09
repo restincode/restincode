@@ -1,0 +1,23 @@
+{
+	"firstname" : "Jonathan",
+	"lastname" : "Stuart",
+	"handle" : "dent1zt",
+	"birth" : "",
+	"death" : "",
+	"mainimage" : "/images/Jonathan_Stuart.jpeg",
+	"maintext" : "<p>Jonathan Stuart is an independant security researcher and Hacker. He has been in the field for 12 years. He has committed to various open source operating systems, is a BSD/UNIX kernel engineer, and has spoken at Arizona State University to a group of graduate CS students, ReCon (twice before), and trained at BlackHat on telephony related hacking. He started his career at Entercept and until recently worked on a research team at McAfee. He likes firmware reverse engineering, C code and assembly for dozens of architectures, and long walks on the beach hand in hand with beautiful intelligent brunettes.</p>",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/dent1zt"
+		}
+	],
+	"contributions" : [
+		{
+			"title" : "Recon 2012 Speaker",
+			"url" : "https://recon.cx/2012/schedule/events/251.en.html",
+			"description" : "Reversing Point-of-Sale Systems: Potential Vulnerabilities in Transactions"
+		}
+	],
+	"gallery" : ""
+}

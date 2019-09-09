@@ -1,0 +1,23 @@
+{
+	"firstname" : "Len",
+	"lastname" : "Sassaman",
+	"handle" : "",
+	"birth" : "1980",
+	"death" : "2011",
+	"mainimage" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Len_Sassaman_27C3.jpg/1024px-Len_Sassaman_27C3.jpg",
+	"maintext" : "<p>Sassaman was a well-known cypherpunk, cryptographer and privacy advocate. He worked for Network Associates on the PGP encryption software, was a member of the Shmoo Group, a contributor to the OpenPGP IETF working group, the GNU Privacy Guard project, and frequently appeared at technology conferences like DEF CON. Sassaman was the co-founder of CodeCon along with Bram Cohen, co-founder of the HotPETS workshop (with Roger Dingledine of Tor and Thomas Heydt-Benjamin), co-author of the Zimmermann–Sassaman key-signing protocol, and at the age of 21, was an organizer of the protests following the arrest of Russian programmer Dmitry Sklyarov.</p>",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Wikipedia",
+			"siteurl" : "https://en.wikipedia.org/wiki/Len_Sassaman"
+		}
+	],
+	"contributions" : "",
+	"gallery" : [
+		{
+			"url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Len_Sassaman_27C3.jpg/1024px-Len_Sassaman_27C3.jpg",
+			"title" : "Len Sassaman at the 27th Chaos Communication Congress",
+			"caption" : "By Alexander Klink - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12477326"
+		}
+	]
+}

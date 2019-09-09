@@ -6,7 +6,7 @@
 		},
 		{
 			"displayname" : "David Jones (Rance)",
-			"filename" : ""
+			"filename" : "davidjones"
 		},
 		{
 			"displayname" : "Terrence Gareau (Tuna)",
@@ -14,23 +14,27 @@
 		},
 		{
 			"displayname" : "Jon Hart",
-			"filename" : ""
+			"filename" : "jonhart"
 		},
 		{
 			"displayname" : "Barnaby Jack",
-			"filename" : ""
+			"filename" : "barnabyjack"
 		},
 		{
 			"displayname" : "Brad Smith (Nurse)",
-			"filename" : ""
+			"filename" : "bradsmith"
 		},
 		{
 			"displayname" : "Len Sassaman",
-			"filename" : ""
+			"filename" : "lensassaman"
+		},
+		{
+			"displayname" : "Maxx Redwine",
+			"filename" : "maxxredwine"
 		},
 		{
 			"displayname" : "Aaron Swartz",
-			"filename" : ""
+			"filename" : "aaronswartz"
 		},
 		{
 			"displayname" : "Mike Assante",
@@ -38,15 +42,15 @@
 		},
 		{
 			"displayname" : "Christian Wright (Curiosity)",
-			"filename" : ""
+			"filename" : "christianwright"
 		},
 		{
 			"displayname" : "Josh Cohen (PacBell)",
-			"filename" : ""
+			"filename" : "joshcohen"
 		},
 		{
 			"displayname" : "Robert Conner Ashby (Poolboy)",
-			"filename" : ""
+			"filename" : "robertashby"
 		},
 		{
 			"displayname" : "Branden Hancock (Ghent)",
@@ -54,35 +58,43 @@
 		},
 		{
 			"displayname" : "Joe Engressia (Joybubbles)",
-			"filename" : ""
+			"filename" : "joeengressia"
 		},
 		{
 			"displayname" : "Gary James (Turb1n3)",
-			"filename" : ""
+			"filename" : "garyjames"
 		},
 		{
 			"displayname" : "Michael Hamelin (Hacker Joe)",
-			"filename" : ""
+			"filename" : "michaelhamelin"
 		},
 		{
 			"displayname" : "Joe Rogers (Selir)",
-			"filename" : ""
+			"filename" : "joerogers"
 		},
 		{
-			"displayname" : "Obseques de Paolo",
-			"filename" : ""
+			"displayname" : "Obsèques de Paolo",
+			"filename" : "obsèquesdepaolo"
+		},
+		{
+			"displayname" : "Ryan Van Der Wall",
+			"filename" : "ryanvanderwall"
 		},
 		{
 			"displayname" : "Mike Kemp (ClappyMonkey)",
-			"filename" : ""
+			"filename" : "mikekemp"
 		},
 		{
-			"displayname" : "Arjen Kamphius",
-			"filename" : ""
+			"displayname" : "Arjen Kamphuis",
+			"filename" : "arjenkamphuis"
 		},
 		{
 			"displayname" : "Karl Koch",
-			"filename" : ""
+			"filename" : "karlkoch"
+		},
+		{
+			"displayname" : "Kris Kaspersky",
+			"filename" : "kriskaspersky"
 		},
 		{
 			"displayname" : "Boris Floricic (Tron)",
@@ -90,11 +102,11 @@
 		},
 		{
 			"displayname" : "Ian Murdock",
-			"filename" : ""
+			"filename" : "ianmurdock"
 		},
 		{
 			"displayname" : "Jaime Cochran (ACKFlags)",
-			"filename" : ""
+			"filename" : "jaimecochran"
 		},
 		{
 			"displayname" : "Rebecca Bace",
@@ -102,19 +114,19 @@
 		},
 		{
 			"displayname" : "Bret Mattingly (Delta)",
-			"filename" : ""
+			"filename" : "bretmattingly"
 		},
 		{
 			"displayname" : "Ben Byer (bushing)",
-			"filename" : ""
+			"filename" : "benbyer"
 		},
 		{
 			"displayname" : "Jonathan Stuart (dent1zt)",
-			"filename" : ""
+			"filename" : "jonathanstuart"
 		},
 		{
 			"displayname" : "Geoffrey Bennett",
-			"filename" : ""
+			"filename" : "geoffreybennett"
 		},
 		{
 			"displayname" : "Nick Jeremicah (Dr.Nick2000)",
