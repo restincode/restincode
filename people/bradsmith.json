@@ -4,24 +4,14 @@
 	"handle" : "Nurse",
 	"birth" : "",
 	"death" : "2011",
-	"mainimage" : "https://scontent.faus1-1.fna.fbcdn.net/v/t1.0-9/383907_243092799081415_2065644316_n.jpg?_nc_cat=108&_nc_oc=AQmpV52W7WyloJencX1_mzD2jyPURerWFVcjtxiVksvWrL3HXH91T8jsggPS7PPqqvY&_nc_ht=scontent.faus1-1.fna&oh=b77d4ba07ba2560cc9ca0a26e7c3e4f8&oe=5DF24B43",
+	"mainimage" : "/images/Brad-Smith.jpg",
 	"maintext" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit nisi eveniet expedita quo enim porro quia eaque at rerum. Eum ullam, sequi temporibus magnam optio dolorum at, id quod totam?</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque perferendis quos facere. Aspernatur dolorum vitae sunt eum, dolores debitis repellat neque inventore pariatur at sed distinctio, maiores quas numquam repellendus.</p>",
 	"socialmedialinks" : [
 		{
 			"sitename" : "Facebook Memorial",
 			"siteurl" : "https://www.facebook.com/Remembering-Brad-Smith-The-Nurse-243091789081516/"
-		},
-		{
-			"sitename" : "Other",
-			"siteurl" : "https://about.me/"
 		}
 	],
-	"contributions" : [
-		{
-			"title" : "[project name]",
-			"url" : "htps://www.cyberz.tech/",
-			"description" : "Research paper on [project name]. As part of a team studying lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quibusdam, officia eos."
-		}
-	],
+	"contributions" : "",
 	"gallery" : ""
 }

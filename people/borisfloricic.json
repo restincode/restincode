@@ -5,7 +5,7 @@
 	"birth" : "1972",
 	"death" : "1998",
 	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "<p>Boris Floricic, better known by his pseudonym Tron (8 June 1972 â€“ 17 October 1998), was a German hacker and phreaker whose death in unclear circumstances has led to various conspiracy theories. He is also known for his Diplom thesis presenting one of the first public implementations of a telephone with built-in voice encryption, the 'Cryptophon'.</p><p>Floricic's pseudonym was a reference to the eponymous character in the 1982 Disney film Tron. Floricic was interested in defeating computer security mechanisms; amongst other hacks, he broke the security of the German phonecard and produced working clones. He was subsequently sentenced to 15 months in jail for the physical theft of a public phone (for reverse engineering purposes) but the sentence was suspended to probation.</p>",
+	"maintext" : "<p>Boris Floricic, better known by his pseudonym Tron, was a German hacker and phreaker whose death in unclear circumstances has led to various conspiracy theories. He is also known for his Diplom thesis presenting one of the first public implementations of a telephone with built-in voice encryption, the 'Cryptophon'.</p><p>Floricic's pseudonym was a reference to the eponymous character in the 1982 Disney film Tron. Floricic was interested in defeating computer security mechanisms; amongst other hacks, he broke the security of the German phonecard and produced working clones. He was subsequently sentenced to 15 months in jail for the physical theft of a public phone (for reverse engineering purposes) but the sentence was suspended to probation.</p>",
 	"socialmedialinks" : [
 		{
 			"sitename" : "Twitter",
