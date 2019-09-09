@@ -11,8 +11,6 @@
 
 ## Social Media
 
-- Twitter - [@kingtuna](https://github.com/kingtuna)
-
 ## Comments
 
 > Lorem Ipsum - Rob Fuller
