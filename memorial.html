@@ -55,7 +55,7 @@
 						for (s=0; s<data.socialmedialinks.length; s++) {
 							var sitename = data.socialmedialinks[s]["sitename"];
 							var siteurl = data.socialmedialinks[s]["siteurl"];
-							var social = "<a href'"+siteurl+"'>"+sitename+"</a></br />";
+							var social = '<a href="' + siteurl + '">' + sitename + '</a></br />';
 							$("#social-media").append(social);
 						}
 					}
