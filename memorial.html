@@ -81,7 +81,7 @@
 					
 					// check for and then build photo gallery
 					if(data.gallery == "") {
-						$("#gallery").append("No images have been submitted for this person yet, please submit to:<a href='https://github.com/restincode/restincode/issues'>https://github.com/restincode/restincode/issues</a>");
+						$("#nogallery").append("No images have been submitted for this person yet, please submit to the <a href='https://github.com/restincode/restincode/issues'>Github RestInCode issues tracker</a>");
 					} else {
 						for (i=0; i<data.gallery.length; i++){
 							var imgurl = data.gallery[i]["url"];
@@ -130,6 +130,7 @@
 				
 				<hr />
 				<h3>Gallery</h3>
+				<div id="nogallery">
 				<div id="gallery">
 
 				</div>
