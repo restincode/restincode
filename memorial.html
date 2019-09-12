@@ -35,6 +35,11 @@
 					$("#memorial-name").append(fullname);
 					$(".birth").append(data.birth);
 					$(".death").append(data.death);
+					if(data.obituary == null || data.obituary == "") {
+						$(".obituary").append("");
+					} else {
+						$(".obituary").append('<a href="' + data.obituary + '">Obituary</a>');
+					}
 					// is there a main image value?
 					if(data.mainimage == "") {
 						$(".memorial-main-image").attr("src", "//restincode.com/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
@@ -46,7 +51,7 @@
 						$("#memorial-text").append("<p>No description has been submitted for this person.</p>");
 					} else {
 						$("#memorial-text").append(data.maintext);
-					}
+					}``
 					
 					// check for and then build social media links list
 					if(data.socialmedialinks == "") {
@@ -112,6 +117,7 @@
 					<!-- Info at a glance -->
 					<p class="birth">Born: </p>
 					<p class="death">Died: </p>
+					<p class="obituary"></p>
 					<!-- Links -->
 					<div id="social-media">
 					<h4>Social Media</h4>
