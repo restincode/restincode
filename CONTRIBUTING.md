@@ -34,13 +34,6 @@ The majority of new GitHub Issues will be used to add new individuals to Rest In
 
 Verify there are no duplicate Issues for this name or handle. If there are, attempt to merge their contents and apply appropriate labels.
 
-#### Using Labels
-
-* **Add Person** - If this is a new person who doesn't exist in people/, apply this label to identify the need for them to be added. This should be removed after the person has been successfully added to RiC.
-* **Add Data** - If this is new data for an existing person, this label should be applied to the existing Issue for that person. This should be removed once the new data has been added to the person in RiC.
-* **People** - This is a pemament label that will always be applied and never removed from an Issue that represents a person.
-* **Person Added** - This label should be applied after the person has been added to people/. The issue should remain Open for additional changes, but this label represents that the individual has been added to RiC.
-
 ### Triaging a Pull Request
 
 Pull requests could be anything from People, new data, code changes, web site changes, documentation or more. Applying the appropriate labels will be most important to ensuring they are handled correctly.
@@ -49,7 +42,7 @@ Pull requests could be anything from People, new data, code changes, web site ch
 
 The big thing to look for will be that the persons name is spelled correctly in all places (people/<name>.json, inside the name.json, in the peoplelist.json, images/<name>.(jpg|png), etc). This name should match in all places. Verify any social media links, references, or other URLs that may wind up on the final memorial are working and go where expected.
 
-#### Using Labels
+### Using Labels
 
 * **Add Person** - This shows that the PR is to add a new person to the RiC project.
 * **Add Data** - This shows that the PR is to add additional data, such as contributions or images to an existing person.
