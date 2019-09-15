@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet. We leave this here for the thoughts we want to conve
 
 This project is intended to be open to all and a true community effort. Everyone should feel empowered to contribute additional photos, blogs, talks, papers, research, etc for individuals listed. 
 
-Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md) guide for instructions on how to help this project.
+Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md) guide for instructions on how to help this project grow.
