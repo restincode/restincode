@@ -47,6 +47,8 @@ Pull requests could be anything from People, new data, code changes, web site ch
 
 #### What to look for
 
+The big thing to look for will be that the persons name is spelled correctly in all places (people/<name>.json, inside the name.json, in the peoplelist.json, images/<name>.(jpg|png), etc). This name should match in all places. Verify any social media links, references, or other URLs that may wind up on the final memorial are working and go where expected.
+
 #### Using Labels
 
 * **Work in Progress** - This should be applied if the pull request should NOT be accepted in its current state. This is for WIP PR's that require more work from the contributor
