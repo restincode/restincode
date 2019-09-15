@@ -34,9 +34,9 @@ The majority of new GitHub Issues will be used to add new individuals to Rest In
 
 Verify there are no duplicate Issues for this name or handle. If there are, attempt to merge their contents and apply appropriate labels.
 
-### Triaging a Pull Request
+### Triaging a Pull Request (PR)
 
-Pull requests could be anything from People, new data, code changes, web site changes, documentation or more. Applying the appropriate labels will be most important to ensuring they are handled correctly.
+Pull requests (PR) could be anything from People, new data, code changes, web site changes, documentation or more. Applying the appropriate labels will be most important to ensuring they are handled correctly.
 
 #### What to look for
 
@@ -44,14 +44,14 @@ The big thing to look for will be that the persons name is spelled correctly in 
 
 ### Using Labels
 
-* **Add Person** - This shows that the PR is to add a new person to the RiC project.
-* **Add Data** - This shows that the PR is to add additional data, such as contributions or images to an existing person.
+* **Add Person** - This shows that the PR or Issue is to add a new person to the RiC project. Should be replaced by "Person Added" once the work is completed.
+* **Add Data** - This shows that the PR or Issue is to add additional data, such as contributions or images to an existing person.
 * **BUG** - A bug in the actual website/github config/or jsons.
 * **Code** - A change to the actual code for this website.
 * **Ideas** - A proposed idea or change to the project, website, templates, or other materials.
-* **Needs Review** - This PR requires a Maintainer to review the changes and ensure that everything looks appropriate and up to standards.
-* **People** - This represents an Issue or PR that is specifically about a person in the memorial.
+* **Needs Review** - This PR or Issue requires a Maintainer to review the changes and ensure that everything looks appropriate and up to standards.
+* **People** - This represents a PR or Issue that is specifically about a person in the memorial.
 * **Person Added** - This represents a person who's been added (a json created) to the memorial. Should be applied after the work is complete, and should replace the "Add Person" tag.
-* **Project** - Used to identify issues or PRs that relate to the RiC project and not any of the people within it.
+* **Project** - Used to identify PRs or Issues that relate to the RiC project and not any of the people within it.
 * **Task** - A basic task being requested. This could fall within project, code, bug, or other non people focussed work.
-* **Work in Progress** - This will be applied if the pull request (PR) should **NOT** be accepted in its current state. This is for work-in progress PR's that require more work from the contributor.
+* **Work in Progress** - This will be applied if the PR or Issue should **NOT** be accepted in its current state. This is for work-in progress PR's that require more work from the contributor.
