@@ -36,11 +36,11 @@ Verify there are no duplicate Issues for this name or handle. If there are, atte
 
 ### Triaging a Pull Request (PR)
 
-Pull requests (PR) could be anything from People, new data, code changes, web site changes, documentation or more. Applying the appropriate labels will be most important to ensuring they are handled correctly.
+PRs could be anything from People, new data, code changes, web site changes, documentation or more. Applying the appropriate labels will be most important to ensuring they are handled correctly.
 
 #### What to look for
 
-The big thing to look for will be that the persons name is spelled correctly in all places (people/<name>.json, inside the name.json, in the peoplelist.json, images/<name>.(jpg|png), etc). This name should match in all places. Verify any social media links, references, or other URLs that may wind up on the final memorial are working and go where expected.
+The big thing to look for will be that the persons name is spelled correctly in all places (people/.json, inside the name.json, in the peoplelist.json, images/.(jpg|png), etc). This name should match in all places. Verify any social media links, references, or other URLs that may wind up on the final memorial are working and go where expected. In addition to submitting links to us, please use [archive.org](https://archive.org) and/or [archive.today](https://archive.today/) to preserve the content.
 
 ### Using Labels
 
