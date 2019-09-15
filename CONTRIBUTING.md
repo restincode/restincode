@@ -28,7 +28,7 @@ Maintainers are the people who have commit access to the RestInCode repository a
 
 ### Triaging a new Issue
 
-The majority of new issues will be to add new individuals to RiC. Their subject will be a real name and/or a handle. 
+The majority of new issues will be to add new individuals to RiC. Their subject will be a real name and/or a handle. **An Issue to add a person should never be closed**. It will be used long-term to add new data and discuss the current memorial of this individual. Use labels to identify what work if any needs to be completed on the current Issue/person.
 
 #### What to look for
 
@@ -51,7 +51,7 @@ The big thing to look for will be that the persons name is spelled correctly in 
 
 #### Using Labels
 
-* **Work in Progress** - This should be applied if the pull request should NOT be accepted in its current state. This is for WIP PR's that require more work from the contributor
+* **Work in Progress** - This should be applied if the pull request should **NOT** be accepted in its current state. This is for WIP PR's that require more work from the contributor
 * **Needs Review** - This PR requires a Maintainer to review the changes and ensure that everything looks appropriate and up to standards
 * **Add Person** - This shows that the PR is to add a new person to the RiC project
 * **Add Data** - This shows that the PR is to add additional Data, such as contributions, images, etc, to an existing person
