@@ -35,7 +35,13 @@
 					$("#memorial-name").append(fullname);
 					$(".birth").append(data.birth);
 					$(".death").append(data.death);
-					$(".affiliations").append(data.affiliations);
+
+					// is there an affiliations value?
+					if(data.affiliations == null || data.affiliations == "") {
+						$(".affiliations").append("None");
+					} else {
+						$(".affiliations").append(data.affiliations);
+					}
 					if(data.obituary == null || data.obituary == "") {
 						$(".obituary").append("");
 					} else {
