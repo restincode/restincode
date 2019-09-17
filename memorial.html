@@ -39,7 +39,7 @@
 					if(data.obituary == null || data.obituary == "") {
 						$(".obituary").append("");
 					} else {
-						$(".obituary").append('<a href="' + data.obituary + '">Obituary</a>');
+						$(".obituary").append('<a href="' + data.obituary + '"><b>Obituary</b></a>');
 					}
 					// is there a main image value?
 					if(data.mainimage == "") {
@@ -118,8 +118,8 @@
 					<!-- Info at a glance -->
 					<p class="birth"><b>Born:</b> </p>
 					<p class="death"><b>Died:</b> </p>
-					<p class="obituary"></p>
 					<p class="affiliations"><b>Affiliations:</b> </br></p>
+					<p class="obituary"></p>
 					<!-- Links -->
 					<div id="social-media">
 					<h4>Social Media</h4>
