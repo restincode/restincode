@@ -58,7 +58,7 @@ main#homepage-content {
 	min-height: 500px;
 }
 
-nav { 
+nav {
 	grid-row: 1 / 3;
 	border: 1px solid #ededed;
 	margin-right: 25px;
@@ -101,7 +101,7 @@ aside h4 {
 }
 .memorial-gallery figcaption {
 	font-variant: small-caps;
-}	
+}
 
 
 footer {
@@ -113,7 +113,7 @@ footer {
 	text-align: right;
 }
 a.btn-main-back {
-	display: inline; 
+	display: inline;
 	float: left;
 	color:#fff;
 	font-weight: bolder;
