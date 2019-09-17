@@ -1,0 +1,49 @@
+{
+	"firstname" : "Steve",
+	"lastname" : "Kirk",
+	"handle" : "Lockheed",
+	"birth" : "",
+	"death" : "2019",
+	"obituary" : "",
+	"mainimage" : "http://gallery.random-ether.net/_data/i/galleries/Lock/IMG_6863-me.JPG",
+	"maintext" : "He was one of only a few folks who has ever lead the DEFCON NOC, and was the COO of DEFCON for a term before Speedrussr took over.",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/TheLockheed"
+		},
+		{
+			"sitename" : "Website",
+			"siteurl" : "http://www.random-ether.net"
+		}
+	],
+	"contributions" : [
+		{
+			"title" : "DEF CON NOC",
+			"url" : "https://www.defconnetworking.org/",
+			"description" : "Lockheed lead the DEF CON NOC team for a number of years, providing leadership and guidance as the conference grew to unimaginable capacity."
+		}
+	],
+	"gallery" : [
+		{
+			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/Lock-2011-08-04-101x09-me.JPG",
+			"title" : "Lockheed DEF CON",
+			"caption" : "Lockheed DEF CON"
+		},
+		{
+			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/Lock_2010-30-30-me.jpg",
+			"title" : "Lockheed Motorcycle",
+			"caption" : "Lockheed Motorcycle"
+		},
+		{
+			"url" : "http://gallery.random-ether.net/galleries/Lock/Stonewall_Peak_DSC_0363.jpg",
+			"title" : "Lockheed Stonewall Peak",
+			"caption" : "Lockheed Stonewall Peak"
+		},
+		{
+			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/skirk_igparty06-me.jpg",
+			"title" : "Lockheed IG Party",
+			"caption" : "Lockheed IG Party"
+		}
+	]
+}
