@@ -35,6 +35,7 @@
 					$("#memorial-name").append(fullname);
 					$(".birth").append(data.birth);
 					$(".death").append(data.death);
+					$(".affiliations").append(data.affiliations);
 					if(data.obituary == null || data.obituary == "") {
 						$(".obituary").append("");
 					} else {
@@ -115,9 +116,10 @@
 
 				<aside>
 					<!-- Info at a glance -->
-					<p class="birth">Born: </p>
-					<p class="death">Died: </p>
+					<p class="birth"><b>Born:</b> </p>
+					<p class="death"><b>Died:</b> </p>
 					<p class="obituary"></p>
+					<p class="affiliations"><b>Affiliations:</b> </br></p>
 					<!-- Links -->
 					<div id="social-media">
 					<h4>Social Media</h4>
