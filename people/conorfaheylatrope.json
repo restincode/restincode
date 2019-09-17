@@ -1,0 +1,30 @@
+{
+	"firstname" : "Conor",
+	"lastname" : "Fahey-Latrope",
+	"handle" : "Conor Pot Pie",
+	"birth" : "",
+	"death" : "",
+	"obituary" : "",
+	"mainimage" : "https://pbs.twimg.com/media/BRWaLcJCMAAe7UQ?format=jpg&name=medium",
+	"maintext" : "",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/conorpotpie"
+		}
+	],
+	"contributions" : [
+	],
+	"gallery" : [
+		{
+			"url" : "https://pbs.twimg.com/media/BQDuGHjCIAE3b2l?format=jpg&name=small",
+			"title" : "Conor and bird",
+			"caption" : "Conor and bird"
+		},
+		{
+			"url" : "https://pbs.twimg.com/media/BY8D-dbCAAA35UO?format=jpg&name=4096x4096",
+			"title" : "Conor and son, Finn",
+			"caption" : "Conor and son, Finn"
+		}
+	]
+}
