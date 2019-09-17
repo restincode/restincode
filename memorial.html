@@ -35,18 +35,22 @@
 					$("#memorial-name").append(fullname);
 					$(".birth").append(data.birth);
 					$(".death").append(data.death);
+					$(".issue").append(data.issue);
 
-					// is there an affiliations value?
-					if(data.affiliations == null || data.affiliations == "") {
-						$(".affiliations").append("None");
-					} else {
-						$(".affiliations").append(data.affiliations);
-					}
+					// is there an obituary value?
 					if(data.obituary == null || data.obituary == "") {
 						$(".obituary").append("");
 					} else {
-						$(".obituary").append('<a href="' + data.obituary + '"><b>Obituary</b></a>');
+						$(".obituary").append('<a href="' + data.obituary + '">Obituary</a>');
 					}
+
+					// is there an issue value?
+					if(data.issue == null || data.issue == "") {
+						data.issue = "https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md";
+					} else {
+						data.issue = "https://github.com/restincode/restincode/issues/" + data.issue
+					}
+					
 					// is there a main image value?
 					if(data.mainimage == "") {
 						$(".memorial-main-image").attr("src", "/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
@@ -54,15 +58,16 @@
 						$(".memorial-main-image").attr("src", data.mainimage).attr("alt", "Main photo of "+fullname);
 					}
 
+					// is there a maintext value?
 					if(data.maintext == "") {
-						$("#memorial-text").append("<p>No information has been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a></p>");
+						$("#memorial-text").append("<p>No information has been submitted for this person. Help us by submitting <a href='" + data.issue + "'>here.</a>");
 					} else {
 						$("#memorial-text").append(data.maintext);
 					}``
 					
 					// check for and then build social media links list
 					if(data.socialmedialinks == "") {
-						$("#social-media").append("No social media links have been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a>");
+						$("#social-media").append("No social media links have been submitted for this person. Help us by submitting <a href='" + data.issue + "'>here.</a>");
 					} else {
 						for (s=0; s<data.socialmedialinks.length; s++) {
 							var sitename = data.socialmedialinks[s]["sitename"];
@@ -74,7 +79,7 @@
 
 					// check for and then build contributions links list
 					if(data.contributions == "") {
-						$("#contributions-list").append("<li>No contributions have been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a></li>");
+						$("#contributions-list").append("<li>No contributions have been submitted for this person. Help us by submitting <a href='" + data.issue + "'>here.</a>");
 					} else {
 						for (x=0; x<data.contributions.length; x++){
 							var title = data.contributions[x]["title"];
@@ -93,7 +98,7 @@
 					
 					// check for and then build photo gallery
 					if(data.gallery == "") {
-						$("#nogallery").append("No images have been submitted for this person yet, please submit to the <a href='https://github.com/restincode/restincode/issues'>Github RestInCode issues tracker</a>");
+						$("#nogallery").append("No images have been submitted for this person yet. Help us by submitting <a href='" + data.issue + "'>here.</a>");
 					} else {
 						for (i=0; i<data.gallery.length; i++){
 							var imgurl = data.gallery[i]["url"];
@@ -122,9 +127,8 @@
 
 				<aside>
 					<!-- Info at a glance -->
-					<p class="birth"><b>Born:</b> </p>
-					<p class="death"><b>Died:</b> </p>
-					<p class="affiliations"><b>Affiliations:</b> </br></p>
+					<p class="birth">Born: </p>
+					<p class="death">Died: </p>
 					<p class="obituary"></p>
 					<!-- Links -->
 					<div id="social-media">
