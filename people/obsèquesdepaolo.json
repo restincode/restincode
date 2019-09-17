@@ -5,7 +5,11 @@
 	"birth" : "",
 	"death" : "",
 	"mainimage" : "/images/face-silhouette-clipart.png",
+<<<<<<< HEAD
 	"maintext" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit nisi eveniet expedita quo enim porro quia eaque at rerum. Eum ullam, sequi temporibus magnam optio dolorum at, id quod totam?</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque perferendis quos facere. Aspernatur dolorum vitae sunt eum, dolores debitis repellat neque inventore pariatur at sed distinctio, maiores quas numquam repellendus.</p>",
+=======
+	"maintext" : "",
+>>>>>>> 8f2bc3818b2a3119fe26155a234b6002aec7e5d6
 	"socialmedialinks" : "",
 	"contributions" : "",
 	"gallery" : ""

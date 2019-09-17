@@ -42,20 +42,20 @@
 					}
 					// is there a main image value?
 					if(data.mainimage == "") {
-						$(".memorial-main-image").attr("src", "//restincode.com/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
+						$(".memorial-main-image").attr("src", "/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
 					} else {
 						$(".memorial-main-image").attr("src", data.mainimage).attr("alt", "Main photo of "+fullname);
 					}
 
 					if(data.maintext == "") {
-						$("#memorial-text").append("<p>No description has been submitted for this person.</p>");
+						$("#memorial-text").append("<p>No information has been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a></p>");
 					} else {
 						$("#memorial-text").append(data.maintext);
 					}``
 					
 					// check for and then build social media links list
 					if(data.socialmedialinks == "") {
-						$("#social-media").append("No social media links have been submitted for this person. Submit <a href='https://github.com/restincode/restincode'>here</a>");
+						$("#social-media").append("No social media links have been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a>");
 					} else {
 						for (s=0; s<data.socialmedialinks.length; s++) {
 							var sitename = data.socialmedialinks[s]["sitename"];
@@ -67,7 +67,7 @@
 
 					// check for and then build contributions links list
 					if(data.contributions == "") {
-						$("#contributions-list").append("<li>No contributions have been submitted for this person. Submit <a href='https://github.com/restincode/restincode'>here</a></li>");
+						$("#contributions-list").append("<li>No contributions have been submitted for this person. Help us by submitting <a href='https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md'>here.</a></li>");
 					} else {
 						for (x=0; x<data.contributions.length; x++){
 							var title = data.contributions[x]["title"];
