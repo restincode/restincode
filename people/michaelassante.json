@@ -3,7 +3,7 @@
 	"lastname" : "Assante",
 	"handle" : "",
 	"birth" : "",
-	"death" : "",
+	"death" : "2019",
 	"mainimage" : "https://images.idgesg.net/images/article/2019/06/mike-assante_cyber-security-guru_by-ryan-g-poirier-100799482-large.jpg",
 	"maintext" : "",
 	"socialmedialinks" : [
@@ -32,6 +32,11 @@
 			"title" : "No Grid Left Behind",
 			"url" : "https://ieeexplore.ieee.org/document/5403157",
 			"description" : "Michael Assante co-authored this document which was published in IEEE Security & Privacy Vol 8, Iss 1, Jan-Feb 2010"
+		},
+		{
+			"title" : "Mike Assante’s lasting impact on critical infrastructure security",
+			"url" : "https://www.csoonline.com/article/3403656/mike-assantes-lasting-impact-on-critical-infrastructure-security-and-me.html",
+			"description" : "Thanks to Mike Assante, critical infrastructure stakeholders have a better understanding of and ability to respond to cybersecurity risks."
 		}
 	],
 	"gallery" : ""
