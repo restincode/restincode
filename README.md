@@ -1,5 +1,7 @@
 # RestInCode (RIC)
 
+https://restincode.com
+
 ## A memorial site for Hackers and InfoSec people who have passed.
 
 RIC is a memorial site for Hackers and Information Security people who have passed. In a community and industry that many of us see as timeless, we are quickly learning that is not the reality, as our dear friends and colleagues more frequently move on. Our ideals, our research, and our spirit persists. Unfortunately, our human shells can't keep up sometimes. We seek to honor those who have touched security, technology, and our lives.
