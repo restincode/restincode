@@ -1,0 +1,20 @@
+{
+	"firstname" : "Bill",
+	"lastname" : "",
+	"handle" : "Wolfgame",
+	"birth" : "",
+	"death" : "2019",
+	"obituary" : "",
+	"mainimage" : "https://pbs.twimg.com/profile_images/449489264124760064/Ud1SaSmq_400x400.jpeg",
+	"maintext" : "25 years later, still Wolfgame.  IT Consultant, Cider Enthusiast, Vaper, Gamer, and cranky fucker with no time for your shit.",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/wolfgame"
+		}
+	],
+	"contributions" : [
+	],
+	"gallery" : [
+	]
+}
