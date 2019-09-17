@@ -1,0 +1,25 @@
+{
+	"firstname" : "Eric",
+	"lastname" : "Chavez",
+	"handle" : "",
+	"birth" : "",
+	"death" : "2019",
+	"obituary" : "",
+	"mainimage" : "https://d2g8igdw686xgo.cloudfront.net/40904686_1564344225505074_r.jpeg",
+	"maintext" : "",
+	"socialmedialinks" : [
+		{
+			"sitename" : "LinkedIn",
+			"siteurl" : "https://www.linkedin.com/in/chaveze/"
+		}
+	],
+	"contributions" : [
+	],
+	"gallery" : [
+		{
+			"url" : "https://media.licdn.com/dms/image/C4E03AQFEsS38AdFcrw/profile-displayphoto-shrink_800_800/0?e=1574294400&v=beta&t=IwAnHfhtvaigU09IkMOiYXT_vMOPU6RheG_SsU0v-2w",
+			"title" : "LinkedIn Profile Photo",
+			"caption" : "LinkedIn Profile Photo"
+		}
+	]
+}
