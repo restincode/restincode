@@ -1,19 +1,44 @@
 {
 	"firstname" : "Barnaby",
 	"lastname" : "Jack",
-	"handle" : "barnabyjack",
-	"birth" : "",
-	"death" : "",
+	"handle" : "",
+	"birth" : "1977",
+	"death" : "2013",
+	"issue" : "4",
 	"mainimage" : "/images/y3t1_Art-Barnaby_Jack.png",
-	"maintext" : "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit nisi eveniet expedita quo enim porro quia eaque at rerum. Eum ullam, sequi temporibus magnam optio dolorum at, id quod totam?</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eaque perferendis quos facere. Aspernatur dolorum vitae sunt eum, dolores debitis repellat neque inventore pariatur at sed distinctio, maiores quas numquam repellendus.</p>",
+	"maintext" : "",
 	"socialmedialinks" : [
 		{
 			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/barnabyjack"
+			"siteurl" : "https://www.twitter.com/barnaby_jack"
+		},
+		{
+			"sitename" : "Wikipedia",
+			"siteurl" : "https://en.wikipedia.org/wiki/Barnaby_Jack"
 		}
 	],
 	"contributions" : [
+		{
+			"title" : "ATM Jackpotting (The Register)",
+			"url" : "https://www.theregister.co.uk/2010/07/28/atm_hacking_demo/",
+			"description" : "At the Black Hat security conference in Las Vegas, Barnaby Jack, a security researcher with IOActive, demonstrated attacks against two unpatched models from two of the world's biggest ATM makers."
+		},
+		{
+			"title" : "Broken Hearts (IOActive)",
+			"url" : "https://ioactive.com/broken-hearts-how-plausible-was-the-homeland-pacemaker-hack/",
+			"description" : "In 2012 Jack demonstrated the ability to assassinate a victim by hacking their pacemaker."
+		}
 	],
 	"gallery" : [
+		{
+			"url" : "https://bauerfrodouat-cdn.azureedge.net/uploads/04ab1567-c8b7-40bb-98b2-d189fda6adc1-MT0314_Barnes08.jpg",
+			"title" : "Barnaby Jack at the 2010 Black Hat convention",
+			"caption" : "The showman and the cash-spewing ATMs: Barnaby Jack at the 2010 Black Hat convention."
+		},
+		{
+			"url" : "https://www.mercurynews.com/wp-content/uploads/2016/08/20130726__0727jack1-1.jpg?w=600",
+			"title" : "Barnaby Jack shows one of his two ATM machines",
+			"caption" : "Barnaby Jack shows one of his two ATM machines he bought on line and has hacked into, at his San Jose home on Tuesday, Aug. 31, 2010."
+		}
 	]
 }
