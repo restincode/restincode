@@ -1,5 +1,5 @@
 ---
-name: Add New person to site
+name: Add New Person to Site
 about: Request the addition of a person to this memorial site
 title: ''
 labels: Add Person, Needs Review
