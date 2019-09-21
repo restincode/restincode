@@ -8,7 +8,7 @@ Contributors are the public community members who do not have specific access to
 
 ### Adding a new person
 
-Please use one of our <a href="https://github.com/restincode/restincode/issues/new/choose">existing templates</a> to open an issue for the following:
+Verify that an Issue [does not already exist](https://github.com/restincode/restincode/issues) for the individual you with so submit. Once you've made sure, please use one of our <a href="https://github.com/restincode/restincode/issues/new/choose">existing templates</a> to open an issue for the following:
 
 * Add Data to Existing Person
 * Add New Person to site
