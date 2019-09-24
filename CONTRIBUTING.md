@@ -1,21 +1,26 @@
 # How to contribute
 
-This project is intended to be open to all and a true community effort. Everyone should feel empowered to contribute additional photos, blogs, talks, papers, research, etc for individuals listed.
+This project is intended to be open to all and a true community effort. Everyone should feel empowered to contribute additional photos, blogs, talks, papers, research, etc for individuals listed on the project.
 
 ## Contributors
 
-Contributors are the public community members who do not have specific access to the RestInCode repository. This would be the majority of people who want to help contribute.
+Contributors are the public community members who do not have specific access to the RestInCode (RiC) repository. This would be the majority of people who want to help contribute.
 
-### Adding new content
+### Adding new people
 
-Verify that an Issue [does not already exist](https://github.com/restincode/restincode/issues) for the individual you with so submit. Once you've made sure, please use one of our <a href="https://github.com/restincode/restincode/issues/new/choose">existing templates</a> to open an issue for the following:
+Verify that an Issue [does not already exist](https://github.com/restincode/restincode/issues) for the individual you wish so submit. Once you've made sure, please use one of our <a href="https://github.com/restincode/restincode/issues/new/choose">existing templates</a> to open an issue for the following:
 
-* Add Data to Existing Person
-* Add New Person to site
+* Add New Person to Site
 * Bug report
 * Feature request
 
 Alternatively you can open a <a href="https://github.com/restincode/restincode/issues/new">regular issue</a> or you can also choose to submit the json file (located in [people/](https://github.com/restincode/restincode/tree/master/people)) directly (via a pull request). If you wish to submit your own json, please utilize this [template](https://github.com/restincode/restincode/blob/master/people/_template.json) to get started.
+
+### Adding data to existing person
+
+Every person on RiC should have an open [Issue](https://github.com/restincode/restincode/issues) within the project. The first step is to search and locate the existing Issue for the person who's data you want to add to. Once you've located it, just leave a comment on the Issue with the new information to be added.
+
+If you cannot find the person, you can add them using our Issue [template](https://github.com/restincode/restincode/issues/new?assignees=&labels=Add+Person%2C+Needs+Review%2C+People&template=add-new-person-to-site.md&title=) template.
 
 ## Maintainers
 
