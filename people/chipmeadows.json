@@ -1,0 +1,22 @@
+{
+	"firstname" : "Chip",
+	"lastname" : "Meadows",
+	"handle" : "",
+	"birth" : "",
+	"death" : "",
+	"obituary" : "",
+	"issue" : "",
+	"affiliations" : "",
+	"mainimage" : "/images/face-silhouette-clipart.png",
+	"maintext" : "",
+	"socialmedialinks" : [
+		{
+			"sitename" : "Twitter",
+			"siteurl" : "https://www.twitter.com/chipmeadows"
+		}
+	],
+	"contributions" : [
+	],
+	"gallery" : [
+	]
+}
