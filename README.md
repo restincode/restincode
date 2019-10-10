@@ -1,6 +1,13 @@
-# RestInCode (RIC)
+# [RestInCode (RIC)](https://restincode.com)
 
-https://restincode.com
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/restincode/restincode/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square"></a>
+    <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode"/></a>
+    <a href="https://travis-ci.org/restincode/restincode"><img alt="Travis" src="https://img.shields.io/travis/restincode/restincode/master.svg?style=flat-square"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=restincode"><img src="https://img.shields.io/twitter/follow/restincode?style=social&logo=twitter" alt="follow on Twitter"></a>
+  </p>
+</p>
 
 ## A memorial site for Hackers and InfoSec people who have passed.
 
