@@ -6,4 +6,4 @@ addons:
     packages:
     - libcurl4-openssl-dev # required to avoid SSL errors
 script:
- - gem install html-proof && htmlproof .
+ - gem install html-proofer && htmlproof .
