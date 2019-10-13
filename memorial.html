@@ -21,7 +21,7 @@
 					person = "/people/"+name+".json";
 				} else {
 					person = "/people/person.json";
-				}				
+				}
 
 				// pull the json data for that person
 				$.getJSON(person, function(data){
@@ -57,7 +57,7 @@
 					} else {
 						data.issue = "https://github.com/restincode/restincode/issues/" + data.issue
 					}
-					
+
 					// is there a main image value?
 					if(data.mainimage == "") {
 						$(".memorial-main-image").attr("src", "/images/face-silhouette-clipart.png").attr("alt", "placeholder photo");
@@ -71,7 +71,7 @@
 					} else {
 						$("#memorial-text").append(data.maintext);
 					}``
-					
+
 					// check for and then build social media links list
 					if(data.socialmedialinks == "") {
 						$("#social-media").append("No social media links have been submitted for this person. Help us by submitting <a href='" + data.issue + "'>here.</a>");
@@ -102,7 +102,7 @@
 							$("#contributions-list").append(cont);
 						}
 					}
-					
+
 					// check for and then build photo gallery
 					if(data.gallery == "") {
 						$("#nogallery").append("No images have been submitted for this person yet. Help us by submitting <a href='" + data.issue + "'>here.</a>");
@@ -113,10 +113,10 @@
 							var caption = data.gallery[i]["caption"];
 							var image = "<figure class='memorial-gallery'><img src='"+imgurl+"' alt='"+imgtitle+"'><figcaption>"+caption+"</figcaption>";
 							$("#gallery").append(image);
-						}						
+						}
 					}
 
-					
+
 				});
 			});
 		</script>
@@ -126,7 +126,7 @@
 		<header>
 			<h1 id="main-title">RestInCode - <span id="subtitle">In Memory of </span></h1>
 		</header>
-		
+
 
 		<main id="memorial-page">
 			<article>
@@ -144,16 +144,16 @@
 
 					</div>
 				</aside>
-				
-				<p id="memorial-text"><img src="#" alt="" class="memorial-main-image">
+
+				<p id="memorial-text"><img src="#" alt="memorial image" class="memorial-main-image">
 				<!-- summary, obituary, or main description --></p>
-				
+
 				<hr />
 				<h3>Contributions</h3>
 				<ul id="contributions-list">
-					
+
 				</ul>
-				
+
 				<hr />
 				<h3>Gallery</h3>
 				<div id="nogallery">
@@ -162,7 +162,7 @@
 
 			</article>
 
-			
+
 		</main>
 
 		<footer>
@@ -170,6 +170,6 @@
 			Content and Images, unless otherwise specified, &copy; Rest In Code || Website design by <a href="https://sunfire.hitsaru.com" target="_blank" rel="noopener noreferrer">Sunfire</a> 2019
 		</footer>
 
-		
+
 	</body>
 </html>
