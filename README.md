@@ -1,11 +1,10 @@
 <p align="center">
   <p align="center">
-    <a href="https://github.com/restincode/restincode/blob/master/LICENSE"><img alt="Software License" src="https://img.shields.io/github/license/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
-    <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"/></a>
     <a href="https://travis-ci.org/restincode/restincode"><img alt="Travis" src="https://img.shields.io/travis/restincode/restincode/master.svg?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/commits/master"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/issues"><img alt="Last Commit" src="https://img.shields.io/github/issues-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/pulls"><img alt="Last Commit" src="https://img.shields.io/github/issues-pr-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
+    <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"/></a>
 
   </p>
 </p>
@@ -29,7 +28,7 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/mast
 <p align="center">
   <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=restincode"><img src="https://img.shields.io/twitter/follow/restincode?style=social&logo=twitter" alt="follow on Twitter"></a> &nbsp;
-    <img src="https://img.shields.io/github/forks/restincode/restincode?label=Fork&style=social&link=https://github.com/restincode/restincode/fork&link=https://github.com/restincode/restincode/network/members" alt="fork on GitHub"> &nbsp;
-    <a href="https://github.com/restincode/restincode/stargazers"><img src="https://img.shields.io/github/stars/restincode/restincode?style=social" alt="Stars on GitHub"></a>
+    <a href="https://github.com/restincode/restincode/fork">"><img src="https://img.shields.io/github/forks/restincode/restincode?label=Fork&style=social" alt="fork on GitHub"></a> &nbsp;
+    <a href="https://github.com/restincode/restincode"><img src="https://img.shields.io/github/stars/restincode/restincode?style=social" alt="star on GitHub"></a>
   </p>
 </p>
