@@ -28,7 +28,7 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/mast
 <p align="center">
   <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=restincode"><img src="https://img.shields.io/twitter/follow/restincode?style=social&logo=twitter" alt="follow on Twitter"></a> &nbsp;
-    <a href="https://github.com/restincode/restincode/fork">"><img src="https://img.shields.io/github/forks/restincode/restincode?label=Fork&style=social" alt="fork on GitHub"></a> &nbsp;
+    <a href="https://github.com/restincode/restincode/fork"><img src="https://img.shields.io/github/forks/restincode/restincode?label=Fork&style=social" alt="fork on GitHub"></a> &nbsp;
     <a href="https://github.com/restincode/restincode"><img src="https://img.shields.io/github/stars/restincode/restincode?style=social" alt="star on GitHub"></a>
   </p>
 </p>
