@@ -5,7 +5,7 @@
 	"birth" : "1976",
 	"death" : "2017",
 	"issue" : "44",
-	"mainimage" : "/images/Kaspersky_Kris.JPG",
+	"mainimage" : "/images/Kaspersky_Kris.jpg",
 	"maintext" : "The first article written by Kris was published when he was still in school. It was published by 'Astrologer' magazine, and the article itself was devoted to astronomy. In 1998 Kris began to contribute actively to conferences of FidoNet RU.HACKER. Dmitry Sadchenko noted his posts and arranged him a meeting with the representatives of publishing house 'Solon-Press'. In 1999 'Solon-Press' published the first book of Kris Kaspersky 'Technique and philosophy of hacker attacks' with 50 000 rubles of author's fee. A total of 16 books had been published by 2008, including several translations into English. The books were dedicated to data protection and program optimization, computer virus and disassembling. Among these books there's also 'Weatherlore Encyclopedia'. Kris's interest lies in the field of computers and astronomy. Some of his articles and forum topics concern telescopes and observation of the starry sky. Along with the books Kris contributes to such magazines as 'System administrator', 'Byte', 'Astrologer', 'Hacker'.",
 	"socialmedialinks" : [
 		{
@@ -77,7 +77,7 @@
 	],
 	"gallery" : [
 		{
-			"url" : "https://upload.wikimedia.org/wikipedia/commons/1/16/Portrait_of_Kris_Kaspersky.JPG",
+			"url" : "/images/Kris_Kaspersky-wikipedia.jpg",
 			"title" : "By Kasperskypresent",
 			"caption" : "By Kasperskypresent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44480894"
 		}

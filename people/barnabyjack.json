@@ -5,7 +5,7 @@
 	"birth" : "1977",
 	"death" : "2013",
 	"issue" : "4",
-	"mainimage" : "/images/y3t1_Art-Barnaby_Jack.png",
+	"mainimage" : "/images/Barnaby_Jack.png",
 	"maintext" : "",
 	"socialmedialinks" : [
 		{
@@ -31,12 +31,12 @@
 	],
 	"gallery" : [
 		{
-			"url" : "https://bauerfrodouat-cdn.azureedge.net/uploads/04ab1567-c8b7-40bb-98b2-d189fda6adc1-MT0314_Barnes08.jpg",
+	    "url" : "/images/Barnaby_Jack2.png",
 			"title" : "Barnaby Jack at the 2010 Black Hat convention",
 			"caption" : "The showman and the cash-spewing ATMs: Barnaby Jack at the 2010 Black Hat convention."
 		},
 		{
-			"url" : "https://www.mercurynews.com/wp-content/uploads/2016/08/20130726__0727jack1-1.jpg?w=600",
+	    "url" : "/images/Barnaby_Jack3.png",
 			"title" : "Barnaby Jack shows one of his two ATM machines",
 			"caption" : "Barnaby Jack shows one of his two ATM machines he bought on line and has hacked into, at his San Jose home on Tuesday, Aug. 31, 2010."
 		}

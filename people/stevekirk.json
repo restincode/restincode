@@ -6,7 +6,7 @@
 	"death" : "2019",
 	"obituary" : "",
 	"issue" : "60",
-	"mainimage" : "http://gallery.random-ether.net/_data/i/galleries/Lock/IMG_6863-me.JPG",
+	"mainimage" : "/images/Steve_Kirk.jpg",
 	"maintext" : "He was one of only a few folks who has ever lead the DEFCON NOC, and was the COO of DEFCON for a term before Speedrussr took over.",
 	"socialmedialinks" : [
 		{
@@ -27,22 +27,22 @@
 	],
 	"gallery" : [
 		{
-			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/Lock-2011-08-04-101x09-me.JPG",
+			"url" : "/images/Steve_Kirk2.jpg",
 			"title" : "Lockheed DEF CON",
 			"caption" : "Lockheed DEF CON"
 		},
 		{
-			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/Lock_2010-30-30-me.jpg",
+			"url" : "/images/Steve_Kirk3.jpg",
 			"title" : "Lockheed Motorcycle",
 			"caption" : "Lockheed Motorcycle"
 		},
 		{
-			"url" : "http://gallery.random-ether.net/galleries/Lock/Stonewall_Peak_DSC_0363.jpg",
+			"url" : "/images/Steve_Kirk4.jpg",
 			"title" : "Lockheed Stonewall Peak",
 			"caption" : "Lockheed Stonewall Peak"
 		},
 		{
-			"url" : "http://gallery.random-ether.net/_data/i/galleries/Lock/skirk_igparty06-me.jpg",
+			"url" : "/images/Steve_Kirk5.jpg",
 			"title" : "Lockheed IG Party",
 			"caption" : "Lockheed IG Party"
 		}
