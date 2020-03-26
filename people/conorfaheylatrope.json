@@ -6,7 +6,7 @@
 	"death" : "",
 	"obituary" : "",
 	"issue" : "81",
-	"mainimage" : "https://pbs.twimg.com/media/BRWaLcJCMAAe7UQ?format=jpg&name=medium",
+	"mainimage" : "/images/Conor_Fahey-Latrope.jpg",
 	"maintext" : "",
 	"socialmedialinks" : [
 		{
@@ -18,12 +18,12 @@
 	],
 	"gallery" : [
 		{
-			"url" : "https://pbs.twimg.com/media/BQDuGHjCIAE3b2l?format=jpg&name=small",
+			"url" : "/images/Conor_Fahey-Latrope2.jpg",
 			"title" : "Conor and bird",
 			"caption" : "Conor and bird"
 		},
 		{
-			"url" : "https://pbs.twimg.com/media/BY8D-dbCAAA35UO?format=jpg&name=4096x4096",
+			"url" : "/images/Conor_Fahey-Latrope3.jpg",
 			"title" : "Conor and son, Finn",
 			"caption" : "Conor and son, Finn"
 		}
