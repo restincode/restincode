@@ -163,6 +163,10 @@
 		{
 			"displayname" : "Chip Meadows",
 			"filename" : "chipmeadows"
+		},
+		{
+			"displayname" : "John Horton Conway",
+			"filename" : "johnhortonconway"
 		}
 	]
 }
