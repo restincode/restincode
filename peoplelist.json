@@ -1,6 +1,10 @@
 {
 	"people": [
 		{
+			"displayname" : "Don Blumenthal",
+			"filename" : "donblumenthal.json"
+		},
+		{
 			"displayname" : "Jay Des Dyson (Cancer Omega)",
 			"filename" : "jaydesdyson"
 		},
