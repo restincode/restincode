@@ -5,26 +5,14 @@
         "birth" : "1945",
         "death" : "2020",
         "obituary" : "https://www.theguardian.com/technology/2020/feb/28/larry-tesler-obituary",
-        "issue" : "",
+        "issue" : "136",
         "affiliations" : "",
-        "mainimage" : "/images/LarryTesler.jpeg",
+        "mainimage" : "/images/larrytesler.jpg",
         "maintext" : "<p>Anyone who uses the cut, copy and paste commands on their computer or mobile device has Larry Tesler to thank for making them so simple and easy to use.</p><p>Tesler, who has died aged 74, began his work on cut, copy and paste in 1973, when he was hired by Xerox’s Palo Alto Research Center (Parc) in California. Among other things he worked with a fellow computer scientist, Tim Mott, on the development of Gypsy, a “modeless” word processor. At the time most software had modes: for example, you might press I to enter the insert mode, or R for the replace mode. But Tesler’s research showed that non-expert users found modes confusing – and so he began to fight against them. He had “Nomodes” as his car numberplate and, later, a website at nomodes.com.</p><p>Although Tesler did not actually invent the basic functions of cut, copy and paste, he did come up with the names, keystroke combinations (Ctrl-X, Ctrl-C, Ctrl-V) and definitions for a simpler, modeless regime that became universal. As such he was happy to describe himself as the “primary inventor of modeless editing and cut, copy, paste”. It was a proud achievement, for his invention seems likely to survive for as long as there are real or virtual keyboards.</p><p>Tesler was also known for demonstrating Parc’s graphical user interface to Apple’s co-founder, Steve Jobs. In computer mythology this is said to have inspired the creation of the Apple Lisa and Macintosh computers in the early 1980s. Later, when working at Apple, he also played a significant role in the commercial success of the ARM (Acorn Risc Machine) processor, which today powers the vast majority of smartphones and tablets.</p><p>Tesler was born in New York, to Isidore Tesler, an anaesthetist, and his wife, Muriel (nee Krechmer). While attending the Bronx high school of science in the early 60s, he came up with an algorithm for generating prime numbers. A teacher told him it could be implemented on a computer, and found him a machine language manual for the IBM 650 mainframe. When given time on an IBM 650 at Columbia University – half an hour every other Saturday – he tried to run his algorithm from a deck of punched cards, but the computer was too difficult to use. It was a problem he would spend the rest of his life trying to mitigate.</p><p>He is survived by Lisa, by his second wife, the geophysicist Colleen Barton, and by his brothers, Charles and Alan.</p>",
         "socialmedialinks" : [
                 {
                         "sitename" : "Twitter",
                         "siteurl" : "https://twitter.com/nomodes"},
-                {
-                        "sitename" : "Github",
-                        "siteurl" : "https://www.github.com/"
-                },
-                {
-                        "sitename" : "LinkedIn",
-                        "siteurl" : "https://www.linkedin.com/in/"
-                },
-                {
-                        "sitename" : "Facebook",
-                        "siteurl" : "https://www.facebook.com/"
-                },
                 {
                         "sitename" : "Other",
                         "siteurl" : "https://en.wikipedia.org/wiki/Larry_Tesler"
