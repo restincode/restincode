@@ -1,18 +1,22 @@
 {
-	"firstname" : "Deven",
-	"lastname" : "Fore",
-	"handle" : "d3c4f",
-	"birth" : "",
-	"death" : "2018",
-	"obituary" : "",
-	"issue" : "111",
-	"affiliations" : "DC801",
-	"mainimage" : "/images/Deven_Fore.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-	]
+        "firstname" : "Deven",
+        "lastname" : "Fore",
+        "handle" : "d3c4f",
+        "birth" : "",
+        "death" : "2018",
+        "obituary" : "https://www.gofundme.com/f/deven-and-alicia-fore-family-help",
+        "issue" : "111",
+        "affiliations" : "DC801",
+        "mainimage" : "/images/face-silhouette-clipart.png",
+        "maintext" : "<p>Deven passed away suddenly last night Sunday, April 22nd. His unexpected death has broken our hearts, and left his two young children and wife devastated.</p><p>Many people have asked how they can help and it is our hope that by bringing this tragedy to the attention of friends and loved ones we will be able to raise the necessary funds to support the Fores with funeral/memorial services and the immediate needs of a single mother with two young children.</p>",
+        "socialmedialinks" : [
+                {
+                        "sitename" : "Twitter",
+                        "siteurl" : "https://twitter.com/dc801"
+                },
+                {
+                        "sitename" : "DC801",
+                        "siteurl" : "https://www.dc801.org/"
+                }
+        ]
 }

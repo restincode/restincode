@@ -1,6 +1,10 @@
 {
 	"people": [
 		{
+			"displayname" : "Don Blumenthal",
+			"filename" : "donblumenthal"
+		},
+		{
 			"displayname" : "Jay Des Dyson (Cancer Omega)",
 			"filename" : "jaydesdyson"
 		},
@@ -163,6 +167,10 @@
 		{
 			"displayname" : "Scott Sard (Metalrat)",
 			"filename" : "scottsard"
+    },
+    {
+			"displayname" : "Larry Tesler",
+			"filename" : "larrytesler"
 		}
 	]
 }
