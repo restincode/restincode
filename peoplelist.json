@@ -165,6 +165,10 @@
 			"filename" : "chipmeadows"
 		},
 		{
+			"displayname" : "Scott Sard (Metalrat)",
+			"filename" : "scottsard"
+    },
+    {
 			"displayname" : "Larry Tesler",
 			"filename" : "larrytesler"
 		}

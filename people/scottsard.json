@@ -1,0 +1,18 @@
+{
+        "firstname" : "Scott",
+        "lastname" : "Sard",
+        "handle" : "Net Metalrat",
+        "birth" : "1960",
+        "death" : "2019",
+        "obituary" : "https://twitter.com/LitMoose/status/1177707970236256256",
+        "issue" : "114",
+        "affiliations" : "https://www.apopo.org/en",
+        "mainimage" : "/images/scottsard.png",
+        "maintext" : "<p>It is with the heaviest heart I give the news that Scott @Net_Metalrat passed last night. He was given medication to ease pain & his body gave up the fight. He was an immense force of kindness to those lucky enough to know him. The world is a better place because he was in it.</p><p>If you would like to do something to honor him, he had the softest spot for rats. There are a few charities that are rat-centric, but this might be one of the coolest: apopo.org/en</p>",
+        "socialmedialinks" : [
+                {
+                        "sitename" : "Twitter",
+                        "siteurl" : "https://twitter.com/Net_Metalrat"
+                }
+        ]
+}
