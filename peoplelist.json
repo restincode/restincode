@@ -133,6 +133,10 @@
 			"filename" : "nickjeremicah"
 		},
 		{
+			"displayname" : "Tiffany Hinch (Charlie)",
+			"filename" : "tiffanyhinch"
+		},
+		{
 			"displayname" : "Steve Kirk (Lockheed)",
 			"filename" : "stevekirk"
 		},
@@ -159,10 +163,6 @@
 		{
 			"displayname" : "Chip Meadows",
 			"filename" : "chipmeadows"
-		},
-		{
-			"displayname" : "Tiffany Hinch (Charlie)",
-			"filename" : "tiffanyhinch"
 		}
 	]
 }
