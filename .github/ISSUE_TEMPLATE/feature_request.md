@@ -11,4 +11,3 @@ assignees: ''
 
 Please use our new [Discussions](https://github.com/restincode/restincode/discussions) section on github to engage in a community dialogue on new
 features. This way we only need submit an Issue when a final solution has been decided.
-
