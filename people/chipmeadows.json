@@ -1,22 +1,19 @@
 {
-	"firstname" : "Chip",
-	"lastname" : "Meadows",
-	"handle" : "",
-	"birth" : "",
-	"death" : "",
-	"obituary" : "",
-	"issue" : "109",
-	"affiliations" : "",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/chipmeadows"
-		}
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-	]
+        "firstname" : "Chip",
+        "lastname" : "Meadows",
+        "handle" : "chipmeadows",
+        "birth" : "Aug 1, 1962",
+        "death" : "sept 23, 2019",
+        "obituary" : "https://www.utsa.edu/today/2019/09/story/meadows-memoriam.html",
+        "issue" : "",
+        "affiliations" : "UTSA",
+        "mainimage" : "/images/chipmeadows.jpeg",
+        "maintext" : "<p>Sept. 27, 2019 -- Chip Meadows, a senior information security analyst with UTSA’s Office of Information Security, passed away at the age of 57 on Sept. 23. Meadows first joined UTSA as a project technical lead for the Center for Infrastructure Assurance and Security and later as an information security analyst for the university.</p><p>For years Meadows was an active member within the information security community at UTSA and Greater San Antonio. He was a volunteer, organizing various information security functions and giving presentations and talks on technical topics in his field. He designed and delivered cyber exercises for the CIAS as a project technical lead and traveled across the nation assisting state and local governments in protecting their infrastructure from cyberattacks.</p><p>He is known within the DefCon community and the FBI Citizens Academy. He was an active member of the San Antonio B-sides community, the Alamo area ISSA, ISACA and InfraGard chapters. Meadows was an elder within his congregation at Baruch Eloheinu. In addition to being an advocate for information security, most remember him as being a genuine friend with a kind soul.</p><p>Chip maintained close relationships with those he worked with—often consulting and assisting in all capacities from implementation, teaching and consulting. “Chip was an important member of the team,” said Kevin Kjosa, chief information security officer at UTSA. “He mentored all of us and his absence will be sorely missed.” Meadow leaves behind his wife, Anna Meadows, and a son, Matthew.</p>",
+        "socialmedialinks" : [
+                {
+                        "sitename" : "Twitter",
+                        "siteurl" : "https://twitter.com/chipmeadows"
+                }
+        ]
 }
+~     
