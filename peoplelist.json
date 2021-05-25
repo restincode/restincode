@@ -171,10 +171,13 @@
     {
 			"displayname" : "Larry Tesler",
 			"filename" : "larrytesler"
-	},
-	{
+    },
+    {
 			"displayname" : "Tiffany Hinch (Charlie)",
 			"filename" : "tiffanyhinch"
+    },
+			"displayname" : "Christopher Fudge",
+			"filename" : "christopherfudge"    
 		}
 	]
 }
