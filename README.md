@@ -1,11 +1,11 @@
 <p align="center">
   <p align="center">
-    <a href="https://travis-ci.org/restincode/restincode"><img alt="Travis" src="https://img.shields.io/travis/restincode/restincode/master.svg?style=flat&logo=appveyor&logoColor=turquoise"></a>
+    <a href="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment"><img alt="Deploy GitHub Pages" src="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment/badge.svg"></a>
+    <a href="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml"><img alt="Test and Proof" src="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml/badge.svg?branch=main"></a>
     <a href="https://github.com/restincode/restincode/commits/master"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/issues"><img alt="Last Commit" src="https://img.shields.io/github/issues-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/pulls"><img alt="Last Commit" src="https://img.shields.io/github/issues-pr-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"/></a>
-
   </p>
 </p>
 
