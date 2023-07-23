@@ -2,8 +2,8 @@
 	"firstname" : "Jonathan",
 	"lastname" : "Stuart",
 	"handle" : "dent1zt",
-	"birth" : "",
-	"death" : "",
+	"birth" : "1982",
+	"death" : "2017",
 	"issue" : "32",
 	"mainimage" : "/images/Jonathan_Stuart.jpeg",
 	"maintext" : "<p>Jonathan Stuart is an independant security researcher and Hacker. He has been in the field for 12 years. He has committed to various open source operating systems, is a BSD/UNIX kernel engineer, and has spoken at Arizona State University to a group of graduate CS students, ReCon (twice before), and trained at BlackHat on telephony related hacking. He started his career at Entercept and until recently worked on a research team at McAfee. He likes firmware reverse engineering, C code and assembly for dozens of architectures, and long walks on the beach hand in hand with beautiful intelligent brunettes.</p>",
@@ -18,7 +18,23 @@
 			"title" : "Recon 2012 Speaker",
 			"url" : "https://recon.cx/2012/schedule/events/251.en.html",
 			"description" : "Reversing Point-of-Sale Systems: Potential Vulnerabilities in Transactions"
+		},
+		{
+			"title" : "NPR 2015 Interview",
+			"url" : "https://www.npr.org/transcripts/519298871",
+			"description" : "Hacking The iPhone For Fun, Profit, And Maybe Espionage"			
+		}, 
+		{
+			"title" : "www.doomworld.com",
+			"url" : "https://www.doomworld.com/interviews/int2.shtml",
+			"description" : "The Man Behind Internet Doom"
 		}
 	],
-	"gallery" : ""
+	"gallery" : [
+		{
+			"url" : "/images/Jonathan_Stuart2.jpg",
+			"title" : "Johnathan Stuart during an NPR interview in 2015",
+			"caption" : "Johnathan Stuart during an NPR interview in 2015"
+		}
+	]
 }
