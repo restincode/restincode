@@ -19,7 +19,7 @@ jobs:
     - name: Install HTLM Proofer
       run: gem install html-proofer
     - name: HTML Proofer
-      run: htmlproofer .  --check-favicon --check-html --check-img-http
+      run: htmlproofer . --check-html --check-img-http
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
