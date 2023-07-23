@@ -167,18 +167,22 @@
 		{
 			"displayname" : "Scott Sard (Metalrat)",
 			"filename" : "scottsard"
-    },
-    {
+    	},
+    	{
 			"displayname" : "Larry Tesler",
 			"filename" : "larrytesler"
-	},
-    {
+		},
+    	{
 			"displayname" : "Karen (Krystalia)",
 			"filename" : "karenKrystalia"
-	},
-	{
+		},
+		{
 			"displayname" : "Tiffany Hinch (Charlie)",
 			"filename" : "tiffanyhinch"
+		},
+		{
+			"displayname" : "Kelly Lum (Aloria)",
+			"filename" : "kellylum"
 		}
 	]
 }
