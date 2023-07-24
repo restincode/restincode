@@ -24,6 +24,14 @@ Lorem ipsum dolor sit amet. We leave this here for the thoughts we want to conve
 
 This project is intended to be open to all and a true community effort. Everyone should feel empowered to contribute additional photos, blogs, talks, papers, research, etc for individuals listed.
 
+> **The most significant request we have for contributors** is to help us create the actual person.json file for every individual who has an open Issue ticket. Many people will open an Issue for the deceased, few will take the extra time to create the actual files to populate the site.
+>
+> Here are some other ways to contribute:
+> - Updating/improving our website, graphics, and logos (we suck)
+> - Writing code to [auto-publish entries](#174) on the anniversary of their passing
+> 
+> See our Ideas [discussions](https://github.com/restincode/restincode/discussions/categories/ideas?discussions_q=category%3AIdeas+) or [issue label](https://github.com/restincode/restincode/issues?q=is%3Aopen+is%3Aissue+label%3AIdeas) for more opportunities.
+
 Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md) guide for instructions on how to help this project grow.
 
 <p align="center">
