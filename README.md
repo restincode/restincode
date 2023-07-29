@@ -29,6 +29,7 @@ This project is intended to be open to all and a true community effort. Everyone
 > Here are some other ways to contribute:
 > - Updating/improving our website, graphics, and logos (we suck)
 > - Writing code to [auto-publish entries](#174) on the anniversary of their passing
+> - Prioritize [adding people who are missing](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Person%22) from the website, before prioritizing [people who are missing additional data](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Data%22+label%3A%22Person+Added%22) to their bio
 > 
 > See our Ideas [discussions](https://github.com/restincode/restincode/discussions/categories/ideas?discussions_q=category%3AIdeas+) or [issue label](https://github.com/restincode/restincode/issues?q=is%3Aopen+is%3Aissue+label%3AIdeas) for more opportunities.
 
