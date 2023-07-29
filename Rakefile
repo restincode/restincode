@@ -30,7 +30,7 @@ desc 'Check links for site already running on localhost:4000'
 task :check_links do
   begin
     require 'anemone'
-    root = 'http://192.168.12.241:4000/'
+    root = 'http://localhost:4000/'
     Anemone.crawl(root, :discard_page_bodies => true) do |anemone|
       anemone.after_crawl do |pagestore|
         broken_links = Hash.new { |h, k| h[k] = [] }
