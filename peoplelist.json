@@ -187,6 +187,10 @@
 		{
 			"displayname" : "Bruce Esquibel (Dr. Ripco)",
 			"filename" : "bruceesquibel"
+        },
+		{
+			"displayname" : "Christopher Fudge",
+			"filename" : "christopherfudge" 
 		}
 	]
 }
