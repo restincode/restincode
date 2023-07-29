@@ -22,6 +22,10 @@ Every person on RiC should have an open [Issue](https://github.com/restincode/re
 
 If you cannot find the person, you can add them using our Issue [template](https://github.com/restincode/restincode/issues/new?assignees=&labels=Add+Person%2C+Needs+Review%2C+People&template=add-new-person-to-site.md&title=) template.
 
+### Testing your changes locally
+
+Using the provided Gemfile you can test locally by running ```bundle install``` and executing ```bundle exec jekyll serve``` to run a local web server on http://localhost:4000. Please verify your changes before submitting a Pull Request.
+
 ## Maintainers
 
 Maintainers are the people who have commit access to the RestInCode repository and can manage Issues and Pull Requests.
