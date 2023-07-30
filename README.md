@@ -4,7 +4,7 @@
     <a href="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml"><img alt="Test and Proof" src="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml/badge.svg?branch=main"></a>
     <a href="https://github.com/restincode/restincode/commits/master"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <br>
-    [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/restincode/restincode/main.svg)](https://results.pre-commit.ci/latest/github/restincode/restincode/main)
+    <a href ="https://results.pre-commit.ci/latest/github/restincode/restincode/main"><img alt="pre-commit.ci status" src="https://results.pre-commit.ci/badge/github/restincode/restincode/main.svg">
     <a href="https://github.com/restincode/restincode/issues"><img alt="Last Commit" src="https://img.shields.io/github/issues-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/pulls"><img alt="Last Commit" src="https://img.shields.io/github/issues-pr-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
     <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"/></a>
