@@ -1,36 +1,36 @@
 {
-	"firstname" : "David",
-	"lastname" : "Jones",
-	"handle" : "Rev. Rance",
-	"birth" : "",
-	"death" : "",
-	"issue" : "1",
-	"mainimage" : "/images/y3t1_Art-David_Jones_aka_Rance.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/revrance"
-		},
-		{
-			"sitename" : "LinkedIn",
-			"siteurl" : "https://www.linkedin.com/in/revrance/"
-		},
-		{
-			"sitename" : "Facebook",
-			"siteurl" : "https://www.facebook.com/profile.php?id=1198558199&ref=br_rs"
-		}
-	],
-	"contributions" : "",
-	"gallery" : [
-		{
-			"url" : "/images/David_Jones_1.jpg"
-		},
-		{
-			"url" : "/images/David_Jones_2.jpg"
-		},
-		{
-			"url" : "/images/David_Jones_3.jpg"
-		}
-	]
+  "firstname": "David",
+  "lastname": "Jones",
+  "handle": "Rev. Rance",
+  "birth": "",
+  "death": "",
+  "issue": "1",
+  "mainimage": "/images/y3t1_Art-David_Jones_aka_Rance.jpg",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/revrance"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/revrance/"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/profile.php?id=1198558199&ref=br_rs"
+    }
+  ],
+  "contributions": "",
+  "gallery": [
+    {
+      "url": "/images/David_Jones_1.jpg"
+    },
+    {
+      "url": "/images/David_Jones_2.jpg"
+    },
+    {
+      "url": "/images/David_Jones_3.jpg"
+    }
+  ]
 }

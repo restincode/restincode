@@ -1,5 +1,5 @@
 {
-	"useSideMenu" : true,
-	"additionalFooterText" : "All content and images unless otherwise specified is &copy; Rest In Code - ",
-	"title" : "Rest In Code - Hacker / InfoSec Memorial Site"
+  "useSideMenu": true,
+  "additionalFooterText": "All content and images unless otherwise specified is &copy; Rest In Code - ",
+  "title": "Rest In Code - Hacker / InfoSec Memorial Site"
 }

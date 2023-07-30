@@ -1,18 +1,18 @@
 {
-	"firstname" : "Karl",
-	"lastname" : "Koch",
-	"handle" : "",
-	"birth" : "1965",
-	"death" : "1989",
-	"issue" : "23",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Wikipedia",
-			"siteurl" : "https://en.wikipedia.org/wiki/Karl_Koch_(hacker)"
-		}
-	],
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Karl",
+  "lastname": "Koch",
+  "handle": "",
+  "birth": "1965",
+  "death": "1989",
+  "issue": "23",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Karl_Koch_(hacker)"
+    }
+  ],
+  "contributions": "",
+  "gallery": ""
 }

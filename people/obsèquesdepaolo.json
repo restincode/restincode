@@ -1,13 +1,13 @@
 {
-	"firstname" : "Obsèques",
-	"lastname" : "de Paolo",
-	"handle" : "",
-	"birth" : "",
-	"death" : "",
-	"issue" : "20",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : "",
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Obsèques",
+  "lastname": "de Paolo",
+  "handle": "",
+  "birth": "",
+  "death": "",
+  "issue": "20",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": "",
+  "contributions": "",
+  "gallery": ""
 }

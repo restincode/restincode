@@ -1,13 +1,13 @@
 {
-	"firstname" : "Joe",
-	"lastname" : "Rogers",
-	"handle" : "Selir",
-	"birth" : "",
-	"death" : "",
-	"issue" : "19",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : "",
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Joe",
+  "lastname": "Rogers",
+  "handle": "Selir",
+  "birth": "",
+  "death": "",
+  "issue": "19",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": "",
+  "contributions": "",
+  "gallery": ""
 }
