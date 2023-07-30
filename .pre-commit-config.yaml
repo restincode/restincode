@@ -3,13 +3,13 @@ repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0  # use `pre-commit autoupdate` to get the latest rev
     hooks:
-    -   id: check-yaml
-    -   id: check-json
+    -   id: check-yaml # check for proper yaml formatting
+    -   id: check-json # check for proper json formatting
+    - id: no-commit-to-branch
+      args: ['--branch', 'main'] # prevent local commits to main branch
 #    -   id: pretty-format-json
 #    -   id: end-of-file-fixer
 #    -   id: trailing-whitespace
-ci:
-    autofix_prs: false
 #-   repo: https://github.com/pre-commit/mirrors-csslint
 #    rev: v1.0.5  # use `pre-commit autoupdate` to get the latest rev
 #    hooks:
@@ -27,3 +27,5 @@ ci:
 #    rev: v2.7.1
 #    hooks:
 #    -   id: prettier
+ci:
+    autofix_prs: false
