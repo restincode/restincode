@@ -67,4 +67,3 @@ end
 def compass(opts = '')
   # sh 'compass compile -c config.rb --force ' + opts
 end
-
