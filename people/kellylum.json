@@ -32,9 +32,9 @@
 			"title" : "Infosec Reactions",
 			"url" : "https://twitter.com/sec_reactions",
 			"description" : "When words aren't enough, say it with memes."
-		}, 
+		},
         {
-            "title" : "Stay Out of the Kitchen: A DLP Security Bake-Off", 
+            "title" : "Stay Out of the Kitchen: A DLP Security Bake-Off",
             "url" : "https://www.blackhat.com/asia-16/speakers/Kelly-Lum.html",
             "description" : "Blackhat USA, vulnerabilities discovered in four commercial DLP products."
         }
