@@ -1,21 +1,15 @@
 {
-    "firstname" : "Karen",
-    "lastname" : "",
-    "handle" : "Krystalia",
-    "birth" : "",
-    "death" : "Friday, Jan. 5, 2001",
-    "obituary" : "http://krystalia.org/",
-    "issue" : "Cancer",
-    "affiliations" : "",
-    "mainimage" : "/images/karen_krystalia.jpg",
-    "maintext" : "<p>People Die. People Die Every day. People who are as loving, kind hearted, caring, and as radiant as Krystalia never die. Her memory will live on in our hearts forever.</p><p> Krystalia passed away at 12:30PM on October 29th, 1999. She was battling ovarian cancer that was diagnosed about 10 months prior. In her last few months it spread to her major organs, sending her into a coma early Friday morning, and then her heart stopped and she passed away that afternoon. Her family was at her side.</p><p> Daily Krystalia is bringing out the best in people. I get E-mails every day from random people telling me how sorry they are, and how they feel our loss. Everyones words are very kind, we appreciate it very much. Thank you.</p>",
-    "socialmedialinks" : [
-    
-    ],
-	"contributions" : [
-
-	],
-	"gallery" : [
-
-	]
+  "firstname": "Karen",
+  "lastname": "",
+  "handle": "Krystalia",
+  "birth": "",
+  "death": "Friday, Jan. 5, 2001",
+  "obituary": "http://krystalia.org/",
+  "issue": "Cancer",
+  "affiliations": "",
+  "mainimage": "/images/karen_krystalia.jpg",
+  "maintext": "<p>People Die. People Die Every day. People who are as loving, kind hearted, caring, and as radiant as Krystalia never die. Her memory will live on in our hearts forever.</p><p> Krystalia passed away at 12:30PM on October 29th, 1999. She was battling ovarian cancer that was diagnosed about 10 months prior. In her last few months it spread to her major organs, sending her into a coma early Friday morning, and then her heart stopped and she passed away that afternoon. Her family was at her side.</p><p> Daily Krystalia is bringing out the best in people. I get E-mails every day from random people telling me how sorry they are, and how they feel our loss. Everyones words are very kind, we appreciate it very much. Thank you.</p>",
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }

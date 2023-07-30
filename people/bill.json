@@ -1,21 +1,19 @@
 {
-	"firstname" : "Bill",
-	"lastname" : "",
-	"handle" : "Wolfgame",
-	"birth" : "",
-	"death" : "2019",
-	"obituary" : "",
-	"issue" : "59",
-	"mainimage" : "/images/bill.jpg",
-	"maintext" : "25 years later, still Wolfgame.  IT Consultant, Cider Enthusiast, Vaper, Gamer, and cranky fucker with no time for your shit.",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/wolfgame"
-		}
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-	]
+  "firstname": "Bill",
+  "lastname": "",
+  "handle": "Wolfgame",
+  "birth": "",
+  "death": "2019",
+  "obituary": "",
+  "issue": "59",
+  "mainimage": "/images/bill.jpg",
+  "maintext": "25 years later, still Wolfgame.  IT Consultant, Cider Enthusiast, Vaper, Gamer, and cranky fucker with no time for your shit.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/wolfgame"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
 }

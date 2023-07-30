@@ -23,9 +23,10 @@ repos:
 #    hooks:
 #    -   id: jekyll-relative-url-check-html
 #    -   id: jekyll-relative-url-check-markdown
-#-   repo: https://github.com/pre-commit/mirrors-prettier
-#    rev: v2.7.1
-#    hooks:
-#    -   id: prettier
+-   repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v2.7.1
+    hooks:
+    -   id: prettier
+        types: [json]
 ci:
     autofix_prs: false

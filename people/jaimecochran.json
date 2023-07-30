@@ -1,33 +1,33 @@
 {
-	"firstname" : "Jaime",
-	"lastname" : "Cochran",
-	"handle" : "ACKFlags/AssHurtMacFags",
-	"birth" : "",
-	"death" : "2018",
-	"issue" : "26",
-	"affiliations" : "The Rustle League",
-	"mainimage" : "/images/JaimeCochran_2.png",
-	"maintext" : "Jaime was a member of the trolling group Rustle League, contributor/editor for Chronicle dot su & Lebel Drocer and worked to be one of the funniest and most unique person in many of our daily lives. She will be remembered for the way she touched us and we shall pay her respect by remembering the best of Jaime.",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/ACKFlags"
-		},
-		{
-			"sitename" : "Github",
-			"siteurl" : "https://github.com/asshurtmacfags"
-		},
-		{
-			"sitename" : "Facebook",
-			"siteurl" : "https://www.facebook.com/asshurtmacfags/"
-		}
-	],
-	"contributions" : "",
-		"gallery" : [
-		{
-			"url" : "/images/JaimeCochran.jpg",
-			"title" : "Jaime Cochran",
-			"caption" : "Jaime Cochran sitting at her computer"
-		}
-	]
+  "firstname": "Jaime",
+  "lastname": "Cochran",
+  "handle": "ACKFlags/AssHurtMacFags",
+  "birth": "",
+  "death": "2018",
+  "issue": "26",
+  "affiliations": "The Rustle League",
+  "mainimage": "/images/JaimeCochran_2.png",
+  "maintext": "Jaime was a member of the trolling group Rustle League, contributor/editor for Chronicle dot su & Lebel Drocer and worked to be one of the funniest and most unique person in many of our daily lives. She will be remembered for the way she touched us and we shall pay her respect by remembering the best of Jaime.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/ACKFlags"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/asshurtmacfags"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/asshurtmacfags/"
+    }
+  ],
+  "contributions": "",
+  "gallery": [
+    {
+      "url": "/images/JaimeCochran.jpg",
+      "title": "Jaime Cochran",
+      "caption": "Jaime Cochran sitting at her computer"
+    }
+  ]
 }
