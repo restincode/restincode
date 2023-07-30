@@ -4,7 +4,9 @@
 	"handle" : "Nurse",
 	"birth" : "",
 	"death" : "2011",
+	"obituary" : "",
 	"issue" : "5",
+	"affiliations" : "",
 	"mainimage" : "/images/y3t1_Art-Brad_Smith_aka_Nurse.jpg",
 	"maintext" : "",
 	"socialmedialinks" : [
@@ -14,9 +16,9 @@
 		}
 	],
 	"contributions" : [
-		{
-		}
+
 	],
-	"contributions" : "",
-	"gallery" : ""
+	"gallery" : [
+
+	]
 }
