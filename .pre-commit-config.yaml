@@ -3,10 +3,10 @@ repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0  # use `pre-commit autoupdate` to get the latest rev
     hooks:
-    -   id: check-yaml # check for proper yaml formatting
-    -   id: check-json # check for proper json formatting
     - id: no-commit-to-branch
       args: ['--branch', 'main'] # prevent local commits to main branch
+    -   id: check-yaml # check for proper yaml formatting
+    -   id: check-json # check for proper json formatting
 #    -   id: pretty-format-json
 #    -   id: end-of-file-fixer
 #    -   id: trailing-whitespace
@@ -14,15 +14,10 @@ repos:
 #    rev: v1.0.5  # use `pre-commit autoupdate` to get the latest rev
 #    hooks:
 #    -   id: csslint
-#-   repo: https://github.com/thibaudcolas/curlylint
-#    rev: v0.13.1  # use `pre-commit autoupdate` to get the latest rev
-#    hooks:
-#    -   id: curlylint
-#-   repo: https://github.com/klieret/jekyll-relative-url-check
-#    rev: v2.0.1  # use `pre-commit autoupdate` to get the latest rev
-#    hooks:
-#    -   id: jekyll-relative-url-check-html
-#    -   id: jekyll-relative-url-check-markdown
+-   repo: https://github.com/thibaudcolas/curlylint
+    rev: v0.13.1  # use `pre-commit autoupdate` to get the latest rev
+    hooks:
+    -   id: curlylint
 -   repo: https://github.com/pre-commit/mirrors-prettier
     rev: v3.0.0
     hooks:
