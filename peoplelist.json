@@ -1,197 +1,197 @@
 {
-	"people": [
-		{
-			"displayname" : "Don Blumenthal",
-			"filename" : "donblumenthal"
-		},
-		{
-			"displayname" : "Jay Des Dyson (Cancer Omega)",
-			"filename" : "jaydesdyson"
-		},
-		{
-			"displayname" : "David Jones (Rance)",
-			"filename" : "davidjones"
-		},
-		{
-			"displayname" : "Terrence Gareau (Tuna)",
-			"filename" : "terrencegareau"
-		},
-		{
-			"displayname" : "Jon Hart",
-			"filename" : "jonhart"
-		},
-		{
-			"displayname" : "Barnaby Jack",
-			"filename" : "barnabyjack"
-		},
-		{
-			"displayname" : "Brad Smith (Nurse)",
-			"filename" : "bradsmith"
-		},
-		{
-			"displayname" : "Len Sassaman",
-			"filename" : "lensassaman"
-		},
-		{
-			"displayname" : "Maxx Redwine",
-			"filename" : "maxxredwine"
-		},
-		{
-			"displayname" : "Aaron Swartz",
-			"filename" : "aaronswartz"
-		},
-		{
-			"displayname" : "Michael Assante",
-			"filename" : "michaelassante"
-		},
-		{
-			"displayname" : "Christian Wright (Curiosity)",
-			"filename" : "christianwright"
-		},
-		{
-			"displayname" : "Josh Cohen (PacBell)",
-			"filename" : "joshcohen"
-		},
-		{
-			"displayname" : "Robert Conner Ashby (Poolboy)",
-			"filename" : "robertashby"
-		},
-		{
-			"displayname" : "Branden Hancock (Ghent)",
-			"filename" : "brandenhancock"
-		},
-		{
-			"displayname" : "Joe Engressia (Joybubbles)",
-			"filename" : "joeengressia"
-		},
-		{
-			"displayname" : "Gary James (Turb1n3)",
-			"filename" : "garyjames"
-		},
-		{
-			"displayname" : "Michael Hamelin (Hacker Joe)",
-			"filename" : "michaelhamelin"
-		},
-		{
-			"displayname" : "Joe Rogers (Selir)",
-			"filename" : "joerogers"
-		},
-		{
-			"displayname" : "Obsèques de Paolo",
-			"filename" : "obsèquesdepaolo"
-		},
-		{
-			"displayname" : "Ryan Van Der Wall",
-			"filename" : "ryanvanderwall"
-		},
-		{
-			"displayname" : "Mike Kemp (ClappyMonkey)",
-			"filename" : "mikekemp"
-		},
-		{
-			"displayname" : "Arjen Kamphuis",
-			"filename" : "arjenkamphuis"
-		},
-		{
-			"displayname" : "Karl Koch",
-			"filename" : "karlkoch"
-		},
-		{
-			"displayname" : "Kris Kaspersky",
-			"filename" : "kriskaspersky"
-		},
-		{
-			"displayname" : "Boris Floricic (Tron)",
-			"filename" : "borisfloricic"
-		},
-		{
-			"displayname" : "Ian Murdock",
-			"filename" : "ianmurdock"
-		},
-		{
-			"displayname" : "Jaime Cochran (ACKFlags/AssHurtMacFags)",
-			"filename" : "jaimecochran"
-		},
-		{
-			"displayname" : "Rebecca Bace",
-			"filename" : "rebeccabace"
-		},
-		{
-			"displayname" : "Bret Mattingly (Delta)",
-			"filename" : "bretmattingly"
-		},
-		{
-			"displayname" : "Ben Byer (bushing)",
-			"filename" : "benbyer"
-		},
-		{
-			"displayname" : "Jonathan Stuart (dent1zt)",
-			"filename" : "jonathanstuart"
-		},
-		{
-			"displayname" : "Geoffrey Bennett",
-			"filename" : "geoffreybennett"
-		},
-		{
-			"displayname" : "Nick Jeremicah (Dr.Nick2000)",
-			"filename" : "nickjeremicah"
-		},
-		{
-			"displayname" : "Steve Kirk (Lockheed)",
-			"filename" : "stevekirk"
-		},
-		{
-			"displayname" : "Daren Senn (Sinster)",
-			"filename" : "darensenn"
-		},
-		{
-			"displayname" : "Eric Chavez",
-			"filename" : "ericchavez"
-		},
-		{
-			"displayname" : "Bill (Wolfgame)",
-			"filename" : "bill"
-		},
-		{
-			"displayname" : "Conor Fahey-Latrope",
-			"filename" : "conorfaheylatrope"
-		},
-		{
-			"displayname" : "Deven Fore (d3c4f)",
-			"filename" : "devenfore"
-		},
-		{
-			"displayname" : "Chip Meadows",
-			"filename" : "chipmeadows"
-		},
-		{
-			"displayname" : "Scott Sard (Metalrat)",
-			"filename" : "scottsard"
-    	},
-    	{
-			"displayname" : "Larry Tesler",
-			"filename" : "larrytesler"
-		},
-    	{
-			"displayname" : "Karen (Krystalia)",
-			"filename" : "karenKrystalia"
-		},
-		{
-			"displayname" : "Tiffany Hinch (Charlie)",
-			"filename" : "tiffanyhinch"
-		},
-		{
-			"displayname" : "Kelly Lum (Aloria)",
-			"filename" : "kellylum"
-		},
-		{
-			"displayname" : "Bruce Esquibel (Dr. Ripco)",
-			"filename" : "bruceesquibel"
-        },
-		{
-			"displayname" : "Christopher Fudge",
-			"filename" : "christopherfudge" 
-		},
+  "people": [
+    {
+      "displayname": "Don Blumenthal",
+      "filename": "donblumenthal"
+    },
+    {
+      "displayname": "Jay Des Dyson (Cancer Omega)",
+      "filename": "jaydesdyson"
+    },
+    {
+      "displayname": "David Jones (Rance)",
+      "filename": "davidjones"
+    },
+    {
+      "displayname": "Terrence Gareau (Tuna)",
+      "filename": "terrencegareau"
+    },
+    {
+      "displayname": "Jon Hart",
+      "filename": "jonhart"
+    },
+    {
+      "displayname": "Barnaby Jack",
+      "filename": "barnabyjack"
+    },
+    {
+      "displayname": "Brad Smith (Nurse)",
+      "filename": "bradsmith"
+    },
+    {
+      "displayname": "Len Sassaman",
+      "filename": "lensassaman"
+    },
+    {
+      "displayname": "Maxx Redwine",
+      "filename": "maxxredwine"
+    },
+    {
+      "displayname": "Aaron Swartz",
+      "filename": "aaronswartz"
+    },
+    {
+      "displayname": "Michael Assante",
+      "filename": "michaelassante"
+    },
+    {
+      "displayname": "Christian Wright (Curiosity)",
+      "filename": "christianwright"
+    },
+    {
+      "displayname": "Josh Cohen (PacBell)",
+      "filename": "joshcohen"
+    },
+    {
+      "displayname": "Robert Conner Ashby (Poolboy)",
+      "filename": "robertashby"
+    },
+    {
+      "displayname": "Branden Hancock (Ghent)",
+      "filename": "brandenhancock"
+    },
+    {
+      "displayname": "Joe Engressia (Joybubbles)",
+      "filename": "joeengressia"
+    },
+    {
+      "displayname": "Gary James (Turb1n3)",
+      "filename": "garyjames"
+    },
+    {
+      "displayname": "Michael Hamelin (Hacker Joe)",
+      "filename": "michaelhamelin"
+    },
+    {
+      "displayname": "Joe Rogers (Selir)",
+      "filename": "joerogers"
+    },
+    {
+      "displayname": "Obsèques de Paolo",
+      "filename": "obsèquesdepaolo"
+    },
+    {
+      "displayname": "Ryan Van Der Wall",
+      "filename": "ryanvanderwall"
+    },
+    {
+      "displayname": "Mike Kemp (ClappyMonkey)",
+      "filename": "mikekemp"
+    },
+    {
+      "displayname": "Arjen Kamphuis",
+      "filename": "arjenkamphuis"
+    },
+    {
+      "displayname": "Karl Koch",
+      "filename": "karlkoch"
+    },
+    {
+      "displayname": "Kris Kaspersky",
+      "filename": "kriskaspersky"
+    },
+    {
+      "displayname": "Boris Floricic (Tron)",
+      "filename": "borisfloricic"
+    },
+    {
+      "displayname": "Ian Murdock",
+      "filename": "ianmurdock"
+    },
+    {
+      "displayname": "Jaime Cochran (ACKFlags/AssHurtMacFags)",
+      "filename": "jaimecochran"
+    },
+    {
+      "displayname": "Rebecca Bace",
+      "filename": "rebeccabace"
+    },
+    {
+      "displayname": "Bret Mattingly (Delta)",
+      "filename": "bretmattingly"
+    },
+    {
+      "displayname": "Ben Byer (bushing)",
+      "filename": "benbyer"
+    },
+    {
+      "displayname": "Jonathan Stuart (dent1zt)",
+      "filename": "jonathanstuart"
+    },
+    {
+      "displayname": "Geoffrey Bennett",
+      "filename": "geoffreybennett"
+    },
+    {
+      "displayname": "Nick Jeremicah (Dr.Nick2000)",
+      "filename": "nickjeremicah"
+    },
+    {
+      "displayname": "Steve Kirk (Lockheed)",
+      "filename": "stevekirk"
+    },
+    {
+      "displayname": "Daren Senn (Sinster)",
+      "filename": "darensenn"
+    },
+    {
+      "displayname": "Eric Chavez",
+      "filename": "ericchavez"
+    },
+    {
+      "displayname": "Bill (Wolfgame)",
+      "filename": "bill"
+    },
+    {
+      "displayname": "Conor Fahey-Latrope",
+      "filename": "conorfaheylatrope"
+    },
+    {
+      "displayname": "Deven Fore (d3c4f)",
+      "filename": "devenfore"
+    },
+    {
+      "displayname": "Chip Meadows",
+      "filename": "chipmeadows"
+    },
+    {
+      "displayname": "Scott Sard (Metalrat)",
+      "filename": "scottsard"
+    },
+    {
+      "displayname": "Larry Tesler",
+      "filename": "larrytesler"
+    },
+    {
+      "displayname": "Karen (Krystalia)",
+      "filename": "karenKrystalia"
+    },
+    {
+      "displayname": "Tiffany Hinch (Charlie)",
+      "filename": "tiffanyhinch"
+    },
+    {
+      "displayname": "Kelly Lum (Aloria)",
+      "filename": "kellylum"
+    },
+    {
+      "displayname": "Bruce Esquibel (Dr. Ripco)",
+      "filename": "bruceesquibel"
+    },
+    {
+      "displayname": "Christopher Fudge",
+      "filename": "christopherfudge"
+    },
     {
       "displayname": "Kelvin White (L3thal)",
       "filename": "kelvinwhite"
@@ -200,5 +200,5 @@
       "displayname": "Nolan Berry",
       "filename": "nolanberry"
     }
-	]
+  ]
 }
