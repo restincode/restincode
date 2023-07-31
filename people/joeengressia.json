@@ -1,13 +1,13 @@
 {
-	"firstname" : "Joe",
-	"lastname" : "Engressia",
-	"handle" : "Joybubbles",
-	"birth" : "",
-	"death" : "",
-	"issue" : "16",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : "",
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Joe",
+  "lastname": "Engressia",
+  "handle": "Joybubbles",
+  "birth": "",
+  "death": "",
+  "issue": "16",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": "",
+  "contributions": "",
+  "gallery": ""
 }

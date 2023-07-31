@@ -191,6 +191,14 @@
 		{
 			"displayname" : "Christopher Fudge",
 			"filename" : "christopherfudge" 
-		}
+		},
+    {
+      "displayname": "Kelvin White (L3thal)",
+      "filename": "kelvinwhite"
+    },
+    {
+      "displayname": "Nolan Berry",
+      "filename": "nolanberry"
+    }
 	]
 }

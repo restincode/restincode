@@ -1,26 +1,25 @@
 {
-	"firstname" : "Eric",
-	"lastname" : "Chavez",
-	"handle" : "",
-	"birth" : "",
-	"death" : "2019",
-	"obituary" : "",
-	"issue" : "57",
-	"mainimage" : "/images/Eric_Chavez.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "LinkedIn",
-			"siteurl" : "https://www.linkedin.com/in/chaveze/"
-		}
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-		{
-	    "url" : "/images/Eric_Chavez-linkedin.jpg",
-			"title" : "LinkedIn Profile Photo",
-			"caption" : "LinkedIn Profile Photo"
-		}
-	]
+  "firstname": "Eric",
+  "lastname": "Chavez",
+  "handle": "",
+  "birth": "",
+  "death": "2019",
+  "obituary": "",
+  "issue": "57",
+  "mainimage": "/images/Eric_Chavez.jpg",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/chaveze/"
+    }
+  ],
+  "contributions": [],
+  "gallery": [
+    {
+      "url": "/images/Eric_Chavez-linkedin.jpg",
+      "title": "LinkedIn Profile Photo",
+      "caption": "LinkedIn Profile Photo"
+    }
+  ]
 }

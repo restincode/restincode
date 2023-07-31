@@ -1,85 +1,85 @@
 {
-	"firstname" : "Kris",
-	"lastname" : "Kaspersky",
-	"handle" : "",
-	"birth" : "1976",
-	"death" : "2017",
-	"issue" : "44",
-	"mainimage" : "/images/Kaspersky_Kris.jpg",
-	"maintext" : "The first article written by Kris was published when he was still in school. It was published by 'Astrologer' magazine, and the article itself was devoted to astronomy. In 1998 Kris began to contribute actively to conferences of FidoNet RU.HACKER. Dmitry Sadchenko noted his posts and arranged him a meeting with the representatives of publishing house 'Solon-Press'. In 1999 'Solon-Press' published the first book of Kris Kaspersky 'Technique and philosophy of hacker attacks' with 50 000 rubles of author's fee. A total of 16 books had been published by 2008, including several translations into English. The books were dedicated to data protection and program optimization, computer virus and disassembling. Among these books there's also 'Weatherlore Encyclopedia'. Kris's interest lies in the field of computers and astronomy. Some of his articles and forum topics concern telescopes and observation of the starry sky. Along with the books Kris contributes to such magazines as 'System administrator', 'Byte', 'Astrologer', 'Hacker'.",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Wikipedia",
-			"siteurl" : "https://en.wikipedia.org/wiki/Kris_Kaspersky"
-		}
-	],
-	"contributions" : [
-		{
-			"title" : "Thought pattern – IDA disassembler. ISBN 5-93455-093-4",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Technique of network attacks. ISBN 5-93455-078-0",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Fundamental principles of hacking. Inverse assembling mastership. ISBN 5-93455-175-2",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Sketch-book of a computer virus researcher. ISBN 5-469-00331-0",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Weather lore encyclopedia. Predicting weather by local signes",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Hacker Disassembling Uncovered, ISBN 978-1-931769-46-4",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Shellcoder's Programming Uncovered, ISBN 978-1-931769-46-4",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Data Recovery Tips & Solutions: Windows, Linux, and BSD, ISBN 978-1-931769-56-3",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "CD Cracking Uncovered Protection Against Unsanctioned, ISBN 978-81-7008-818-9",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "CD Cracking Uncovered: Protection Against Unsanctioned CD Copying, ISBN 978-1-931769-33-4",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Hacker Debugging Uncovered, ISBN 978-1-931769-40-2",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "Code Optimization: Effective Memory Usage, ISBN 978-1-931769-24-2",
-			"url" : "",
-			"description" : ""
-		}
-	],
-	"gallery" : [
-		{
-			"url" : "/images/Kris_Kaspersky-wikipedia.jpg",
-			"title" : "By Kasperskypresent",
-			"caption" : "By Kasperskypresent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44480894"
-		}
-	]
+  "firstname": "Kris",
+  "lastname": "Kaspersky",
+  "handle": "",
+  "birth": "1976",
+  "death": "2017",
+  "issue": "44",
+  "mainimage": "/images/Kaspersky_Kris.jpg",
+  "maintext": "The first article written by Kris was published when he was still in school. It was published by 'Astrologer' magazine, and the article itself was devoted to astronomy. In 1998 Kris began to contribute actively to conferences of FidoNet RU.HACKER. Dmitry Sadchenko noted his posts and arranged him a meeting with the representatives of publishing house 'Solon-Press'. In 1999 'Solon-Press' published the first book of Kris Kaspersky 'Technique and philosophy of hacker attacks' with 50 000 rubles of author's fee. A total of 16 books had been published by 2008, including several translations into English. The books were dedicated to data protection and program optimization, computer virus and disassembling. Among these books there's also 'Weatherlore Encyclopedia'. Kris's interest lies in the field of computers and astronomy. Some of his articles and forum topics concern telescopes and observation of the starry sky. Along with the books Kris contributes to such magazines as 'System administrator', 'Byte', 'Astrologer', 'Hacker'.",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Kris_Kaspersky"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Thought pattern – IDA disassembler. ISBN 5-93455-093-4",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Technique of network attacks. ISBN 5-93455-078-0",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Fundamental principles of hacking. Inverse assembling mastership. ISBN 5-93455-175-2",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Sketch-book of a computer virus researcher. ISBN 5-469-00331-0",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Weather lore encyclopedia. Predicting weather by local signes",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Hacker Disassembling Uncovered, ISBN 978-1-931769-46-4",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Shellcoder's Programming Uncovered, ISBN 978-1-931769-46-4",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Data Recovery Tips & Solutions: Windows, Linux, and BSD, ISBN 978-1-931769-56-3",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "CD Cracking Uncovered Protection Against Unsanctioned, ISBN 978-81-7008-818-9",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "CD Cracking Uncovered: Protection Against Unsanctioned CD Copying, ISBN 978-1-931769-33-4",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Hacker Debugging Uncovered, ISBN 978-1-931769-40-2",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "Code Optimization: Effective Memory Usage, ISBN 978-1-931769-24-2",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/Kris_Kaspersky-wikipedia.jpg",
+      "title": "By Kasperskypresent",
+      "caption": "By Kasperskypresent - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44480894"
+    }
+  ]
 }

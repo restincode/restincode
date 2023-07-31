@@ -1,12 +1,14 @@
 <p align="center">
   <p align="center">
-    <a href="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment"><img alt="Deploy GitHub Pages" src="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment/badge.svg"></a>
-    <a href="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml"><img alt="Test and Proof" src="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml/badge.svg?branch=main"></a>
-    <a href="https://github.com/restincode/restincode/commits/master"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
+    <a href="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment"><img alt="Deploy GitHub Pages" src="https://img.shields.io/github/deployments/restincode/restincode/github-pages?style=flat&logoColor=turquoise&label=latest%20deploy"></a>
+    <a href="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml"><img alt="Test and Proof" src="https://img.shields.io/github/actions/workflow/status/restincode/restincode/test_and_proof.yml?style=flat&logoColor=turquoise&label=html%20check"></a>
+    <a href ="https://results.pre-commit.ci/latest/github/restincode/restincode/main"><img alt="pre-commit.ci status" src="https://results.pre-commit.ci/badge/github/restincode/restincode/main.svg">
+    <a href="https://github.com/restincode/restincode/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logoColor=turquoise"></a>
     <br>
-    <a href="https://github.com/restincode/restincode/issues"><img alt="Last Commit" src="https://img.shields.io/github/issues-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
-    <a href="https://github.com/restincode/restincode/pulls"><img alt="Last Commit" src="https://img.shields.io/github/issues-pr-raw/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"></a>
-    <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logo=appveyor&logoColor=turquoise"/></a>
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Frestincode.com&style=flat&logoColor=turquoise&label=restincode.com">
+    <a href="https://github.com/restincode/restincode/issues"><img alt="Last Commit" src="https://img.shields.io/github/issues-raw/restincode/restincode?style=flat&logoColor=turquoise"></a>
+    <a href="https://github.com/restincode/restincode/pulls"><img alt="Last Commit" src="https://img.shields.io/github/issues-pr-raw/restincode/restincode?style=flat&logoColor=turquoise"></a>
+    <a href="https://github.com/restincode/restincode/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/restincode/restincode?style=flat&logoColor=turquoise"/></a>
   </p>
 </p>
 
@@ -30,10 +32,10 @@ This project is intended to be open to all and a true community effort. Everyone
 > - Updating/improving our website, graphics, and logos (we suck)
 > - Writing code to [auto-publish entries](#174) on the anniversary of their passing
 > - Prioritize [adding people who are missing](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Person%22) from the website, before prioritizing [people who are missing additional data](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Data%22+label%3A%22Person+Added%22) to their bio
-> 
+>
 > See our Ideas [discussions](https://github.com/restincode/restincode/discussions/categories/ideas?discussions_q=category%3AIdeas+) or [issue label](https://github.com/restincode/restincode/issues?q=is%3Aopen+is%3Aissue+label%3AIdeas) for more opportunities.
 
-Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md) guide for instructions on how to help this project grow.
+Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main/CONTRIBUTING.md) guide for instructions on how to help this project grow.
 
 <p align="center">
   <p align="center">

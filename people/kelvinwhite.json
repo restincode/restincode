@@ -1,0 +1,79 @@
+{
+  "firstname": "Kelvin",
+  "lastname": "White",
+  "handle": "L3thal",
+  "birth": "Oct 24th 1977",
+  "death": "Apr 4th 2017",
+  "obituary": "",
+  "issue": "128",
+  "affiliations": "SmashTheStack",
+  "mainimage": "/images/kelvin_white_l3thal.jpeg",
+  "maintext": "Kelvin White (a.k.a. l3thal) graced the world with his presence for just 39 years, but he lived every moment of it to the max. If you were lucky enough to meet him, you either instantly connected or not, with no awkward stage in between.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/l3thal_sts"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/l3thal"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/outlawscumbag"
+    },
+    {
+      "sitename": "Facebook Memorial",
+      "siteurl": "https://www.facebook.com/kelvinwhitelethal/"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "SmashTheStack",
+      "url": "https://www.smashthestack.org/",
+      "description": "L3thal was a co-creator and admin for the SmashTheStack WarGames website and services. This included the maintenance of infrastructure, development of new games and their individual challenges."
+    },
+    {
+      "title": "Buffer Overflow Tutorial",
+      "url": "https://smashthestack.org/l3thal/bof.txt",
+      "description": "This was a commonly referenced overflow tutorial that l3thal wrote for newbies on the SmashTheStack IRC network."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "images/kelvin_white_l3thal_classic_1992_age-15.jpeg",
+      "title": "Classic Kelvin. *swoon* (circa 1992, age 15)",
+      "caption": "Photo of l3thal at age 15 (1992)"
+    },
+    {
+      "url": "images/kelvin_white_l3thal_keyboard.jpeg",
+      "title": "l3thal avatar",
+      "caption": "Photo of l3thal wearing a mask and holding a keyboard like a rifle"
+    },
+    {
+      "url": "images/kelvin_white_l3thal_last-known-photo.jpeg",
+      "title": "Last known photo: 4/15 12am. Crazy as always.",
+      "caption": "The last known photo of l3thal"
+    },
+    {
+      "url": "images/kelvin_white_l3thal_memorial_banner.png",
+      "title": "Memorial banner (l3thal edit)",
+      "caption": "A memorial banner of multiple photos in honor of l3thal"
+    },
+    {
+      "url": "images/kelvin_white_l3thal_punk.jpeg",
+      "title": "That perfect punk snarl.",
+      "caption": "Photo of l3thal dressed in his usual punk attire"
+    },
+    {
+      "url": "images/kelvin_white_l3thal_STS-at-DEFCON.jpeg",
+      "title": "Photo of l3thal (front/center hugging mauvehed) and other anonymous SmashTheStack members at DEF CON",
+      "caption": "Photo of l3thal (front/center hugging mauvehed) and other anonymous SmashTheStack members at DEF CON"
+    },
+    {
+      "url": "images/kelvin_white_star-struck.jpeg",
+      "title": "Love in our star-struck eyes, immortalized. (either that or we mighta been smacked out that night)",
+      "caption": "Photo of Kelvin and wife Kelli"
+    }
+  ]
+}

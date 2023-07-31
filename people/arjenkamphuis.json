@@ -1,22 +1,22 @@
 {
-	"firstname" : "Arjen",
-	"lastname" : "Kamphuis",
-	"handle" : "",
-	"birth" : "",
-	"death" : "",
-	"issue" : "22",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/ArjenKamphuis"
-		},
-		{
-			"sitename" : "About.me",
-			"siteurl" : "https://about.me/arjenkamphuis"
-		}
-	],
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Arjen",
+  "lastname": "Kamphuis",
+  "handle": "",
+  "birth": "",
+  "death": "",
+  "issue": "22",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/ArjenKamphuis"
+    },
+    {
+      "sitename": "About.me",
+      "siteurl": "https://about.me/arjenkamphuis"
+    }
+  ],
+  "contributions": "",
+  "gallery": ""
 }

@@ -1,48 +1,47 @@
 {
-	"firstname" : "Bruce",
-	"lastname" : "Esquibel",
-	"handle" : "Dr. Ripco",
-	"birth" : "10 Mar 1959",
-	"death" : "24 Nov 2022",
-	"obituary" : "",
-	"issue" : "193",
-	"affiliations" : "",
-	"mainimage" : "/images/bruce_esquibel1.jpg",
-	"maintext" : "<p>Bruce Esquibel, also known as \"Dr. Ripco,\" ran a long-standing Chicago-based BBS known as Ripco BBS. Recognized as one of Chicago's most notable BBSes, it was well-known for being a freewheeling, wide-ranging board. On May 8, 1990, Agents of the United States Secret Service, along with police and telephone company security personnel, executed thirty-two search warrants across the United States in Operation Sun Devil. Ripco BBS was swept up during the raids. The actions of the Secret Service in confiscating the board's equipment constituted an infringement on freedom, underlining the critical role BBSes play as platforms for exchanging thoughts and disseminating information. Ripco became reborn as an ISP in the 1990s.</p>",
-	"socialmedialinks" : [
-	],
-	"contributions" : [
-		{
-			"title" : "Dr. Ripco's Last Stand",
-			"url" : " https://archive.org/details/ripcoslaststand",
-			"description" : "A collection of gathered media of interest to Bruce \"Dr. Ripco\" Esquibel. Archived by Jason Scott."
-		},
-		{
-			"title" : "Closing the Net",
-			"url" : " http://www.costik.com/hackers.html",
-			"description" : "January 1991 issue of Reason magazine. Detailing events that took place during Operation Sun Devil."
-		},
-		{
-			"title" : "BBS Documentary Video",
-			"url" : " https://archive.org/details/bbs-20040123-ripco/Doctor+Ripco+-+Tape+1.avi",
-			"description" : "Full BBS Documentary Interview: Dr. Ripco"
-		}, 
-		{
-			"title" : "January 23, 2004 BBS Documentary",
-			"url" : "http://www.bbsdocumentary.com/photos/129ripco/",
-			"description" : "Support files and related documents for BBS Documentary"
-		}, 
-        {
-			"title" : "Chicago Site Gets the Shaft",
-			"url" : "https://www.wired.com/1999/09/chicago-site-gets-the-shaft/",
-			"description" : "Ripco Communications redirected two domains belonging to La Raza, a weekly paper with a circulation 150,000, to dildo.com for not paying its bills."
-		}
-	],
-	"gallery" : [
-		{
-			"url" : "/images/bruce_esquibel2.jpg",
-			"title" : "Dr. Ripco and Jason Scott with the original Apple II Ripco BBS ran on.",
-			"caption" : "Dr. Ripco and Jason Scott with the original Apple II Ripco BBS ran on."
-		}
-	]
+  "firstname": "Bruce",
+  "lastname": "Esquibel",
+  "handle": "Dr. Ripco",
+  "birth": "10 Mar 1959",
+  "death": "24 Nov 2022",
+  "obituary": "",
+  "issue": "193",
+  "affiliations": "",
+  "mainimage": "/images/bruce_esquibel1.jpg",
+  "maintext": "<p>Bruce Esquibel, also known as \"Dr. Ripco,\" ran a long-standing Chicago-based BBS known as Ripco BBS. Recognized as one of Chicago's most notable BBSes, it was well-known for being a freewheeling, wide-ranging board. On May 8, 1990, Agents of the United States Secret Service, along with police and telephone company security personnel, executed thirty-two search warrants across the United States in Operation Sun Devil. Ripco BBS was swept up during the raids. The actions of the Secret Service in confiscating the board's equipment constituted an infringement on freedom, underlining the critical role BBSes play as platforms for exchanging thoughts and disseminating information. Ripco became reborn as an ISP in the 1990s.</p>",
+  "socialmedialinks": [],
+  "contributions": [
+    {
+      "title": "Dr. Ripco's Last Stand",
+      "url": " https://archive.org/details/ripcoslaststand",
+      "description": "A collection of gathered media of interest to Bruce \"Dr. Ripco\" Esquibel. Archived by Jason Scott."
+    },
+    {
+      "title": "Closing the Net",
+      "url": " http://www.costik.com/hackers.html",
+      "description": "January 1991 issue of Reason magazine. Detailing events that took place during Operation Sun Devil."
+    },
+    {
+      "title": "BBS Documentary Video",
+      "url": " https://archive.org/details/bbs-20040123-ripco/Doctor+Ripco+-+Tape+1.avi",
+      "description": "Full BBS Documentary Interview: Dr. Ripco"
+    },
+    {
+      "title": "January 23, 2004 BBS Documentary",
+      "url": "http://www.bbsdocumentary.com/photos/129ripco/",
+      "description": "Support files and related documents for BBS Documentary"
+    },
+    {
+      "title": "Chicago Site Gets the Shaft",
+      "url": "https://www.wired.com/1999/09/chicago-site-gets-the-shaft/",
+      "description": "Ripco Communications redirected two domains belonging to La Raza, a weekly paper with a circulation 150,000, to dildo.com for not paying its bills."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/bruce_esquibel2.jpg",
+      "title": "Dr. Ripco and Jason Scott with the original Apple II Ripco BBS ran on.",
+      "caption": "Dr. Ripco and Jason Scott with the original Apple II Ripco BBS ran on."
+    }
+  ]
 }

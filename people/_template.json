@@ -1,83 +1,83 @@
 {
-	"firstname" : "",
-	"lastname" : "",
-	"handle" : "",
-	"birth" : "",
-	"death" : "",
-	"obituary" : "",
-	"issue" : "",
-	"affiliations" : "",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/"
-		},
-		{
-			"sitename" : "Github",
-			"siteurl" : "https://www.github.com/"
-		},
-		{
-			"sitename" : "LinkedIn",
-			"siteurl" : "https://www.linkedin.com/in/"
-		},
-		{
-			"sitename" : "Facebook",
-			"siteurl" : "https://www.facebook.com/"
-		},
-		{
-			"sitename" : "Other",
-			"siteurl" : "https://about.me/"
-		}
-	],
-	"contributions" : [
-		{
-			"title" : "[project name]",
-			"url" : "htps://www.cyberz.tech/",
-			"description" : "Research paper on [project name]. As part of a team studying lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quibusdam, officia eos."
-		},
-		{
-			"title" : "",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "",
-			"url" : "",
-			"description" : ""
-		},
-		{
-			"title" : "",
-			"url" : "",
-			"description" : ""
-		}
-	],
-	"gallery" : [
-		{
-			"url" : "/images/face-silhouette-clipart.png",
-			"title" : "Photo of [person] at [location or event]",
-			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
-		},
-		{
-			"url" : "",
-			"title" : "Photo of [person] at [location or event]",
-			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
-		},
-		{
-			"url" : "",
-			"title" : "Photo of [person] at [location or event]",
-			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
-		},
-		{
-			"url" : "",
-			"title" : "Photo of [person] at [location or event]",
-			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
-		},
-		{
-			"url" : "",
-			"title" : "Photo of [person] at [location or event]",
-			"caption" : "[person] [doing thing] at [location or event] on or around [date]"
-		}
-	]
+  "firstname": "",
+  "lastname": "",
+  "handle": "",
+  "birth": "",
+  "death": "",
+  "obituary": "",
+  "issue": "",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://www.github.com/"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://about.me/"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "[project name]",
+      "url": "htps://www.cyberz.tech/",
+      "description": "Research paper on [project name]. As part of a team studying lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet quibusdam, officia eos."
+    },
+    {
+      "title": "",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "",
+      "url": "",
+      "description": ""
+    },
+    {
+      "title": "",
+      "url": "",
+      "description": ""
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/face-silhouette-clipart.png",
+      "title": "Photo of [person] at [location or event]",
+      "caption": "[person] [doing thing] at [location or event] on or around [date]"
+    },
+    {
+      "url": "",
+      "title": "Photo of [person] at [location or event]",
+      "caption": "[person] [doing thing] at [location or event] on or around [date]"
+    },
+    {
+      "url": "",
+      "title": "Photo of [person] at [location or event]",
+      "caption": "[person] [doing thing] at [location or event] on or around [date]"
+    },
+    {
+      "url": "",
+      "title": "Photo of [person] at [location or event]",
+      "caption": "[person] [doing thing] at [location or event] on or around [date]"
+    },
+    {
+      "url": "",
+      "title": "Photo of [person] at [location or event]",
+      "caption": "[person] [doing thing] at [location or event] on or around [date]"
+    }
+  ]
 }
