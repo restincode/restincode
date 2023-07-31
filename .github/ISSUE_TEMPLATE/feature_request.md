@@ -1,10 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: 'PLEASE DO NOT SUBMIT A FEATURE REQUEST VIA ISSUES'
+title: "PLEASE DO NOT SUBMIT A FEATURE REQUEST VIA ISSUES"
 labels: Ideas, Needs Review
-assignees: ''
-
+assignees: ""
 ---
 
 ## Do not submit feature requests via Issues

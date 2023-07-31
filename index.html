@@ -1,78 +1,131 @@
-<!DOCTYPE HTML>
+<!doctype html>
 <html lang="en">
-	<head>
-		<title>Rest In Code - An InfoSec and Hacker Memorial Site</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="author" content="Site by Connie \'Sunfire\' Hill; Content by Rest In Code contributors" />
-		<meta name="description" content="An InfoSec and Hacker Memorial Site" />
-		<meta name="keywords" content="memorial, hacker, hackers, infosec, information security, obituary" />
+  <head>
+    <title>Rest In Code - An InfoSec and Hacker Memorial Site</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="author"
+      content="Site by Connie \'Sunfire\' Hill; Content by Rest In Code contributors"
+    />
+    <meta name="description" content="An InfoSec and Hacker Memorial Site" />
+    <meta
+      name="keywords"
+      content="memorial, hacker, hackers, infosec, information security, obituary"
+    />
 
-		<link rel="stylesheet" href="style.css" />
-		<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap" rel="stylesheet">
-		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
 
-		<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
-		<script>
-			$(function() {
-				// pull json list of names
-				$.getJSON("peoplelist.json", function(data){
-					var peoplelist = data.people;
-					// sort asc by first name
-					function compare(a,b){
-						if(a.displayname > b.displayname) { return 1; }
-						else if(a.displayname < b.displayname) { return -1; }
-						else { return 0; }
-					}
-					peoplelist.sort(compare);
+    <script
+      src="https://code.jquery.com/jquery-3.7.0.min.js"
+      integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      $(function () {
+        // pull json list of names
+        $.getJSON("peoplelist.json", function (data) {
+          var peoplelist = data.people;
+          // sort asc by first name
+          function compare(a, b) {
+            if (a.displayname > b.displayname) {
+              return 1;
+            } else if (a.displayname < b.displayname) {
+              return -1;
+            } else {
+              return 0;
+            }
+          }
+          peoplelist.sort(compare);
 
-					// generate list of names, with links if available
-					for (p=0; p < peoplelist.length; p++) {
-						var displayname = peoplelist[p]["displayname"];
-						var file = peoplelist[p]["filename"];
-						var link;
-						// only create links for json files that have been added to peoplelist.json
-						if (file == "") {
-							link = "<li>"+displayname+"</li>";
-						} else {
-							link = "<li><a href='memorial.html?name="+file+"' class='memorial-link'>"+displayname+"</a></li>";
-						}
-						$("#memorial-links-list").append(link);
-					}
-				});
-			});
-		</script>
+          // generate list of names, with links if available
+          for (p = 0; p < peoplelist.length; p++) {
+            var displayname = peoplelist[p]["displayname"];
+            var file = peoplelist[p]["filename"];
+            var link;
+            // only create links for json files that have been added to peoplelist.json
+            if (file == "") {
+              link = "<li>" + displayname + "</li>";
+            } else {
+              link =
+                "<li><a href='memorial.html?name=" +
+                file +
+                "' class='memorial-link'>" +
+                displayname +
+                "</a></li>";
+            }
+            $("#memorial-links-list").append(link);
+          }
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1 id="main-title">
+        RestInCode <span id="subtitle">Passed but not Forgotten</span>
+      </h1>
+      <p id="tagline">
+        A memorial site for Hackers and InfoSec people who have passed.
+      </p>
+    </header>
 
-	</head>
-	<body>
-		<header>
-			<h1 id="main-title">RestInCode <span id="subtitle">Passed but not Forgotten</span></h1>
-			<p id="tagline">A memorial site for Hackers and InfoSec people who have passed.</p>
-		</header>
+    <main id="homepage-content">
+      <nav>
+        <h3>Memorial List</h3>
+        <ul id="memorial-links-list">
+          <!-- link list generated from peoplelist.json -->
+        </ul>
+      </nav>
 
-		<main id="homepage-content">
-			<nav><h3>Memorial List</h3>
-				<ul id="memorial-links-list">
-					<!-- link list generated from peoplelist.json -->
-				</ul>
-			</nav>
+      <div id="site-intro-text">
+        <p><b>RestInCode (RIC)</b></p>
+        <p>
+          RIC is a memorial site for Hackers and Information Security people who
+          have passed. In a community and industry that many of us see as
+          timeless, we are quickly learning that is not the reality, as our dear
+          friends and colleagues more frequently move on. Our ideals, our
+          research, and our spirit persists. Unfortunately, our human shells
+          can't keep up sometimes. We seek to honor those who have touched
+          security, technology, and our lives.
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet. We leave this here for the thoughts we
+          want to convey, but can't find the words for it.
+        </p>
+        <p>&nbsp;</p>
+        <p align="center">
+          <img src="/images/bg.jpg" alt="background image" />
+        </p>
+        <p>&nbsp;</p>
+        <p><b>Contributing</b></p>
+        <p>
+          To contribute to this site by adding new people, additional content,
+          photos, or pointing out inaccuracies, please visit our Github and
+          follow our
+          <a
+            href="https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md"
+            >Contributing guidelines</a
+          >.
+        </p>
+      </div>
+    </main>
 
-			<div id="site-intro-text">
-				<p><b>RestInCode (RIC)</b></p>
-				<p>RIC is a memorial site for Hackers and Information Security people who have passed. In a community and industry that many of us see as timeless, we are quickly learning that is not the reality, as our dear friends and colleagues more frequently move on. Our ideals, our research, and our spirit persists. Unfortunately, our human shells can't keep up sometimes. We seek to honor those who have touched security, technology, and our lives.</p>
-				<p>Lorem ipsum dolor sit amet. We leave this here for the thoughts we want to convey, but can't find the words for it.</p>
-				<p>&nbsp;</p>
-				<p align="center"><img src="/images/bg.jpg" alt="background image"></p>
-				<p>&nbsp;</p>
-				<p><b>Contributing</b></p>
-				<p>To contribute to this site by adding new people, additional content, photos, or pointing out inaccuracies, please visit our Github and follow our <a href="https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md">Contributing guidelines</a>.</p>
-			</div>
-
-		</main>
-
-		<footer>
-			Content and Images, unless otherwise specified, &copy; Rest In Code || Website design by <a href="https://sunfire.hitsaru.com" target="_blank" rel="noopener noreferrer">Sunfire</a> 2019
-		</footer>
-
-	</body>
+    <footer>
+      Content and Images, unless otherwise specified, &copy; Rest In Code ||
+      Website design by
+      <a
+        href="https://sunfire.hitsaru.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Sunfire</a
+      >
+      2019
+    </footer>
+  </body>
 </html>

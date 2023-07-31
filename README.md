@@ -29,6 +29,7 @@ This project is intended to be open to all and a true community effort. Everyone
 > **The most significant request we have for contributors** is to help us create the actual person.json file for every individual who has an open Issue ticket. Many people will open an Issue for the deceased, few will take the extra time to create the actual files to populate the site.
 >
 > Here are some other ways to contribute:
+>
 > - Updating/improving our website, graphics, and logos (we suck)
 > - Writing code to [auto-publish entries](#174) on the anniversary of their passing
 > - Prioritize [adding people who are missing](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Person%22) from the website, before prioritizing [people who are missing additional data](https://github.com/restincode/restincode/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3A%22Add+Data%22+label%3A%22Person+Added%22) to their bio
