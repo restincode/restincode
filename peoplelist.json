@@ -167,8 +167,8 @@
 		{
 			"displayname" : "Scott Sard (Metalrat)",
 			"filename" : "scottsard"
-    	},
-    	{
+    },
+    {
 			"displayname" : "Larry Tesler",
 			"filename" : "larrytesler"
 		},
@@ -191,10 +191,10 @@
 		{
 			"displayname" : "Kelvin White (L3thal)",
 			"filename" : "kelvinwhite"
-		}
-	{
+		},
+	  {
 			"displayname" : "Nolan Berry",
 			"filename"	: "nolanberry"
-	}
+	  }
 	]
 }

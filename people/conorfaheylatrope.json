@@ -1,31 +1,30 @@
 {
-	"firstname" : "Conor",
-	"lastname" : "Fahey-Latrope",
-	"handle" : "Conor Pot Pie",
-	"birth" : "",
-	"death" : "",
-	"obituary" : "",
-	"issue" : "81",
-	"mainimage" : "/images/Conor_Fahey-Latrope.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/conorpotpie"
-		}
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-		{
-			"url" : "/images/Conor_Fahey-Latrope2.jpg",
-			"title" : "Conor and bird",
-			"caption" : "Conor and bird"
-		},
-		{
-			"url" : "/images/Conor_Fahey-Latrope3.jpg",
-			"title" : "Conor and son, Finn",
-			"caption" : "Conor and son, Finn"
-		}
-	]
+  "firstname": "Conor",
+  "lastname": "Fahey-Latrope",
+  "handle": "Conor Pot Pie",
+  "birth": "",
+  "death": "",
+  "obituary": "",
+  "issue": "81",
+  "mainimage": "/images/Conor_Fahey-Latrope.jpg",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/conorpotpie"
+    }
+  ],
+  "contributions": [],
+  "gallery": [
+    {
+      "url": "/images/Conor_Fahey-Latrope2.jpg",
+      "title": "Conor and bird",
+      "caption": "Conor and bird"
+    },
+    {
+      "url": "/images/Conor_Fahey-Latrope3.jpg",
+      "title": "Conor and son, Finn",
+      "caption": "Conor and son, Finn"
+    }
+  ]
 }

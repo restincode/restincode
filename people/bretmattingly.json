@@ -1,27 +1,27 @@
 {
-	"firstname" : "Bret",
-	"lastname" : "Mattingly",
-	"handle" : "Delta",
-	"birth" : "1992",
-	"death" : "2019",
-	"issue" : "29",
-	"obituary" : "https://www.legacy.com/obituaries/indystar/obituary.aspx?n=bret-oliver-mattingly&pid=191620602&fhid=14455",
-	"mainimage" : "/images/Bret_Mattingly.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/adeptisdelta"
-		},
-		{
-			"sitename" : "Instagram",
-			"siteurl" : "https://www.instagram.com/justtcallmedelta/"
-		},
-		{
-			"sitename" : "LinkedIn",
-			"siteurl" : "https://www.linkedin.com/in/bretmattinglyii"
-		}
-	],
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Bret",
+  "lastname": "Mattingly",
+  "handle": "Delta",
+  "birth": "1992",
+  "death": "2019",
+  "issue": "29",
+  "obituary": "https://www.legacy.com/obituaries/indystar/obituary.aspx?n=bret-oliver-mattingly&pid=191620602&fhid=14455",
+  "mainimage": "/images/Bret_Mattingly.jpg",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/adeptisdelta"
+    },
+    {
+      "sitename": "Instagram",
+      "siteurl": "https://www.instagram.com/justtcallmedelta/"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/bretmattinglyii"
+    }
+  ],
+  "contributions": "",
+  "gallery": ""
 }

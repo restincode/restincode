@@ -1,44 +1,44 @@
 {
-	"firstname" : "Michael",
-	"lastname" : "Assante",
-	"handle" : "",
-	"birth" : "",
-	"death" : "2019",
-	"issue" : "10",
-	"mainimage" : "https://images.idgesg.net/images/article/2019/06/mike-assante_cyber-security-guru_by-ryan-g-poirier-100799482-large.jpg",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://twitter.com/assante_michael"
-		}
-	],
-	"contributions" : [
-		{
-			"title" : "Michael J. Assante Awarded SANS ICS Lifetime Achievement Award - March 2018",
-			"url" : "https://www.prnewswire.com/news-releases/michael-j-assante-awarded-sans-ics-lifetime-achievement-award-300616669.html",
-			"description" : "Michael's work in ICS security has helped bring attention to an area that was largely unaddressed, despite its potential to affect critical infrastructure, human life and safety."
-		},
-		{
-			"title" : "ICS Cyber Kill Chain",
-			"url" : "https://www.sans.org/reading-room/whitepapers/ICS/paper/36297",
-			"description" : "Michael Assante co-authored the ICS Cyber Kill Chain with Robert Lee, Oct 2015"
-		},
-		{
-			"title" : "Smart Grid Cybersecurity: Job Performance Model Report",
-			"url" : "https://www.energy.gov/sites/prod/files/2013/05/f0/SGC-Report.pdf",
-			"description" : "Michael Assante co-authored with report in August 2012"
-		},
-		{
-			"title" : "No Grid Left Behind",
-			"url" : "https://ieeexplore.ieee.org/document/5403157",
-			"description" : "Michael Assante co-authored this document which was published in IEEE Security & Privacy Vol 8, Iss 1, Jan-Feb 2010"
-		},
-		{
-			"title" : "Mike Assante’s lasting impact on critical infrastructure security",
-			"url" : "https://www.csoonline.com/article/3403656/mike-assantes-lasting-impact-on-critical-infrastructure-security-and-me.html",
-			"description" : "Thanks to Mike Assante, critical infrastructure stakeholders have a better understanding of and ability to respond to cybersecurity risks."
-		}
-	],
-	"gallery" : ""
+  "firstname": "Michael",
+  "lastname": "Assante",
+  "handle": "",
+  "birth": "",
+  "death": "2019",
+  "issue": "10",
+  "mainimage": "https://images.idgesg.net/images/article/2019/06/mike-assante_cyber-security-guru_by-ryan-g-poirier-100799482-large.jpg",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/assante_michael"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Michael J. Assante Awarded SANS ICS Lifetime Achievement Award - March 2018",
+      "url": "https://www.prnewswire.com/news-releases/michael-j-assante-awarded-sans-ics-lifetime-achievement-award-300616669.html",
+      "description": "Michael's work in ICS security has helped bring attention to an area that was largely unaddressed, despite its potential to affect critical infrastructure, human life and safety."
+    },
+    {
+      "title": "ICS Cyber Kill Chain",
+      "url": "https://www.sans.org/reading-room/whitepapers/ICS/paper/36297",
+      "description": "Michael Assante co-authored the ICS Cyber Kill Chain with Robert Lee, Oct 2015"
+    },
+    {
+      "title": "Smart Grid Cybersecurity: Job Performance Model Report",
+      "url": "https://www.energy.gov/sites/prod/files/2013/05/f0/SGC-Report.pdf",
+      "description": "Michael Assante co-authored with report in August 2012"
+    },
+    {
+      "title": "No Grid Left Behind",
+      "url": "https://ieeexplore.ieee.org/document/5403157",
+      "description": "Michael Assante co-authored this document which was published in IEEE Security & Privacy Vol 8, Iss 1, Jan-Feb 2010"
+    },
+    {
+      "title": "Mike Assante’s lasting impact on critical infrastructure security",
+      "url": "https://www.csoonline.com/article/3403656/mike-assantes-lasting-impact-on-critical-infrastructure-security-and-me.html",
+      "description": "Thanks to Mike Assante, critical infrastructure stakeholders have a better understanding of and ability to respond to cybersecurity risks."
+    }
+  ],
+  "gallery": ""
 }

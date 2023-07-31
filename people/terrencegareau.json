@@ -1,18 +1,18 @@
 {
-	"firstname" : "Terrence",
-	"lastname" : "Gareau",
-	"handle" : "Tuna",
-	"birth" : "",
-	"death" : "",
-	"issue" : "2",
-	"mainimage" : "/images/Terrence_Gareau.jpg",
-	"maintext" : "<p>Terrence (Tuna) William Gareau was a son, brother, uncle, Godfather, lover, scientist, and best friend to many. The loss of him has been tragic to many because he meant so much to a lot of people.</p>",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://twitter.com/kingtuna"
-		}
-	],
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Terrence",
+  "lastname": "Gareau",
+  "handle": "Tuna",
+  "birth": "",
+  "death": "",
+  "issue": "2",
+  "mainimage": "/images/Terrence_Gareau.jpg",
+  "maintext": "<p>Terrence (Tuna) William Gareau was a son, brother, uncle, Godfather, lover, scientist, and best friend to many. The loss of him has been tragic to many because he meant so much to a lot of people.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/kingtuna"
+    }
+  ],
+  "contributions": "",
+  "gallery": ""
 }

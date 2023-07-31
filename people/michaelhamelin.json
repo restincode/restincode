@@ -1,18 +1,18 @@
 {
-	"firstname" : "Michael",
-	"lastname" : "Hamelin",
-	"handle" : "Hacker Joe",
-	"birth" : "",
-	"death" : "2015",
-	"issue" : "18",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://www.twitter.com/hackerjoe"
-		}
-	],
-	"contributions" : "",
-	"gallery" : ""
+  "firstname": "Michael",
+  "lastname": "Hamelin",
+  "handle": "Hacker Joe",
+  "birth": "",
+  "death": "2015",
+  "issue": "18",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://www.twitter.com/hackerjoe"
+    }
+  ],
+  "contributions": "",
+  "gallery": ""
 }

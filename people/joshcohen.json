@@ -1,20 +1,20 @@
 {
-	"firstname" : "Josh",
-	"lastname" : "Cohen",
-	"handle" : "PacBell",
-	"birth" : "1978",
-	"death" : "2005",
-	"issue" : "12",
-	"affiliations" : "Goon",
-	"mainimage" : "/images/y3t1_Art-Josh_Cohen_aka_PacBell.jpg",
-	"maintext" : "",
-	"socialmedialinks" : "",
-	"contributions" : [
-		{
-			"title" : "DEF CON Goon",
-			"url" : "https://www.defcon.org/html/links/dc-goon-hof.html",
-			"description" : "Served as a volunteer Goon at DEF CON."
-		}
-	],
-	"gallery" : ""
+  "firstname": "Josh",
+  "lastname": "Cohen",
+  "handle": "PacBell",
+  "birth": "1978",
+  "death": "2005",
+  "issue": "12",
+  "affiliations": "Goon",
+  "mainimage": "/images/y3t1_Art-Josh_Cohen_aka_PacBell.jpg",
+  "maintext": "",
+  "socialmedialinks": "",
+  "contributions": [
+    {
+      "title": "DEF CON Goon",
+      "url": "https://www.defcon.org/html/links/dc-goon-hof.html",
+      "description": "Served as a volunteer Goon at DEF CON."
+    }
+  ],
+  "gallery": ""
 }

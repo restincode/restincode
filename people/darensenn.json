@@ -1,17 +1,14 @@
 {
-	"firstname" : "Daren (Darin?)",
-	"lastname" : "Senn",
-	"handle" : "Sinster",
-	"birth" : "",
-	"death" : "",
-	"obituary" : "",
-	"issue" : "49",
-	"mainimage" : "/images/face-silhouette-clipart.png",
-	"maintext" : "",
-	"socialmedialinks" : [
-	],
-	"contributions" : [
-	],
-	"gallery" : [
-	]
+  "firstname": "Daren (Darin?)",
+  "lastname": "Senn",
+  "handle": "Sinster",
+  "birth": "",
+  "death": "",
+  "obituary": "",
+  "issue": "49",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }

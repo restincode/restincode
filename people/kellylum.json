@@ -1,59 +1,59 @@
 {
-	"firstname" : "Kelly",
-	"lastname" : "Lum",
-	"handle" : "Aloria",
-	"birth" : "",
-	"death" : "2023",
-	"obituary" : "https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/",
-	"issue" : "194",
-	"affiliations" : "SummerCon, BlackHat CFP",
-	"mainimage" : "/images/Kelly_Lum1.jpg",
-	"maintext" : "Kelly Lum \"officially\" worked in Information Security since 2003 and was the director of information security at Service Channel, a position she had held since 2019. She previously served as an adjunct professor at New York University's Tandon School of Engineering. She also brought decades of application security experience in the financial and government sectors to the microblogging world at Tumblr. Kelly Lum regularly spoke about reverse engineering at various conferences, including Black Hat, SummerCon, and COUNTERMEASURE.",
-	"socialmedialinks" : [
-		{
-			"sitename" : "Twitter",
-			"siteurl" : "https://twitter.com/aloria/"
-		},
-		{
-			"sitename" : "instagram",
-			"siteurl" : "https://www.instagram.com/aloriaaa/"
-		},
-		{
-			"sitename" : "tumblr",
-			"siteurl" : "https://aloria.tumblr.com/"
-		},
-		{
-			"sitename" : "infosec.exchange",
-			"siteurl" : "https://infosec.exchange/@aloria"
-		}
-	],
-	"contributions" : [
-		{
-			"title" : "Infosec Reactions",
-			"url" : "https://twitter.com/sec_reactions",
-			"description" : "When words aren't enough, say it with memes."
-		}, 
-        {
-            "title" : "Stay Out of the Kitchen: A DLP Security Bake-Off", 
-            "url" : "https://www.blackhat.com/asia-16/speakers/Kelly-Lum.html",
-            "description" : "Blackhat USA, vulnerabilities discovered in four commercial DLP products."
-        }
-	],
-	"gallery" : [
-		{
-			"url" : "/images/Kelly_Lum2.jpg",
-			"title" : "A picture of Aloria wearing a funny t-shirt",
-			"caption" : "A picture of Aloria wearing a funny t-shirt"
-		},
-		{
-			"url" : "/images/Kelly_Lum3.jpg",
-			"title" : "Aloria",
-			"caption" : "Aloria"
-		},
-		{
-			"url" : "/images/Kelly_Lum4.jpg",
-			"title" : "Photo of Kelly Lum on Halloween 2015",
-			"caption" : "Photo of Kelly Lum on Halloween 2015"
-		}
-	]
+  "firstname": "Kelly",
+  "lastname": "Lum",
+  "handle": "Aloria",
+  "birth": "",
+  "death": "2023",
+  "obituary": "https://techcrunch.com/2023/03/22/kelly-aloria-lum-passes-away-at-41-obituary/",
+  "issue": "194",
+  "affiliations": "SummerCon, BlackHat CFP",
+  "mainimage": "/images/Kelly_Lum1.jpg",
+  "maintext": "Kelly Lum \"officially\" worked in Information Security since 2003 and was the director of information security at Service Channel, a position she had held since 2019. She previously served as an adjunct professor at New York University's Tandon School of Engineering. She also brought decades of application security experience in the financial and government sectors to the microblogging world at Tumblr. Kelly Lum regularly spoke about reverse engineering at various conferences, including Black Hat, SummerCon, and COUNTERMEASURE.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/aloria/"
+    },
+    {
+      "sitename": "instagram",
+      "siteurl": "https://www.instagram.com/aloriaaa/"
+    },
+    {
+      "sitename": "tumblr",
+      "siteurl": "https://aloria.tumblr.com/"
+    },
+    {
+      "sitename": "infosec.exchange",
+      "siteurl": "https://infosec.exchange/@aloria"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Infosec Reactions",
+      "url": "https://twitter.com/sec_reactions",
+      "description": "When words aren't enough, say it with memes."
+    },
+    {
+      "title": "Stay Out of the Kitchen: A DLP Security Bake-Off",
+      "url": "https://www.blackhat.com/asia-16/speakers/Kelly-Lum.html",
+      "description": "Blackhat USA, vulnerabilities discovered in four commercial DLP products."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/Kelly_Lum2.jpg",
+      "title": "A picture of Aloria wearing a funny t-shirt",
+      "caption": "A picture of Aloria wearing a funny t-shirt"
+    },
+    {
+      "url": "/images/Kelly_Lum3.jpg",
+      "title": "Aloria",
+      "caption": "Aloria"
+    },
+    {
+      "url": "/images/Kelly_Lum4.jpg",
+      "title": "Photo of Kelly Lum on Halloween 2015",
+      "caption": "Photo of Kelly Lum on Halloween 2015"
+    }
+  ]
 }
