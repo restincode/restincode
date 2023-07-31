@@ -10,9 +10,9 @@ Contributors are the public community members who do not have specific access to
 
 Verify that an Issue [does not already exist](https://github.com/restincode/restincode/issues) for the individual you wish so submit. Once you've made sure, please use one of our <a href="https://github.com/restincode/restincode/issues/new/choose">existing templates</a> to open an issue for the following:
 
-* Add New Person to Site
-* Bug report
-* Feature request
+- Add New Person to Site
+- Bug report
+- Feature request
 
 Alternatively you can open a <a href="https://github.com/restincode/restincode/issues/new">regular issue</a> or you can also choose to submit the json file (located in [people/](https://github.com/restincode/restincode/tree/master/people)) directly (via a pull request). If you wish to submit your own json, please utilize this [template](https://github.com/restincode/restincode/blob/master/people/_template.json) to get started.
 
@@ -24,7 +24,7 @@ If you cannot find the person, you can add them using our Issue [template](https
 
 ### Testing your changes locally
 
-Using the provided Gemfile you can test locally by running ```bundle install``` and executing ```bundle exec jekyll serve``` to run a local web server on http://localhost:4000. Please verify your changes before submitting a Pull Request.
+Using the provided Gemfile you can test locally by running `bundle install` and executing `bundle exec jekyll serve` to run a local web server on http://localhost:4000. Please verify your changes before submitting a Pull Request.
 
 ## Maintainers
 
@@ -48,14 +48,14 @@ The big thing to look for will be that the persons name is spelled correctly in 
 
 ### Using Labels
 
-* **Add Person** - This shows that the PR or Issue is to add a new person to the RiC project. Should be replaced by "Person Added" once the work is completed.
-* **Add Data** - This shows that the PR or Issue is to add additional data, such as contributions or images to an existing person.
-* **BUG** - A bug in the actual website/github config/or jsons.
-* **Code** - A change to the actual code for this website.
-* **Ideas** - A proposed idea or change to the project, website, templates, or other materials.
-* **Needs Review** - This PR or Issue requires a Maintainer to review the changes and ensure that everything looks appropriate and up to standards.
-* **People** - This represents a PR or Issue that is specifically about a person in the memorial.
-* **Person Added** - This represents a person who's been added (a json created) to the memorial. Should be applied after the work is complete, and should replace the "Add Person" tag.
-* **Project** - Used to identify PRs or Issues that relate to the RiC project and not any of the people within it.
-* **Task** - A basic task being requested. This could fall within project, code, bug, or other non people focussed work.
-* **Work in Progress** - This will be applied if the PR or Issue should **NOT** be accepted in its current state. This is for work-in progress PR's that require more work from the contributor.
+- **Add Person** - This shows that the PR or Issue is to add a new person to the RiC project. Should be replaced by "Person Added" once the work is completed.
+- **Add Data** - This shows that the PR or Issue is to add additional data, such as contributions or images to an existing person.
+- **BUG** - A bug in the actual website/github config/or jsons.
+- **Code** - A change to the actual code for this website.
+- **Ideas** - A proposed idea or change to the project, website, templates, or other materials.
+- **Needs Review** - This PR or Issue requires a Maintainer to review the changes and ensure that everything looks appropriate and up to standards.
+- **People** - This represents a PR or Issue that is specifically about a person in the memorial.
+- **Person Added** - This represents a person who's been added (a json created) to the memorial. Should be applied after the work is complete, and should replace the "Add Person" tag.
+- **Project** - Used to identify PRs or Issues that relate to the RiC project and not any of the people within it.
+- **Task** - A basic task being requested. This could fall within project, code, bug, or other non people focussed work.
+- **Work in Progress** - This will be applied if the PR or Issue should **NOT** be accepted in its current state. This is for work-in progress PR's that require more work from the contributor.
