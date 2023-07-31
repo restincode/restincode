@@ -24,4 +24,4 @@ repos:
     -   id: prettier
         types: [json]
 ci:
-    autofix_prs: false
+    autofix_prs: true # set false to stop pull-request commits being added by pre-commit.ci
