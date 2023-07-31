@@ -8,8 +8,8 @@ repos:
     -   id: check-yaml # check for proper yaml formatting
     -   id: check-json # check for proper json formatting
 #    -   id: pretty-format-json
-#    -   id: end-of-file-fixer
-#    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
 #-   repo: https://github.com/pre-commit/mirrors-csslint
 #    rev: v1.0.5  # use `pre-commit autoupdate` to get the latest rev
 #    hooks:
