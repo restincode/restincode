@@ -1,0 +1,57 @@
+{
+  "firstname": "John",
+  "lastname": "Conway",
+  "handle": "",
+  "birth": "1937",
+  "death": "2020",
+  "obituary": "https://dailyvoice.com/new-jersey/mercer/obituaries/covid-19-kills-renowned-princeton-mathematician-game-of-life-inventor-john-conway-in-3-days/786461/",
+  "issue": "134",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/John_Horton_Conway"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Conway's Game of Life",
+      "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+      "description": "Conway's Game of Life is a cellular automaton. The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent."
+    },
+    {
+      "title": "Winning Ways for Your Mathematical Plays",
+      "url": "https://en.wikipedia.org/wiki/Winning_Ways_for_Your_Mathematical_Plays",
+      "description": "The first volume introduces combinatorial game theory and its foundation in the surreal numbers; partizan and impartial games; Sprague–Grundy theory and misère games. The second volume applies the theorems of the first volume to many games, including nim, sprouts, dots and boxes, Sylver coinage, philosopher's phutball, fox and geese. A final section on puzzles analyzes the Soma cube, Rubik's Cube, peg solitaire, and Conway's Game of Life."
+    },
+    {
+      "title": "On Numbers and Games",
+      "url": "https://en.wikipedia.org/wiki/On_Numbers_and_Games",
+      "description": "The book is roughly divided into two sections: the first half (or Zeroth Part), on numbers, the second half (or First Part), on games. In the Zeroth Part, Conway provides axioms for arithmetic: addition, subtraction, multiplication, division and inequality. "
+    },
+    {
+      "title": "Sprouts",
+      "url": "https://en.wikipedia.org/wiki/Sprouts_(game)",
+      "description": "Sprouts is a paper-and-pencil game which can be analyzed for its mathematical properties. It was invented by mathematicians John Horton Conway and Michael S. Paterson[1] at Cambridge University in the early 1960s. The setup is even simpler than the popular Dots and Boxes game, but game-play develops much more artistically and organically."
+    },
+    {
+      "title": "List of things named after John Horton Conway",
+      "url": "https://en.wikipedia.org/wiki/List_of_things_named_after_John_Horton_Conway",
+      "description": "At least 20 plus things have been named after John Conway"
+    },
+    {
+      "title": "So, so many more",
+      "url": "https://en.wikipedia.org/wiki/John_Horton_Conway#Select_publications",
+      "description": "John theorized, created, inspired, was named after, so many different ideas, topics, games, and much more."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/John_H_Conway_2005_(cropped).jpg",
+      "title": "Photographer: Thane Plambeck - 'https://www.flickr.com/photos/thane/20366806/'",
+      "caption": "John H. Conway at conference on Combinatorial Game Theory at Banff International Research Station, June, 2005"
+    }
+  ]
+}
