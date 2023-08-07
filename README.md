@@ -1,7 +1,6 @@
 <p align="center">
   <p align="center">
     <a href="https://github.com/restincode/restincode/actions/workflows/pages/pages-build-deployment"><img alt="Deploy GitHub Pages" src="https://img.shields.io/github/deployments/restincode/restincode/github-pages?style=flat&logoColor=turquoise&label=latest%20deploy"></a>
-    <a href="https://github.com/restincode/restincode/actions/workflows/test_and_proof.yml"><img alt="Test and Proof" src="https://img.shields.io/github/actions/workflow/status/restincode/restincode/test_and_proof.yml?style=flat&logoColor=turquoise&label=html%20check"></a>
     <a href ="https://results.pre-commit.ci/latest/github/restincode/restincode/main"><img alt="pre-commit.ci status" src="https://results.pre-commit.ci/badge/github/restincode/restincode/main.svg">
     <a href="https://github.com/restincode/restincode/commits/main"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/restincode/restincode?style=flat&logoColor=turquoise"></a>
     <br>
