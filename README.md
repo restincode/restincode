@@ -37,6 +37,11 @@ This project is intended to be open to all and a true community effort. Everyone
 
 Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main/CONTRIBUTING.md) guide for instructions on how to help this project grow.
 
+## Contributors
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+
 <p align="center">
   <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=restincode"><img src="https://img.shields.io/twitter/follow/restincode?style=social&logo=twitter" alt="follow on Twitter"></a> &nbsp;
