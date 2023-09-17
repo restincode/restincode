@@ -15,7 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          image_size: 80
-          readme_path: README.md
-          columns_per_row: 6
           commit_message: 'chore(README.md): updates contributors list'
