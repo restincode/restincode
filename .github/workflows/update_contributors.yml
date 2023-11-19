@@ -17,4 +17,4 @@ jobs:
         with:
           commit_message: 'docs(README.md): contrib-readme-action has updated readme'
           
-          auto_detect_branch_protection: false
+          auto_detect_branch_protection: true
