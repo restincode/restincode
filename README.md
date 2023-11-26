@@ -71,20 +71,27 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/snowcra5h">
+            <img src="https://avatars.githubusercontent.com/u/90065760?v=4" width="100;" alt="snowcra5h"/>
+            <br />
+            <sub><b>Snowcra5h</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/todb">
             <img src="https://avatars.githubusercontent.com/u/24144?v=4" width="100;" alt="todb"/>
             <br />
             <sub><b>Tod Beardsley</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/philcryer">
             <img src="https://avatars.githubusercontent.com/u/43070?v=4" width="100;" alt="philcryer"/>
             <br />
             <sub><b>Phil Cryer</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Popsiclestick">
             <img src="https://avatars.githubusercontent.com/u/5554398?v=4" width="100;" alt="Popsiclestick"/>
