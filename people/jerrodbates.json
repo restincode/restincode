@@ -1,0 +1,32 @@
+{
+  "firstname": "Jerrod",
+  "lastname": "Bates",
+  "birth": "1974",
+  "death": "2023",
+  "obituary": "https://www.legacy.com/us/obituaries/baytobaynews-de/name/jerrod-bates-obituary?id=53151891",
+  "affiliations": "Del Tech, Wilmington University, US Cyber Challenge",
+  "mainimage": "/images/Image-jerrod-bates.jfif",
+  "maintext": " Jerrod Bates was a cybersecurity teacher in Delaware who inspired a lot of students to get active in the community and actually taught infosec right. He was active in conferences, getting students to conferences, and also getting students in places like US Cyber Challenge. He was a great teacher and a great person. He will be missed.",
+  "socialmedialinks": [
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/jerrod-bates-mba-cissp-ceh-3853a085/"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/jerrod.bates.9"
+    }
+  ],
+  "contributions": [
+    {
+      "title": " infosec teacher",
+      "description": "He inspired a lot of students to get active in the community and actually taught infosec right."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/Image-jerrod-bates.jfif",
+      "title": "Photo of Jerrod Bates"
+    }
+  ]
+}
