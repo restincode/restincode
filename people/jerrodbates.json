@@ -1,6 +1,7 @@
 {
   "firstname": "Jerrod",
   "lastname": "Bates",
+  "handle": "",
   "birth": "1974",
   "death": "2023",
   "obituary": "https://www.legacy.com/us/obituaries/baytobaynews-de/name/jerrod-bates-obituary?id=53151891",
@@ -15,12 +16,6 @@
     {
       "sitename": "Facebook",
       "siteurl": "https://www.facebook.com/jerrod.bates.9"
-    }
-  ],
-  "contributions": [
-    {
-      "title": " infosec teacher",
-      "description": "He inspired a lot of students to get active in the community and actually taught infosec right."
     }
   ],
   "gallery": [
