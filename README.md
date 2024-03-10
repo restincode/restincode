@@ -71,10 +71,10 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/snowcra5h">
-            <img src="https://avatars.githubusercontent.com/u/90065760?v=4" width="100;" alt="snowcra5h"/>
+        <a href="https://github.com/7etsuo">
+            <img src="https://avatars.githubusercontent.com/u/90065760?v=4" width="100;" alt="7etsuo"/>
             <br />
-            <sub><b>Storm - E/acc</b></sub>
+            <sub><b>Abc</b></sub>
         </a>
     </td>
     <td align="center">
