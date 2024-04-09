@@ -2,7 +2,7 @@
 exclude: '(CNAME|Gemfile|\..*\.y[a]?ml)'
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0  # use `pre-commit autoupdate` to get the latest rev
+    rev: v4.6.0  # use `pre-commit autoupdate` to get the latest rev
     hooks:
     - id: no-commit-to-branch
       args: ['--branch', 'main'] # prevent local commits to main branch
