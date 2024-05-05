@@ -41,64 +41,68 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main
 
 <!-- readme: collaborators,contributors -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/mauvehed">
-            <img src="https://avatars.githubusercontent.com/u/141381?v=4" width="100;" alt="mauvehed"/>
-            <br />
-            <sub><b>Mauvehed</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mubix">
-            <img src="https://avatars.githubusercontent.com/u/679319?v=4" width="100;" alt="mubix"/>
-            <br />
-            <sub><b>Rob Fuller</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/frenchi">
-            <img src="https://avatars.githubusercontent.com/u/1568199?v=4" width="100;" alt="frenchi"/>
-            <br />
-            <sub><b>Frenchie</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/attritionorg">
-            <img src="https://avatars.githubusercontent.com/u/3095424?v=4" width="100;" alt="attritionorg"/>
-            <br />
-            <sub><b>Jericho</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/7etsuo">
-            <img src="https://avatars.githubusercontent.com/u/90065760?v=4" width="100;" alt="7etsuo"/>
-            <br />
-            <sub><b>Tetsuo</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/todb">
-            <img src="https://avatars.githubusercontent.com/u/24144?v=4" width="100;" alt="todb"/>
-            <br />
-            <sub><b>Tod Beardsley</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/philcryer">
-            <img src="https://avatars.githubusercontent.com/u/43070?v=4" width="100;" alt="philcryer"/>
-            <br />
-            <sub><b>Phil Cryer</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Popsiclestick">
-            <img src="https://avatars.githubusercontent.com/u/5554398?v=4" width="100;" alt="Popsiclestick"/>
-            <br />
-            <sub><b>Michael Salsone</b></sub>
-        </a>
-    </td></tr>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/mauvehed">
+                    <img src="https://avatars.githubusercontent.com/u/141381?v=4" width="100;" alt="mauvehed"/>
+                    <br />
+                    <sub><b>Mauvehed</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/mubix">
+                    <img src="https://avatars.githubusercontent.com/u/679319?v=4" width="100;" alt="mubix"/>
+                    <br />
+                    <sub><b>Rob Fuller</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/frenchi">
+                    <img src="https://avatars.githubusercontent.com/u/1568199?v=4" width="100;" alt="frenchi"/>
+                    <br />
+                    <sub><b>Frenchie</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/attritionorg">
+                    <img src="https://avatars.githubusercontent.com/u/3095424?v=4" width="100;" alt="attritionorg"/>
+                    <br />
+                    <sub><b>Jericho</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/7etsuo">
+                    <img src="https://avatars.githubusercontent.com/u/90065760?v=4" width="100;" alt="7etsuo"/>
+                    <br />
+                    <sub><b>Tetsuo</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/todb">
+                    <img src="https://avatars.githubusercontent.com/u/24144?v=4" width="100;" alt="todb"/>
+                    <br />
+                    <sub><b>Tod Beardsley</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/philcryer">
+                    <img src="https://avatars.githubusercontent.com/u/43070?v=4" width="100;" alt="philcryer"/>
+                    <br />
+                    <sub><b>Phil Cryer</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Popsiclestick">
+                    <img src="https://avatars.githubusercontent.com/u/5554398?v=4" width="100;" alt="Popsiclestick"/>
+                    <br />
+                    <sub><b>Michael Salsone</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
 </table>
 <!-- readme: collaborators,contributors -end -->
 
