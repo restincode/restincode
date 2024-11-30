@@ -1,0 +1,183 @@
+{
+  "firstname": "Chris",
+  "lastname": "Hurley",
+  "handle": "Roamer",
+  "birth": "1970-06-04",
+  "death": "2023-01-21",
+  "obituary": "https://web.archive.org/web/20230129033108/https://www.dignitymemorial.com/obituaries/san-diego-ca/christopher-hurley-11124704",
+  "issue": "https://github.com/restincode/restincode/issues/192",
+  "affiliations": "DEF CON, DC 303, DEF CON 101, WorldWide WarDrive, Department of Energy, Sony PlayStation",
+  "mainimage": "/images/churley00.jpg",
+  "maintext": "Appearing in a cloud of (cigarette) smoke, Roamer is a man full of whiskey and ideas. He has appeared at DEF CON since before (almost) the beginning. He is a renown author, speaker, pontificator and is famous for giving the most entertaining Worldwide Wardrive talk. He is also the Grand Vizier of All Things Vendor-you are welcome. When Roamer speaks, people listen. And often fall in love.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter - Profile",
+      "siteurl": "https://www.twitter.com/shitroamersays"
+    },
+    {
+      "sitename": "Twitter - Hashtag",
+      "siteurl": "https://x.com/hashtag/RIProamer"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/chris-hurley-40418957/"
+    },
+    {
+      "sitename": "Infocon Database",
+      "siteurl": "https://infocondb.org/presenter/chris-hurley-roamer"
+    },
+    {
+      "sitename": "O’Reilly",
+      "siteurl": "https://www.oreilly.com/pub/au/1381"
+    },
+  ],
+  "contributions": [
+    {
+      "title": "2011 - Publication - Wireless Security: Know It All",
+      "url": "https://www.oreilly.com/library/view/wireless-security-know/9781856175296/",
+      "description": "The Wireless Security Know It All covers every angle including Emerging Wireless Technologies and Security Issues, Wireless LAN and MAN Security, as well as Wireless Personal Area Networks."
+    },
+    {
+      "title": "2011 - Publication - OS X Exploits and Defense",
+      "url": "https://www.oreilly.com/library/view/os-x-exploits/9781597492546/",
+      "description": "Contrary to popular belief, there has never been any shortage of Macintosh-related security issues. OS9 had issues that warranted attention. However, due to both ignorance and a lack of research, many of these issues never saw the light of day. No solid techniques were published for executing arbitrary code on OS9, and there are no notable legacy Macintosh exploits. Due to the combined lack of obvious vulnerabilities and accompanying exploits, Macintosh appeared to be a solid platform. Threats to Macintosh's OS X operating system are increasing in sophistication and number. Whether it is the exploitation of an increasing number of holes, use of rootkits for post-compromise concealment or disturbed denial of service, knowing why the system is vulnerable and understanding how to defend it is critical to computer security."
+    },
+    {
+      "title": "2007 - Publication - Penetration Tester's Open Source Toolkit, 2nd Edition",
+      "url": "https://www.oreilly.com/library/view/how-to-cheat/9781597490870/",
+      "description": "Penetration testing a network requires a delicate balance of art and science. A penetration tester must be creative enough to think outside of the box to determine the best attack vector into his own network, and also be expert in using the literally hundreds of tools required to execute the plan. This second volume adds over 300 new pentesting applications included with BackTrack 2 to the pen tester's toolkit. It includes the latest information on Snort, Nessus, Wireshark, Metasploit, Kismet and all of the other major Open Source platforms."
+    },
+    {
+      "title": "2006 - Publication - WarDriving and Wireless Penetration Testing",
+      "url": "https://www.oreilly.com/library/view/wardriving-and-wireless/9781597491112/",
+      "description": "Unlike other wireless networking and security books that have been published in recent years, this book is geared primarily to those individuals that are tasked with performing penetration testing on wireless networks. This book continues in the successful vein of books for penetration testers such as Google Hacking for Penetration Testers and Penetration Tester’s Open Source Toolkit. Additionally, the methods discussed will prove invaluable for network administrators tasked with securing wireless networks. By understanding the methods used by penetration testers and attackers in general, these administrators can better define the strategies needed to secure their networks."
+    },
+    {
+      "title": "2006 - Publication - How to Cheat at Securing a Wireless Network",
+      "url": "https://www.oreilly.com/library/view/how-to-cheat/9781597490870/",
+      "description": "Wireless connectivity is now a reality in most businesses. Yet by its nature, wireless networks are the most difficult to secure and are often the favorite target of intruders. This book provides the busy network administrator with best-practice solutions to securing the wireless network. With the increased demand for mobile connectivity and the decrease in cost and in the time required for installation, wireless network connections will make up 20% of all corporate network connections by the end of 2006. With this increase in usage comes a commensurate increase in the network’s vulnerability to intrusion. This book provides the typical network administrator with the basic tools and instruction they need to maintain a secure network while allowing acceptable access to users."
+    },
+    {
+      "title": "2006 - Audio - Paul's Security Weekly - Special Edition - Interview with Chris 'Roamer' Hurley",
+      "url": "https://www.podchaser.com/podcasts/pauls-security-weekly-5510/episodes/pauls-security-weekly-special-265995",
+      "description": ""
+    },
+    {
+      "title": "2005 - Publication - Stealing the Network: How to Own an Identity",
+      "url": "https://www.oreilly.com/library/view/stealing-the-network/9781597490061/",
+      "description": "In this third installment, the all-star cast of authors tackle one of the fastest growing crimes in the world: Identity Theft. Now, the criminal hackers readers have grown to both love and hate try to cover their tracks and vanish into thin air… 'Stealing the Network: How to Own an Identity' is the 3rd book in the 'Stealing' series, and continues in the tradition created by its predecessors by delivering real-world network attack methodologies and hacking techniques within a context of unique and original fictional accounts created by some of the world's leading security professionals and computer technologists. The seminal works in TechnoFiction, this 'STN' collection yet again breaks new ground by casting light upon the mechanics and methods used by those lurking on the darker side of the Internet, engaging in the fastest growing crime in the world: Identity theft."
+    },
+    {
+      "title": "2005 - Presentation - Black Hat Japan - Identifying and Responding to Wireless Attacks",
+      "url": "https://www.blackhat.com/presentations/bh-jp-05/bh-jp-05-hurley/bh-jp-05-hurley.pdf",
+      "description": "This presentation details the methods attackers utilize to gain access to wireless networks and their attached resources. Examples of the traffic that typifies each attack are shown and discussed, providing attendees with the knowledge too identify each attack. Defensive measures that can be taken in real time to counter the attack are then presented. Chris Hurley (Roamer) is a Senior Penetration Tester working in the Washington, DC area. He is the founder of the WorldWide WarDrive, a four-year effort by INFOSEC professionals and hobbyists to generate awareness of the insecurities associated with wireless networks and is the lead organizer of the DEF CON WarDriving Contest. Chris has spoken at several security conferences and published numerous whitepapers on a wide range of INFOSEC topics. Chris is the lead author of 'WarDrivin': Drive, Detect, Defend', and a contributor to 'Stealing the Network: How to Own an Identity', 'Aggressive Network Self-Defense', 'InfoSec Career Hacking', and 'OS X for Hackers at Heart'."
+    },
+    {
+      "title": "2005 - Publication - InfoSec Career Hacking: Sell Your Skillz, Not Your Soul",
+      "url": "https://www.oreilly.com/library/view/infosec-career-hacking/9781597490115/",
+      "description": "InfoSec Career Hacking starts out by describing the many, different InfoSec careers available including Security Engineer, Security Analyst, Penetration Tester, Auditor, Security Administrator, Programmer, and Security Program Manager. The particular skills required by each of these jobs will be described in detail, allowing the reader to identify the most appropriate career choice for them."
+    },
+    {
+      "title": "2004 - Video - Black Hat USA - WorldWide War Drive",
+      "url": "https://youtu.be/hrfhDF2tgeo?si=vgRwj1ranTrtEFVl",
+      "description": ""
+    },
+    {
+      "title": "2003 - Presentation - DEF CON 11  - The WorldWide WarDrive: The Myths, The Misconceptions, The Truth, The Future",
+      "url": "https://defcon.org/images/defcon-11/dc-11-presentations/dc-11-Hurley-C/dc-11-hurley-c.pdf",
+      "description": ""
+    },
+    {
+      "title": "2003 - Video - DEF CON 11 - The WorldWide WarDrive: The Myths, The Misconceptions, The Truth, The Future",
+      "url": "https://youtu.be/p6rPRIFCJaM?si=D0EH2oe2ZUinuWlM",
+      "description": "The WorldWide WarDrive is an effort by security professionals and hobbyists to generate awareness of the need by individual users and companies to secure their access points. The goal of the WorldWide WarDrive (or WWWD) is to provide a statistical analysis of the many access points that are currently deployed. Roamer will discuss the origin of the project, many of the difficulties the project has run into with the press and 'other entities', the truth behind the goals of the project and the direction the project is moving in the future. Also, the full statistical analysis and results of the Third WorldWide WarDrive will be revealed for the first time. Cris Hurley (aka Roamer) is a Principal Information Security Engineer working in the Washington DC area. Primarily focusing his efforts on vulnerability assessments, he also performs penetration testing, forensics and incident response operations on both wired and wireless networks. He has spoken at several security conferences, been published in numerous online and print publications, and been the subject of several interviews and stories regarding the WorldWide WarDrive. He has worked as a DefCon Goon for the past four years and is the primary organizer of the DefCon WarDriving Contest."
+    },
+    {
+      "title": "2003 - Video - DEF CON 11 - Internet Radio Politics",
+      "url": "https://youtu.be/6zmn8_db8nc?si=WgtAP8JqDuYG3MAa",
+      "description": ""
+    },
+    {
+      "title": "2002 - Video - DEF CON 10 - Hardening Solaris Installs",
+      "url": "https://youtu.be/g2Tu3_Y-C04?si=ojaheRSPO6cTWA_F",
+      "description": "A step by step guide to hardening a Solaris installation. Focusing primarily on Solaris 8 but with concepts that apply to all Solaris/Unix installs, attendees will learn the steps that need to be taken to lock down a Solaris installation. While recognizing the best practice of pre-deployment hardening, the concepts presented also apply to already live Solaris installations. Rather than focusing on known attacks and reacting to them, this presentation will better equip system/security administrators to proactively reduce the risk of a successful attack against their systems. Chris Hurley is a Senior Information Security Engineer working in the Washington DC area. Primarily focusing his efforts on vulnerability assessments, he also performs penetration testing, forensics and incident response operations. He has spoken at the IATF Forums in Washington DC and has written numerous whitepapers for both print publications and online security sites. Many of his papers can be found at his site SecurityTribe and also at Security Horizon. He has worked as a DefCon Goon for the past three years which probably explains both the bags under his eyes and the rubber truncheon in his hand."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/chrishurley01.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley standing next to Pyr0 around an unknown date"
+    },
+    {
+      "url": "/images/chrishurley02.jpg",
+      "title": "Photo of Chris Hurley at unknown location",
+      "caption": "Chris Hurley hanging out with Terrence Gareau and Rob Collins around 2009"
+    },
+    {
+      "url": "/images/chrishurley03.jpg",
+      "title": "Photo of Chris Hurley at unknown location",
+      "caption": "Chris Hurley being interviewed by Textfiles on June 13th 2012"
+    },
+    {
+      "url": "/images/chrishurley04.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas",
+      "caption": "Chris Hurley posing for a picture in a goon shirt and a cowboy hat on the casino floor around July 27th 2012"
+    },
+     {
+      "url": "/images/chrishurley05.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley hanging out with friends on July 31st 2012"
+    },
+    {
+      "url": "/images/chrishurley06.jpg",
+      "title": "Photo of Chris Hurley at unknown location",
+      "caption": "Chris Hurley posing for a picture with Deviant Ollam on an unknown date"
+    },
+    {
+      "url": "/images/chrishurley07.jpg",
+      "title": "Photo of Chris Hurley in London England",
+      "caption": "Chris Hurley posing tweeting with Steve Kirk on February 24th 2013"
+    }, 
+    {
+      "url": "/images/chrishurley08.jpg",
+      "title": "Photo of Chris Hurley in London England",
+      "caption": "Chris Hurley posing with poster in a PlayStation Studio on February 27th 2013"
+    },
+    {
+      "url": "/images/chrishurley09.jpg",
+      "title": "Photo of Chris Hurley in London England",
+      "caption": "Chris Hurley hanging out with Steve Kirk on February 27th 2013"
+    },
+    {
+      "url": "/images/chrishurley10.jpg",
+      "title": "Photo of Chris Hurley in Tokyo Japan",
+      "caption": "Chris Hurley enjoying karaoke with Alijohn Ghassemlouei on November 13th 2013"
+    },
+    {
+      "url": "/images/chrishurley11.jpg",
+      "title": "Photo of Chris Hurley in London England",
+      "caption": "Chris Hurley enjoying lunch with friends on February 5th 2014"
+    }, 
+    {
+      "url": "/images/chrishurley12.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley posing for a picture on August 7th 2014"
+    },
+   {
+      "url": "/images/chrishurley13.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley posing for a photo with Dead Addict on August 11th 2014"
+    },
+    {
+      "url": "/images/chrishurley14.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley posing for a picture with friends on an unknown date"
+    },
+    {
+      "url": "/images/chrishurley15.jpg",
+      "title": "Photo of Chris Hurley in Las Vegas at DEF CON",
+      "caption": "Chris Hurley presenting at closing ceremonies on July 27th 2017"
+    }
+  ]
+}
