@@ -1,0 +1,85 @@
+{
+  "firstname": "Ben",
+  "lastname": "Preston",
+  "handle": "Veruus",
+  "birth": "1978-07-11",
+  "death": "2016-12-15",
+  "obituary": "",
+  "issue": "171",
+  "affiliations": "Black Hat, DEF CON, DEF CON Swag Goon",
+  "mainimage": "/images/benpreston00.jpg",
+  "maintext": "Lorem ipsum dolor sit amet.",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/veruus"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/veruus"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/benpreston/"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/benjamin.preston"
+    },
+    {
+      "sitename": "Flickr",
+      "siteurl": "https://www.flickr.com/photos/veruus/"
+    },
+    {
+      "sitename": "Blogger",
+      "siteurl": "https://www.blogger.com/profile/01773288736238203979"
+    },
+    {
+      "sitename": "Quora",
+      "siteurl": "https://www.quora.com/profile/Ben-Preston-4"
+    },
+    {
+      "sitename": "Personal Website",
+      "siteurl": "https://web.archive.org/web/20141218102133/http://veru.us/"
+    },
+  ],
+  "contributions": [
+  ],
+  "gallery": [
+    {
+      "url": "/images/benpreston01.jpg",
+      "title": "Photo of Ben Preston in Las Vegas at Black Hat USA",
+      "caption": "Ben Preston posing for a group photo at Caesar's Palace on August 3rd 2009"
+    },
+    {
+      "url": "/images/benpreston02.jpg",
+      "title": "Photo of Ben Preston in Las Vegas",
+      "caption": "Ben Preston posing for a photo With Ryan Clark on August 2nd 2009"
+    },
+    {
+      "url": "/images/benpreston03.jpg",
+      "title": "Photo of Ben Preston at unknown location",
+      "caption": "Ben Preston posing for a photo with his Hack Naked t-shirt on May 3rd 2012"
+    },
+    {
+      "url": "/images/benpreston04.jpg",
+      "title": "Photo of Ben Preston at unknown location",
+      "caption": "Ben Preston on his phone on June 4th 2012"
+    },
+    {
+      "url": "/images/benpreston05.jpg",
+      "title": "Photo of Ben Preston at unknown location",
+      "caption": "Ben Preston taking a selfie on October 13th 2014"
+    },
+    {
+      "url": "/images/benpreston06.jpg",
+      "title": "Photo of Ben Preston at unknown location",
+      "caption": "Ben Preston taking a selfie on April 13th 2016"
+    },
+    {
+      "url": "/images/benpreston07.jpg",
+      "title": "Photo of Ben Preston at unknown location",
+      "caption": "Ben Preston taking a selfie on June 26th 2016"
+    }
+  ]
+}
