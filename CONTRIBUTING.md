@@ -57,5 +57,5 @@ The big thing to look for will be that the persons name is spelled correctly in 
 - **People** - This represents a PR or Issue that is specifically about a person in the memorial.
 - **Person Added** - This represents a person who's been added (a json created) to the memorial. Should be applied after the work is complete, and should replace the "Add Person" tag.
 - **Project** - Used to identify PRs or Issues that relate to the RiC project and not any of the people within it.
-- **Task** - A basic task being requested. This could fall within project, code, bug, or other non people focussed work.
+- **Task** - A basic task being requested. This could fall within project, code, bug, or other non people focused work.
 - **Work in Progress** - This will be applied if the PR or Issue should **NOT** be accepted in its current state. This is for work-in progress PR's that require more work from the contributor.
