@@ -2,20 +2,41 @@
   "firstname": "Steve",
   "lastname": "Kirk",
   "handle": "Lockheed",
-  "birth": "",
-  "death": "2019",
-  "obituary": "",
+  "birth": "1970-08-24",
+  "death": "2019-08-05",
+  "obituary": "https://www.tributearchive.com/obituaries/7093841/steven-kirk",
   "issue": "60",
-  "mainimage": "/images/Steve_Kirk.jpg",
-  "maintext": "He was one of only a few folks who has ever lead the DEFCON NOC, and was the COO of DEFCON for a term before Speedrussr took over.",
+  "affiliations": "DEF CON, DEF CON NOC, DEF CON 101, Sony PlayStation",
+  "mainimage": "/images/stevekirk00.jpg",
+  "maintext": "He was one of only a few folks who has ever lead the DEF CON NOC, and was the COO of DEF CON for a term before Speedrussr took over.",
   "socialmedialinks": [
     {
       "sitename": "Twitter",
       "siteurl": "https://www.twitter.com/TheLockheed"
     },
     {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/sbkirk"
+    },
+    {
+      "sitename": "Instagram",
+      "siteurl": "https://www.instagram.com/Steve_of_Clan_Kirk"
+    },
+    {
+      "sitename": "Keybase",
+      "siteurl": "https://keybase.io/lockheed"
+    },
+    {
+      "sitename": "Infocon Database",
+      "siteurl": "https://infocondb.org/presenter/lockheed"
+    },
+    {
       "sitename": "Website",
       "siteurl": "http://www.random-ether.net"
+    },
+    {
+      "sitename": "Saber Martial Arts Foundation",
+      "siteurl": "https://sabermartialarts.life/our-force-ghost/"
     }
   ],
   "contributions": [
@@ -23,26 +44,31 @@
       "title": "DEF CON NOC",
       "url": "https://www.defconnetworking.org/",
       "description": "Lockheed lead the DEF CON NOC team for a number of years, providing leadership and guidance as the conference grew to unimaginable capacity."
+    },
+    {
+      "title": "Sony PlayStation Credits",
+      "url": "https://www.mobygames.com/person/253393/steven-kirk/credits/",
+      "description": "Steve has been listed on 123 video game credits in various capacities. Helping preserve the player experience and bringing joy to many around the world."
     }
   ],
   "gallery": [
     {
-      "url": "/images/Steve_Kirk2.jpg",
+      "url": "/images/stevekirk01.jpg",
       "title": "Lockheed DEF CON",
       "caption": "Lockheed DEF CON"
     },
     {
-      "url": "/images/Steve_Kirk3.jpg",
+      "url": "/images/stevekirk02.jpg",
       "title": "Lockheed Motorcycle",
       "caption": "Lockheed Motorcycle"
     },
     {
-      "url": "/images/Steve_Kirk4.jpg",
+      "url": "/images/stevekirk03.jpg",
       "title": "Lockheed Stonewall Peak",
       "caption": "Lockheed Stonewall Peak"
     },
     {
-      "url": "/images/Steve_Kirk5.jpg",
+      "url": "/images/stevekirk04.jpg",
       "title": "Lockheed IG Party",
       "caption": "Lockheed IG Party"
     }
