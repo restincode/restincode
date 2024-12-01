@@ -37,6 +37,10 @@ This project is intended to be open to all and a true community effort. Everyone
 
 Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main/CONTRIBUTING.md) guide for instructions on how to help this project grow.
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/0fcddc45e1f666ef3ff221d43648b1e5e2337f5c.svg "Repobeats analytics image")
+
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
