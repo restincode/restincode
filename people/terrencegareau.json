@@ -2,17 +2,104 @@
   "firstname": "Terrence",
   "lastname": "Gareau",
   "handle": "Tuna",
-  "birth": "",
-  "death": "",
+  "birth": "1980",
+  "death": "2019-06-29",
+  "obituary": "",
   "issue": "2",
-  "mainimage": "/images/Terrence_Gareau.jpg",
-  "maintext": "<p>Terrence (Tuna) William Gareau was a son, brother, uncle, Godfather, lover, scientist, and best friend to many. The loss of him has been tragic to many because he meant so much to a lot of people.</p>",
+  "affiliations": "DEF CON, DEF CON CFP, 303, Prolexic",
+  "mainimage": "/images/terrencegareau00.jpg",
+  "maintext": "Terrence (Tuna) William Gareau was a son, brother, uncle, Godfather, lover, scientist, and best friend to many. The loss of him has been tragic to many because he meant so much to a lot of people. ",
   "socialmedialinks": [
     {
       "sitename": "Twitter",
       "siteurl": "https://twitter.com/kingtuna"
+    },
+    {
+      "sitename": "GitHub",
+      "siteurl": "https://github.com/kingtuna"
+    },
+    {
+      "sitename": "Infocon Database",
+      "siteurl": "https://infocondb.org/presenter/terrence-tuna-gareau"
+    },
+    {
+      "sitename": "Crunchbase",
+      "siteurl": "https://www.crunchbase.com/person/terrence-gareau"
+    },
+    {
+      "sitename": "RSA Conference",
+      "siteurl": "https://www.rsaconference.com/experts/terrence-gareau"
+    },
+    {
+      "sitename": "Pintrest",
+      "siteurl": "https://www.pinterest.com/therealtuna/"
+    },
+    {
+      "sitename": "Quora",
+      "siteurl": "https://www.quora.com/profile/Terrence-Gareau"
+    },
+    {
+      "sitename": "SoundCloud",
+      "siteurl": "https://soundcloud.com/therealtuna"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [
+    {
+      "title": "2019 - Patent - Situational awareness and perimeter protection orchestration",
+      "url": "https://patents.google.com/patent/US10419473B1/en",
+      "description": "Systems and methods provide for a situational awareness and perimeter protection orchestration system to determine when network attacks are occurring or are about to occur, and provide tools and services to mitigate the attacks. The attacks can be denial of service attacks or distributed denial of service attacks or other types of attacks designed to disable and degrade a network. The dashboard can collect intelligence on what is happening on the network, and also streams of information from third parties that can be used to predict imminent network attacks. The dashboard can also determine what tools and services are available to the network operator in order to counteract the attacks."
+    },
+    {
+      "title": "2016 - Video - DDoS: Current and Evolving Frameworks",
+      "url": "https://youtu.be/8G9PERNIAPM?si=VI_D4ifdxjGTSzLY",
+      "description": "PLXsert (Prolexic Security Engineering and Response Team) is responsible for security research and threat intelligence for Prolexic Technologies. The Distributed Denial of Service outlook definitely took new turn in 2012 and is continuing on that track for 2013. The threat landscape is one that requires two perspectives for a comprehensive view into the tactics of involved malicious actors. On the defensive side of the spectrum, these developments have paved way for creative innovation. Prolexic has been in the unique position to be able to observe this evolutionary process over the years, which has enabled the ability to stay on the forefront of upcoming attack techniques and associated BOTNETs. PLXsert will reveal findings and statistics that can only be collected from that of the defensive side. We will also disclose specific case studies that review some of the highlighted attack campaigns and toolsets behind this ongoing elevated threat within the one hour presentation. "
+    },
+    {
+      "title": "2016 - Patent - Situational awareness and perimeter protection orchestration",
+      "url": "https://patents.google.com/patent/US10419473/en",
+      "description": "Systems and methods provide for a situational awareness and perimeter protection orchestration system to determine when network attacks are occurring or are about to occur, and provide tools and services to mitigate the attacks. The attacks can be denial of service attacks or distributed denial of service attacks or other types of attacks designed to disable and degrade a network. The dashboard can collect intelligence on what is happening on the network, and also streams of information from third parties that can be used to predict imminent network attacks. The dashboard can also determine what tools and services are available to the network operator in order to counteract the attacks."
+    },
+    {
+      "title": "2013 - Abstract  - DEF CON 21 - Intro to Web Application Hacking",
+      "url": "https://defcon.org/html/defcon-21/dc-21-speakers.html#webapphack",
+      "description": "This talk will will cover web application attack basics to get any n00b started on the path of web app pentesting. Specifically we will cover cross site scripting attacks in javascript, sql injections with a mysql backend, and remote/local file inclusions within PHP. Others people that may join us through the presentation will be Alex Heid, Rod Soto, p33p33, chatters, and a few other special friends of the fish."
+    },
+    {
+      "title": "2012 - Abstract - DEF CON 20 - HF Skiddies Suck, Don't Be One. Learn Some Basic Python",
+      "url": "https://defcon.org/html/defcon-20/dc-20-speakers.html#Gareau",
+      "description": "Fuck a bunch of skiddie tools acquired from bobo forums. One does not have to be a master to write their own shit. Yoda said it best get off your dick and write yourself some Python (Just don't show it to Highwiz he might bite it). Also always remember to stay in the the wizards good graces or you will find yourself publicly humiliated. You can come to this talk and find out how to be humiliated publicly but also: learn some python from a hackers perspective. Oh yea: Dongs, Schlongs, and Turds"
+    },
+    {
+      "title": "2007 - Video - DEF CON 15 - Hacking EVDO",
+      "url": "https://youtu.be/qUiEW5iMs1E?si=L5mX0rikjWpGfrQm",
+      "description": "Come and spend 50 minutes with the King, not Elvis, but King Tuna. He is going to give you a peak into EvDo and some of the goodies it has to offer. After a very brief overview of what EvDo is he is going to go into detail about the different hardware options you have, and most importantly, how EvDo cards can be hacked and the advantages of delving into the insides of the card. Can ESN's be moved? Can EvDo be used in monitor mode? Bring a bag because there will be treats for 100 people with a patch so you can use your EvDo card on your laptop as a client or access point."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/terrencegareau01.png",
+      "title": "Photo of Terrence Gareau on an advertisement",
+      "caption": "Terrence Gareau on an advertisement around April 27th 2015"
+    },
+    {
+      "url": "/images/terrencegareau02.jpg",
+      "title": "Photo of Terrence Gareau in Las Vegas",
+      "caption": "Terrence Gareau posing for a photo with a tomahawk steak at Del Frisco's Double Eagle Steakhouse on an unknown date"
+    },
+    {
+      "url": "/images/terrencegareau03.jpg",
+      "title": "Photo of Terrence Gareau in Florida",
+      "caption": "Terrence Gareau posing for a picture with friends in 2016"
+    },
+    {
+      "url": "/images/terrencegareau04.jpg",
+      "title": "Photo of Terrence Gareau in Tokyo Japan",
+      "caption": "Terrence Gareau posing with R2D2 on an unknown date"
+    },
+    {
+      "url": "/images/terrencegareau04.jpg",
+      "title": "Photo of Terrence Gareau at unknown location",
+      "caption": "Terrence Gareau posing for a picture in a blue suit on an unknown date"
+    }
+  ]
 }
