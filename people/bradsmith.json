@@ -2,19 +2,67 @@
   "firstname": "Brad",
   "lastname": "Smith",
   "handle": "Nurse",
-  "birth": "",
-  "death": "2011",
-  "obituary": "",
+  "birth": "1953-03-18",
+  "death": "2012-12-06",
+  "obituary": "https://www.legacy.com/us/obituaries/legacyremembers/bradley-smith-obituary?id=23130093",
   "issue": "5",
-  "affiliations": "",
+  "affiliations": "DEF CON, Hacker Halted",
   "mainimage": "/images/y3t1_Art-Brad_Smith_aka_Nurse.jpg",
-  "maintext": "",
+  "maintext": "Brad Smith, RN, ASCIE, BS-Psy MCNPS, CISSP, NSA-IAM became fascinated with computers in 1972 and hasn't burned out yet! In 1996 his software '2 the BedSide' was a national Microsoft / HIMSS award winner. His company, the Computer Institute of the Rockies was selected as the 2005 Microsoft Small Business Solution Partner of the Year for their innovative and cost effective security solution for small business. He is a frequent speaker at many national security events, such as CSI, Interop, HIMSS and COSAC. Brad was also known as 'theNURSE' doing presentations on social engineering, interview and interrogation, and virus construction based on Biomimicry at conferences such as Defcon and CIScon. Brad has developed the skill to make complex ideas simple to grasp. His high-energy style of presenting and the real-world experiences he shared during  sessions made Brad an entertaining and educational speaker on security.",
   "socialmedialinks": [
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/thenurse/"
+    },
     {
       "sitename": "Facebook Memorial",
       "siteurl": "https://www.facebook.com/Remembering-Brad-Smith-The-Nurse-243091789081516/"
+    },
+    {
+      "sitename": "Infocon Database",
+      "siteurl": "https://infocondb.org/presenter/brad-smith"
+    },
+    {
+      "sitename": "EndHack",
+      "siteurl": "https://web.archive.org/web/20100704095257/http://www.endhack.com/"
+    },
+    {
+      "sitename": "CyberInfoSec",
+      "siteurl": "https://web.archive.org/web/20110317195229/http://www.cyberinfosec.com/"
+    },
+    {
+      "sitename": "Study Computers",
+      "siteurl": "https://web.archive.org/web/20111104104241/http://www.studycomputers.com/"
+    },
+    {
+      "sitename": "Brad the Nurse",
+      "siteurl": "https://web.archive.org/web/20120617165745/http://www.bradthenurse.com/"
     }
   ],
-  "contributions": [],
-  "gallery": []
+
+
+  "contributions": [
+    {
+      "title": "2014 - Presentation - Hacker Halted - Cracking BlueTooth for Phun and Profit",
+      "url": "  https://www.yumpu.com/en/document/view/22139939/cracking-bluetooth-for-phun-and-profit-brad-smith-hacker-halted",
+      "description": ""
+    },
+    {
+      "title": "2010 - Video - DEF CON 18 - Weaponizing Lady GaGa, Psychosonic Attacks",
+      "url": "https://youtu.be/hD8xBAEsIV8?si=51ZWgmbpSTvaAieX",
+      "description": "This session introduces and demonstrates the emerging attack vector of psychosonics. Attend and you'll understand how to turn ANY MP3 into a weapon, a study aid, a hidden calming session or helping you experience that Ah-Ha moment of discovery simply by injecting an alternate data stream attack made up of psychosonic frequencies. You'll learn how different mental states can be created using frequencies that interact with the brain, how the military is using this attack vector, how Vegas uses these same techniques on customers, which open source software creates these frequency generated psychic states and sites so you can continue your adventures in psychosonics. Multiple new attacks based on psychosonics will be demonstrated and fully explained to you can easily integrated these into you attack tools. This is an 'attack the audience' session where you'll actually experience these psychosonic attacks so you can judge their effectiveness for yourself. Better yet, you'll understand how to incorporate this attack vector into your future attack surface. Hey, psychosonics is much better than the flame thrower bra she already has!"
+    },
+    {
+      "title": "2006 - Video - DEF CON 14 - How the FBI uses NLP on YOU!",
+      "url": "https://youtu.be/KSvGgLXQF8U?si=59qwyPGuZarEmmot",
+      "description": "This session will reveal to you how the FBI uses Neuro-Linguistic Programming (NLP) during interview and interrogation sessions. Gaining cooperation with special speech and word changes, Clues to help determine whether clients are lying or remembering and the traditional 'Cop Stop technique' will all be revealed and practiced by attendees. Seldom taught outside the law or medical community, you'll be instructed in and actual practice techniques, just like the Feds do. While you may not be able to stop leaking information to the specially trained professional, you'll now see the extra information other are giving off. Come prepared to talk to others and learn invaluable skills that can C.Y.A."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "/images/bradsmith01.jpg",
+      "title": "Photo of Brad Smith at Black Hat USA in Las Vegas",
+      "caption": "Brad Smith smiling for a candid photo on October 13th 2010"
+    }
+  ]
 }
