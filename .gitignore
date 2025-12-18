@@ -1,3 +1,7 @@
 _site
 .bundle
 vendor
+
+# Local environment and configuration
+.envrc
+.gitignore_local
