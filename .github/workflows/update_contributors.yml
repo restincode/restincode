@@ -11,7 +11,7 @@ jobs:
     name: Add contributors
     steps:
       - name: Updates readme with contributors
-        uses: akhilmhdh/contributors-readme-action@master
+        uses: akhilmhdh/contributors-readme-action@83ea0b4f1ac928fbfe88b9e8460a932a528eb79f # v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
