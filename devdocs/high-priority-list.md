@@ -12,19 +12,16 @@ This list identifies high-profile individuals who should be processed first. Pri
 These individuals are widely known in the infosec/tech community:
 
 1. **Kevin David Mitnick (Condor)** - Issue #197
-
    - Most famous hacker in history
    - Extensive public documentation available
    - Author, speaker, security consultant
 
 2. **Dan Kaminsky** - Issue #169
-
    - DNS security researcher
    - DEF CON legend
    - Issue has extensive data and comments
 
 3. **Bram Moolenaar** - Issue #236
-
    - Creator of Vim text editor
    - Widely known in developer community
    - Large impact on software development
@@ -39,27 +36,22 @@ These individuals are widely known in the infosec/tech community:
 Well-known within infosec community:
 
 5. **Kris Nova** - Issue #251
-
    - Kubernetes developer
    - CNCF ambassador
    - Issue well-documented with images
 
 6. **Kelly Todd (Lyger)** - Issue #198
-
    - L0pht Heavy Industries member
    - Testified before Congress
    - Historical significance
 
 7. **Michael Park (Hosaka)** - Issue #199
-
    - L0pht Heavy Industries member
 
 8. **Richard Batka (Master Chemist)** - Issue #200
-
    - L0pht Heavy Industries member
 
 9. **Chris (The Nightstalker)** - Issue #201
-
    - L0pht Heavy Industries member
 
 10. **Chris Hurley (Roamer)** - Issue #192
@@ -71,21 +63,17 @@ Well-known within infosec community:
 Significant contributors to community:
 
 11. **Ozzie "Cheshire Catalyst" Osband** - Issue #241
-
     - Phrack contributor
     - Historical hacker scene
 
 12. **Vijay Gill** - Issue #232
-
     - Network security professional
 
 13. **TFreak** - Issue #297
-
     - Recent (2025)
     - Community member
 
 14. **Roy Davis** - Issue #295
-
     - Recent (2025)
 
 15. **AP Delchi** - Issue #298
