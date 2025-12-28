@@ -1,0 +1,32 @@
+github:
+  repo: restincode/restincode
+  # Token will be read from GITHUB_TOKEN environment variable
+
+archive:
+  archive_org_enabled: true
+  archive_today_enabled: true
+
+processing:
+  dry_run: false
+  max_concurrent: 5
+
+paths:
+  people_dir: people
+  images_dir: images
+  peoplelist: peoplelist.json
+  template: people/_template.json
+  logs_dir: logs
+
+priorities:
+  # High-profile people to process first
+  high_profile:
+    - Kevin David Mitnick
+    - Dan Kaminsky
+    - Bram Moolenaar
+    - Adrian Lamo
+    - Kris Nova
+    - Kelly Todd
+    - Michael Park
+    - Richard Batka
+    - Chris Hurley
+    - Ozzie Osband
