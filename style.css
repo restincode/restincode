@@ -128,7 +128,7 @@ a:focus-visible {
    ========================================================================== */
 
 header {
-  padding: 2rem clamp(1.5rem, 5vw, 3rem);
+  padding: 2rem clamp(1.5rem, 5vw, 3rem) 0.75rem;
   background: linear-gradient(
     135deg,
     var(--color-header-bg),
@@ -136,6 +136,29 @@ header {
     var(--color-bg)
   );
   border-bottom: 2px solid var(--color-accent);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1rem;
+}
+
+.header-nav a {
+  color: var(--color-text-muted);
+}
+
+.header-nav a:hover {
+  color: var(--color-accent-hover);
 }
 
 header h1 {
@@ -172,9 +195,9 @@ header h1 {
    ========================================================================== */
 
 .hero {
-  max-width: 700px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 2.5rem clamp(1.5rem, 5vw, 3rem) 1rem;
+  padding: 1.5rem clamp(1.5rem, 5vw, 3rem) 1rem;
   text-align: center;
 }
 
@@ -213,46 +236,67 @@ header h1 {
 
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.5rem;
   padding: 1.5rem clamp(1.5rem, 5vw, 3rem) 3rem;
   max-width: 1200px;
   margin: 0 auto;
 }
 
 .person-card {
-  display: block;
-  padding: 1.25rem 1.5rem;
-  background: var(--color-bg-surface);
-  border: 1px solid var(--color-border);
-  border-radius: 8px;
-  color: var(--color-text-heading);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  aspect-ratio: 280 / 300;
+  background: url("images/tombstone-gray.png") center / contain no-repeat;
+  color: #9a9a90;
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.95rem;
+  container-type: inline-size;
+  font-size: clamp(0.55rem, 8cqi, 0.85rem);
   text-decoration: none;
-  transition:
-    background 0.2s ease,
-    border-color 0.2s ease,
-    transform 0.15s ease;
+  text-align: center;
+  padding: 5% 20%;
+  padding-bottom: 20%;
+  overflow: hidden;
+  word-break: break-word;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  transition: transform 0.15s ease;
+}
+
+a.person-card:visited {
+  color: #9a9a90;
+}
+
+a.person-card:visited:hover {
+  color: #b0b8a8;
 }
 
 .person-card:hover {
-  background: var(--color-bg-elevated);
-  border-color: var(--color-accent);
+  background-image: url("images/tombstone-green.png");
   transform: translateY(-2px);
   text-decoration: none;
-  color: var(--color-text-heading);
+  color: #b0b8a8;
 }
 
 .person-card.no-link {
-  color: var(--color-text-muted);
   cursor: default;
 }
 
 .person-card.no-link:hover {
-  background: var(--color-bg-surface);
-  border-color: var(--color-border);
+  background-image: url("images/tombstone-gray.png");
+  color: #b0b8a8;
   transform: none;
+}
+
+.about-layout {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem clamp(1.5rem, 5vw, 3rem);
+}
+
+.about-layout p {
+  color: var(--color-text-muted);
 }
 
 .contributing-section {
@@ -454,6 +498,6 @@ footer a {
   }
 
   .people-grid {
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
   }
 }
