@@ -1,143 +1,503 @@
+/* ==========================================================================
+   1. Custom Properties
+   ========================================================================== */
+
+:root {
+  --color-bg: #1a1e1a;
+  --color-bg-surface: #222a22;
+  --color-bg-elevated: #2a342a;
+  --color-text: #e0e0e0;
+  --color-text-muted: #a0a8a0;
+  --color-text-heading: #f0f5f0;
+  --color-accent: #6b9e7a;
+  --color-accent-hover: #8cb89a;
+  --color-border: #3a4a3a;
+  --color-footer-bg: #111511;
+  --color-header-bg: #141a14;
+}
+
+/* ==========================================================================
+   2. Reset & Base
+   ========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
-  font-family: Tahoma, sans-serif;
+  font-family: "Inter", sans-serif;
   margin: 0;
   padding: 0;
-  background: #efefef;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  font-size: clamp(0.95rem, 1.5vw, 1.05rem);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 hr {
-  clear: both;
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 2rem 0;
 }
+
+/* ==========================================================================
+   3. Typography
+   ========================================================================== */
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: "Share Tech Mono", monospace;
+  font-family: "IBM Plex Mono", monospace;
+  color: var(--color-text-heading);
+  margin-top: 0;
 }
 
-li {
-  list-style-type: none;
+h1 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 600;
 }
+
+h2 {
+  font-size: clamp(1.3rem, 2.5vw, 1.75rem);
+  font-weight: 600;
+}
+
+h3 {
+  font-size: clamp(1.1rem, 2vw, 1.3rem);
+  font-weight: 500;
+}
+
+/* ==========================================================================
+   4. Links
+   ========================================================================== */
 
 a {
-  color: #071;
-}
-a:active {
+  color: var(--color-accent);
   text-decoration: none;
-  border: 1px dotted #071;
-  color: #0a2;
+  transition: color 0.2s ease;
 }
+
 a:visited {
-  color: #0a2;
+  color: var(--color-accent);
 }
+
 a:hover {
-  background: #0f9;
-  color: #000;
-}
-
-header {
-  padding: 20px;
-  background-color: #ededed;
-  background-image: url("/images/header-bg.jpg");
-  text-shadow: #fff 3px 3px 20px;
-}
-header h1 {
-  color: #0f5;
-}
-#subtitle {
-  font-size: 0.7em;
-  font-style: italic;
-}
-#tagline {
-  text-indent: 45px;
-  color: #0f0;
-}
-
-main {
-  margin: 30px;
-}
-
-main#homepage-content {
-  display: grid;
-  grid-template-columns: 1fr 3fr;
-  min-height: 500px;
-}
-
-nav {
-  grid-row: 1 / 3;
-  border: 1px solid #ededed;
-  margin-right: 25px;
-}
-
-#contributions-list li {
-  padding-bottom: 10px;
-}
-
-aside {
-  text-align: center;
-  border: 1px solid #ddd;
-  padding: 20px;
-  max-width: 250px;
-}
-aside h4 {
+  color: var(--color-accent-hover);
   text-decoration: underline;
 }
 
-.memorial-main-image,
-.memorial-gallery {
-  border: 2px solid #000;
-  border-radius: 8px;
-  min-height: 200px;
-  min-width: 100px;
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }
-.memorial-main-image {
+
+/* ==========================================================================
+   5. Skip Link
+   ========================================================================== */
+
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--color-accent);
+  color: var(--color-bg);
+  font-weight: 600;
+  z-index: 100;
+  border-radius: 0 0 4px 4px;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* ==========================================================================
+   6. Header
+   ========================================================================== */
+
+header {
+  padding: 2rem clamp(1.5rem, 5vw, 3rem) 0.75rem;
+  background: linear-gradient(
+    135deg,
+    var(--color-header-bg),
+    #1a2a1a,
+    var(--color-bg)
+  );
+  border-bottom: 2px solid var(--color-accent);
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 1rem;
+}
+
+.header-nav a {
+  color: var(--color-text-muted);
+}
+
+.header-nav a:hover {
+  color: var(--color-accent-hover);
+}
+
+header h1 {
+  color: var(--color-text-heading);
+  margin-bottom: 0.25rem;
+  background: linear-gradient(
+    135deg,
+    var(--color-accent),
+    var(--color-accent-hover)
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 10px rgba(107, 158, 122, 0.5))
+    drop-shadow(0 0 30px rgba(107, 158, 122, 0.3));
+}
+
+#subtitle {
+  font-size: 0.65em;
+  font-style: italic;
+  font-weight: 400;
+  background: none;
+  -webkit-text-fill-color: var(--color-text-heading);
+}
+
+#tagline {
+  color: var(--color-text-heading);
+  margin: 0.5rem 0 0 0;
+  font-size: 0.95rem;
+}
+
+/* ==========================================================================
+   7. Homepage - Hero & Card Grid
+   ========================================================================== */
+
+.hero {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem clamp(1.5rem, 5vw, 3rem) 1rem;
+  text-align: center;
+}
+
+.hero p {
+  color: var(--color-text-muted);
+  margin-bottom: 0.75rem;
+  text-align: left;
+}
+
+.people-search-wrapper {
+  max-width: 500px;
+  margin: 1.5rem auto 0;
+}
+
+#people-search {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  background: var(--color-bg-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  color: var(--color-text);
+  transition: border-color 0.2s ease;
+}
+
+#people-search::placeholder {
+  color: var(--color-text-muted);
+}
+
+#people-search:focus {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 8px rgba(107, 158, 122, 0.4);
+}
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.5rem;
+  padding: 1.5rem clamp(1.5rem, 5vw, 3rem) 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.person-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  aspect-ratio: 280 / 300;
+  background: url("images/tombstone-gray.png") center / contain no-repeat;
+  color: #9a9a90;
+  font-family: "IBM Plex Mono", monospace;
+  container-type: inline-size;
+  font-size: clamp(0.55rem, 8cqi, 0.85rem);
+  text-decoration: none;
+  text-align: center;
+  padding: 5% 20%;
+  padding-bottom: 20%;
+  overflow: hidden;
+  word-break: break-word;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  transition: transform 0.15s ease;
+}
+
+a.person-card:visited {
+  color: #9a9a90;
+}
+
+a.person-card:visited:hover {
+  color: #b0b8a8;
+}
+
+.person-card:hover {
+  background-image: url("images/tombstone-green.png");
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: #b0b8a8;
+}
+
+.person-card.no-link {
+  cursor: default;
+}
+
+.person-card.no-link:hover {
+  background-image: url("images/tombstone-gray.png");
+  color: #b0b8a8;
+  transform: none;
+}
+
+.about-layout {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem clamp(1.5rem, 5vw, 3rem);
+}
+
+.about-layout p {
+  color: var(--color-text-muted);
+}
+
+.contributing-section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 clamp(1.5rem, 5vw, 3rem) 3rem;
+  text-align: center;
+}
+
+.contributing-section p {
+  color: var(--color-text-muted);
+}
+
+/* ==========================================================================
+   8. Memorial Page
+   ========================================================================== */
+
+.memorial-layout {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem clamp(1.5rem, 5vw, 3rem);
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.9rem;
+}
+
+#memorial-name {
+  margin-bottom: 1.5rem;
+}
+
+.memorial-content {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 2rem;
+  align-items: start;
+}
+
+.memorial-main .memorial-main-image {
   display: block;
-  max-width: 100%;
-  margin-bottom: 10px;
+  max-width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  margin-bottom: 1.5rem;
+}
+
+#memorial-text {
+  margin: 0;
+}
+
+#memorial-text p {
+  margin-top: 0;
+}
+
+/* ==========================================================================
+   9. Aside / Sidebar
+   ========================================================================== */
+
+aside {
+  position: sticky;
+  top: 2rem;
+  background: var(--color-bg-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: left;
+}
+
+aside p {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+aside b {
+  color: var(--color-text-heading);
+}
+
+aside h4 {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin: 1.25rem 0 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.4rem;
+}
+
+#social-media a {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+}
+
+/* ==========================================================================
+   10. Contributions
+   ========================================================================== */
+
+#contributions-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#contributions-list li {
+  padding: 0.75rem 0 0.75rem 1rem;
+  border-left: 3px solid var(--color-accent);
+  margin-bottom: 0.75rem;
+}
+
+#contributions-list li a {
+  font-weight: 500;
+}
+
+/* ==========================================================================
+   11. Gallery
+   ========================================================================== */
+
+#gallery-section h3 {
+  margin-bottom: 1rem;
 }
 
 #gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
 }
+
+.memorial-gallery {
+  margin: 0;
+}
+
 .memorial-gallery img {
-  max-width: 500px;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
 }
+
 .memorial-gallery figcaption {
-  font-variant: small-caps;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin-top: 0.4rem;
+  text-align: center;
 }
+
+/* ==========================================================================
+   12. Loading & Error States
+   ========================================================================== */
+
+.loading-message {
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.error-message {
+  color: #c0756b;
+  padding: 1rem;
+  background: rgba(192, 117, 107, 0.1);
+  border: 1px solid rgba(192, 117, 107, 0.3);
+  border-radius: 6px;
+}
+
+/* ==========================================================================
+   13. Footer
+   ========================================================================== */
 
 footer {
-  padding: 10px;
-  background-color: #343434;
-  color: #cdcdcd;
-  font-style: italic;
-  font-size: 0.7em;
-  text-align: right;
-}
-a.btn-main-back {
-  display: inline;
-  float: left;
-  color: #fff;
-  font-weight: bolder;
-}
-a.btn-main-back:hover {
-  color: #000;
+  padding: 1.5rem clamp(1.5rem, 5vw, 3rem);
+  background: var(--color-footer-bg);
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  text-align: center;
+  border-top: 1px solid var(--color-border);
 }
 
-/*** media queries for desktop view ***/
-@media (min-width: 769px) {
-  aside {
-    float: right;
-    margin: 20px;
-    padding: 20px;
-    border: 1px solid #ddd;
+footer a {
+  color: var(--color-accent);
+}
+
+/* ==========================================================================
+   14. Responsive
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .memorial-content {
+    grid-template-columns: 1fr;
   }
-  .memorial-main-image {
-    float: left;
-    margin: 25px;
-    max-width: 350px;
+
+  aside {
+    position: static;
+  }
+
+  .memorial-main .memorial-main-image {
+    max-width: 100%;
+  }
+
+  .people-grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
   }
 }
