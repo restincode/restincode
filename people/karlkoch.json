@@ -4,7 +4,9 @@
   "handle": "",
   "birth": "1965",
   "death": "1989",
+  "obituary": "",
   "issue": "23",
+  "affiliations": "",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "",
   "socialmedialinks": [
@@ -13,6 +15,6 @@
       "siteurl": "https://en.wikipedia.org/wiki/Karl_Koch_(hacker)"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [],
+  "gallery": []
 }

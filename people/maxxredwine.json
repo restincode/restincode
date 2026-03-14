@@ -4,10 +4,12 @@
   "handle": "",
   "birth": "1964",
   "death": "2011",
+  "obituary": "",
   "issue": "40",
+  "affiliations": "",
   "mainimage": "/images/Maxx_Redwine.jpg",
   "maintext": "<p>Born in Mesa, AZ. Mr. RedWine was a Computer Security Consultant for Presido Networks. He was a Veteran of the US Air Force during Desert Shield.</p>",
-  "socialmedialinks": "",
-  "contributions": "",
-  "gallery": ""
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }

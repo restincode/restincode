@@ -4,7 +4,9 @@
   "handle": "",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "22",
+  "affiliations": "",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "",
   "socialmedialinks": [
@@ -17,6 +19,6 @@
       "siteurl": "https://about.me/arjenkamphuis"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [],
+  "gallery": []
 }
