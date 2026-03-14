@@ -4,7 +4,9 @@
   "handle": "",
   "birth": "",
   "death": "2019",
+  "obituary": "",
   "issue": "10",
+  "affiliations": "",
   "mainimage": "https://images.idgesg.net/images/article/2019/06/mike-assante_cyber-security-guru_by-ryan-g-poirier-100799482-large.jpg",
   "maintext": "",
   "socialmedialinks": [
@@ -40,5 +42,5 @@
       "description": "Thanks to Mike Assante, critical infrastructure stakeholders have a better understanding of and ability to respond to cybersecurity risks."
     }
   ],
-  "gallery": ""
+  "gallery": []
 }

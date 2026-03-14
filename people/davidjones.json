@@ -4,7 +4,9 @@
   "handle": "Rev. Rance",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "1",
+  "affiliations": "",
   "mainimage": "/images/y3t1_Art-David_Jones_aka_Rance.jpg",
   "maintext": "",
   "socialmedialinks": [
@@ -21,16 +23,22 @@
       "siteurl": "https://www.facebook.com/profile.php?id=1198558199&ref=br_rs"
     }
   ],
-  "contributions": "",
+  "contributions": [],
   "gallery": [
     {
-      "url": "/images/David_Jones_1.jpg"
+      "url": "/images/David_Jones_1.jpg",
+      "title": "",
+      "caption": ""
     },
     {
-      "url": "/images/David_Jones_2.jpg"
+      "url": "/images/David_Jones_2.jpg",
+      "title": "",
+      "caption": ""
     },
     {
-      "url": "/images/David_Jones_3.jpg"
+      "url": "/images/David_Jones_3.jpg",
+      "title": "",
+      "caption": ""
     }
   ]
 }

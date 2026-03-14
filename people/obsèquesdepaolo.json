@@ -4,10 +4,12 @@
   "handle": "",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "20",
+  "affiliations": "",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "",
-  "socialmedialinks": "",
-  "contributions": "",
-  "gallery": ""
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }

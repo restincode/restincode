@@ -4,6 +4,7 @@
   "handle": "",
   "birth": "",
   "death": "2018",
+  "obituary": "",
   "issue": "37",
   "affiliations": "Blue Team Village",
   "mainimage": "/images/Nolan_Berry.PNG",
@@ -14,6 +15,6 @@
       "siteurl": "https://twitter.com/d3vnull42"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [],
+  "gallery": []
 }

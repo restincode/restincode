@@ -4,7 +4,9 @@
   "handle": "Hacker Joe",
   "birth": "",
   "death": "2015",
+  "obituary": "",
   "issue": "18",
+  "affiliations": "",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "",
   "socialmedialinks": [
@@ -13,6 +15,6 @@
       "siteurl": "https://www.twitter.com/hackerjoe"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [],
+  "gallery": []
 }
