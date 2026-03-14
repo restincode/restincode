@@ -4,10 +4,12 @@
   "handle": "Selir",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "19",
+  "affiliations": "",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "",
-  "socialmedialinks": "",
-  "contributions": "",
-  "gallery": ""
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }

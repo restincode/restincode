@@ -4,7 +4,9 @@
   "handle": "",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "3",
+  "affiliations": "",
   "mainimage": "/images/y3t1_Art-Jon_Hart.png",
   "maintext": "",
   "socialmedialinks": [
@@ -13,6 +15,6 @@
       "siteurl": "https://www.twitter.com/jhartftw"
     }
   ],
-  "contributions": "",
-  "gallery": ""
+  "contributions": [],
+  "gallery": []
 }

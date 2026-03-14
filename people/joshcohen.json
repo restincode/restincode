@@ -4,11 +4,12 @@
   "handle": "PacBell",
   "birth": "1978",
   "death": "2005",
+  "obituary": "",
   "issue": "12",
   "affiliations": "Goon",
   "mainimage": "/images/y3t1_Art-Josh_Cohen_aka_PacBell.jpg",
   "maintext": "",
-  "socialmedialinks": "",
+  "socialmedialinks": [],
   "contributions": [
     {
       "title": "DEF CON Goon",
@@ -16,5 +17,5 @@
       "description": "Served as a volunteer Goon at DEF CON."
     }
   ],
-  "gallery": ""
+  "gallery": []
 }

@@ -4,10 +4,12 @@
   "handle": "ClappyMonkey",
   "birth": "",
   "death": "",
+  "obituary": "",
   "issue": "21",
+  "affiliations": "",
   "mainimage": "/images/y3t1_Art-Mike_Kemp.jpg",
   "maintext": "",
-  "socialmedialinks": "",
-  "contributions": "",
-  "gallery": ""
+  "socialmedialinks": [],
+  "contributions": [],
+  "gallery": []
 }
