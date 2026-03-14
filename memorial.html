@@ -34,6 +34,17 @@
           person = "/people/person.json";
         }
 
+        function safeUrl(url) {
+          try {
+            var u = new URL(url, window.location.origin);
+            return u.protocol === "http:" || u.protocol === "https:"
+              ? u.href
+              : "#";
+          } catch (e) {
+            return "#";
+          }
+        }
+
         $.getJSON(person, function (data) {
           var fullname = data.firstname + " " + data.lastname;
           if (data.handle != "") {
@@ -55,7 +66,7 @@
 
           if (data.obituary != null && data.obituary != "") {
             $(".obituary").append(
-              '<a href="' + data.obituary + '">Obituary</a>',
+              '<a href="' + safeUrl(data.obituary) + '">Obituary</a>',
             );
           }
 
@@ -87,7 +98,10 @@
             $("#memorial-text").append(data.maintext);
           }
 
-          if (data.socialmedialinks == "") {
+          if (
+            !Array.isArray(data.socialmedialinks) ||
+            !data.socialmedialinks.length
+          ) {
             $("#social-media").append(
               "<p>No social media links have been submitted for this person. Help us by submitting <a href='" +
                 data.issue +
@@ -97,12 +111,16 @@
             for (var s = 0; s < data.socialmedialinks.length; s++) {
               var sitename = data.socialmedialinks[s]["sitename"];
               var siteurl = data.socialmedialinks[s]["siteurl"];
-              var social = '<a href="' + siteurl + '">' + sitename + "</a>";
+              var social =
+                '<a href="' + safeUrl(siteurl) + '">' + sitename + "</a>";
               $("#social-media").append(social);
             }
           }
 
-          if (data.contributions == "") {
+          if (
+            !Array.isArray(data.contributions) ||
+            !data.contributions.length
+          ) {
             $("#contributions-list").append(
               "<li>No contributions have been submitted for this person. Help us by submitting <a href='" +
                 data.issue +
@@ -119,7 +137,7 @@
               } else {
                 cont =
                   "<li><a href='" +
-                  url +
+                  safeUrl(url) +
                   "'>" +
                   title +
                   "</a> - " +
@@ -130,7 +148,7 @@
             }
           }
 
-          if (data.gallery == "") {
+          if (!Array.isArray(data.gallery) || !data.gallery.length) {
             $("#nogallery").append(
               "<p>No images have been submitted for this person yet. Help us by submitting <a href='" +
                 data.issue +
@@ -138,7 +156,7 @@
             );
           } else {
             for (var i = 0; i < data.gallery.length; i++) {
-              var imgurl = data.gallery[i]["url"];
+              var imgurl = safeUrl(data.gallery[i]["url"]);
               var imgtitle = data.gallery[i]["title"];
               var caption = data.gallery[i]["caption"];
               var image =

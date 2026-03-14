@@ -71,7 +71,7 @@
           );
         });
 
-        $("#people-search").on("keyup", function () {
+        $("#people-search").on("input", function () {
           var query = $(this).val().toLowerCase();
           $(".person-card").each(function () {
             var name = $(this).attr("data-name");
