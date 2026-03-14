@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="author"
-      content="Site by Connie \'Sunfire\' Hill; Content by Rest In Code contributors"
+      content="Site by Connie 'Sunfire' Hill; Content by Rest In Code contributors"
     />
     <meta name="description" content="An InfoSec and Hacker Memorial Site" />
     <meta
@@ -15,8 +15,10 @@
     />
 
     <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css?family=Share+Tech+Mono&display=swap"
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" />
@@ -28,44 +30,60 @@
     ></script>
     <script>
       $(function () {
-        // pull json list of names
         $.getJSON("peoplelist.json", function (data) {
           var peoplelist = data.people;
-          // sort asc by first name
-          function compare(a, b) {
-            if (a.displayname > b.displayname) {
-              return 1;
-            } else if (a.displayname < b.displayname) {
-              return -1;
-            } else {
-              return 0;
-            }
-          }
-          peoplelist.sort(compare);
 
-          // generate list of names, with links if available
-          for (p = 0; p < peoplelist.length; p++) {
+          peoplelist.sort(function (a, b) {
+            if (a.displayname > b.displayname) return 1;
+            if (a.displayname < b.displayname) return -1;
+            return 0;
+          });
+
+          for (var p = 0; p < peoplelist.length; p++) {
             var displayname = peoplelist[p]["displayname"];
             var file = peoplelist[p]["filename"];
-            var link;
-            // only create links for json files that have been added to peoplelist.json
+            var card;
+
             if (file == "") {
-              link = "<li>" + displayname + "</li>";
-            } else {
-              link =
-                "<li><a href='memorial.html?name=" +
-                file +
-                "' class='memorial-link'>" +
+              card =
+                '<div class="person-card no-link" data-name="' +
+                displayname.toLowerCase() +
+                '">' +
                 displayname +
-                "</a></li>";
+                "</div>";
+            } else {
+              card =
+                '<a href="memorial.html?name=' +
+                file +
+                '" class="person-card" data-name="' +
+                displayname.toLowerCase() +
+                '">' +
+                displayname +
+                "</a>";
             }
-            $("#memorial-links-list").append(link);
+            $("#people-grid").append(card);
           }
+
+          $(".loading-message").remove();
+        }).fail(function () {
+          $(".loading-message").replaceWith(
+            '<p class="error-message">Unable to load memorial list. Please try refreshing the page.</p>',
+          );
+        });
+
+        $("#people-search").on("keyup", function () {
+          var query = $(this).val().toLowerCase();
+          $(".person-card").each(function () {
+            var name = $(this).attr("data-name");
+            $(this).toggle(name.indexOf(query) !== -1);
+          });
         });
       });
     </script>
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
     <header>
       <h1 id="main-title">
         RestInCode <span id="subtitle">Passed but not Forgotten</span>
@@ -75,57 +93,44 @@
       </p>
     </header>
 
-    <main id="homepage-content">
-      <nav>
-        <h3>Memorial List</h3>
-        <ul id="memorial-links-list">
-          <!-- link list generated from peoplelist.json -->
-        </ul>
-      </nav>
+    <section class="hero" id="main-content" aria-label="About RestInCode">
+      <p>
+        In a community and industry that many of us see as timeless, we are
+        quickly learning that is not the reality, as our dear friends and
+        colleagues more frequently move on. Our ideals, our research, and our
+        spirit persists. Unfortunately, our human shells can't keep up
+        sometimes. We seek to honor those who have touched security, technology,
+        and our lives.
+      </p>
 
-      <div id="site-intro-text">
-        <p><b>RestInCode (RIC)</b></p>
-        <p>
-          RIC is a memorial site for Hackers and Information Security people who
-          have passed. In a community and industry that many of us see as
-          timeless, we are quickly learning that is not the reality, as our dear
-          friends and colleagues more frequently move on. Our ideals, our
-          research, and our spirit persists. Unfortunately, our human shells
-          can't keep up sometimes. We seek to honor those who have touched
-          security, technology, and our lives.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet. We leave this here for the thoughts we
-          want to convey, but can't find the words for it.
-        </p>
-        <p>&nbsp;</p>
-        <p align="center">
-          <img src="/images/bg.jpg" alt="background image" />
-        </p>
-        <p>&nbsp;</p>
-        <p><b>Contributing</b></p>
-        <p>
-          To contribute to this site by adding new people, additional content,
-          photos, or pointing out inaccuracies, please visit our Github and
-          follow our
-          <a
-            href="https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md"
-            >Contributing guidelines</a
-          >.
-        </p>
+      <div class="people-search-wrapper">
+        <input
+          type="search"
+          id="people-search"
+          placeholder="Search memorials..."
+          aria-label="Search memorials"
+        />
       </div>
-    </main>
+    </section>
+
+    <div class="people-grid" id="people-grid">
+      <p class="loading-message">Loading memorials...</p>
+    </div>
+
+    <section class="contributing-section">
+      <p>
+        To contribute by adding new people, additional content, photos, or
+        pointing out inaccuracies, please visit our
+        <a
+          href="https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md"
+          >Contributing guidelines</a
+        >.
+      </p>
+    </section>
 
     <footer>
-      Content and Images, unless otherwise specified, &copy; Rest In Code ||
-      Website design by
-      <a
-        href="https://sunfire.hitsaru.com"
-        target="_blank"
-        rel="noopener noreferrer"
-        >Sunfire</a
-      >
-      2019
+      Memorial content belongs to its respective creators and rights holders. We
+      do our best to identify and credit them.
     </footer>
   </body>
 </html>
