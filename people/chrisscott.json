@@ -1,0 +1,36 @@
+{
+  "firstname": "Chris",
+  "lastname": "Scott",
+  "handle": "Cyb3r_Assassin",
+  "birth": "1983",
+  "death": "2021",
+  "obituary": "https://www.clary-glenn.com/obituary/christopher-chris-scott",
+  "issue": "167",
+  "affiliations": "FoD, DEF CON Goon, DC615",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Chris Scott, known as Cyb3r_Assassin, was a DEF CON Goon and member of the DC615 Nashville DEF CON group. He was active in the hacker community and contributed through multiple security groups and events.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/Cyb3r_Assassin"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/Cyb3r-Assassin"
+    },
+    {
+      "sitename": "YouTube",
+      "siteurl": "https://www.youtube.com/channel/UCr-NX4TPEi9JNrwtBJreIwQ"
+    },
+    {
+      "sitename": "WordPress",
+      "siteurl": "https://cyb3rassassin.wordpress.com/"
+    },
+    {
+      "sitename": "MX Sponsor",
+      "siteurl": "https://www.mxsponsor.com/riders/chris-a-scott"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}

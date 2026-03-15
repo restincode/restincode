@@ -1,0 +1,33 @@
+{
+  "firstname": "Arthur Philip",
+  "lastname": "Delchi",
+  "handle": "AP Delchi",
+  "birth": "",
+  "death": "2025",
+  "obituary": "https://absolution.nyc/2025/11/05/r-i-p-dj-delchi/",
+  "issue": "298",
+  "affiliations": "DEF CON Hackers w/ Disabilities Village",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Arthur Philip Delchi, known as AP Delchi, was a member of the DEF CON community and involved with the Hackers with Disabilities Village. He was also known as a DJ in the hacker scene.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://x.com/A_P_Delchi"
+    },
+    {
+      "sitename": "Mastodon",
+      "siteurl": "https://defcon.social/@Delchi"
+    }
+  ],
+  "contributions": [],
+  "gallery": [
+    {
+      "url": "https://x.com/WeldPond/status/1989735824817037473",
+      "caption": "WeldPond memorial tweet"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1V2Hh2deH2Y",
+      "caption": "YouTube memorial video"
+    }
+  ]
+}

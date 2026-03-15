@@ -21,9 +21,28 @@
     {
       "sitename": "Facebook",
       "siteurl": "https://www.facebook.com/asshurtmacfags/"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/compoterhacker"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://www.vice.com/en_uk/article/nn4gvk/rustle-league-are-making-sure-trolling-stays-funny"
     }
   ],
-  "contributions": [],
+  "contributions": [
+    {
+      "title": "Chronicle.su",
+      "url": "https://chronicle.su/news/jaime-cochran-lived/",
+      "description": "Contributor and editor for Chronicle.su"
+    },
+    {
+      "title": "IMDB Profile",
+      "url": "https://www.imdb.com/name/nm6795493/",
+      "description": "Film and media credits"
+    }
+  ],
   "gallery": [
     {
       "url": "/images/JaimeCochran.jpg",

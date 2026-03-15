@@ -3,13 +3,29 @@
   "lastname": "Kemp",
   "handle": "ClappyMonkey",
   "birth": "",
-  "death": "",
+  "death": "2019",
   "obituary": "",
   "issue": "21",
-  "affiliations": "",
+  "affiliations": "NGS Software, CSC, British Telecom, Xiphos Research Labs",
   "mainimage": "/images/y3t1_Art-Mike_Kemp.jpg",
-  "maintext": "",
-  "socialmedialinks": [],
-  "contributions": [],
+  "maintext": "<p>Mike Kemp, known as ClappyMonkey, was a UK-based security consultant who specialized in web application penetration testing, compiled code analysis, and database environments. He worked at NGS Software, CSC, British Telecom, and Xiphos Research Labs.</p><p>Mike was an active presenter at security conferences including GrrCON and The Next HOPE, and contributed articles to heise, Network Security, Inform IT, and Security Focus. He was heavily involved in BSidesLondon, particularly the rookie track which supported new speakers in the security community. After his passing on March 26, 2019, BSidesLondon named a speaker track in his honor.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/clappymonkey"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "GrrCON Presentations",
+      "url": "https://grrcon.com/",
+      "description": "Presented security research at GrrCON conferences."
+    },
+    {
+      "title": "The Next HOPE",
+      "url": "https://hope.net/",
+      "description": "Presented at The Next HOPE hacker conference."
+    }
+  ],
   "gallery": []
 }

@@ -1,0 +1,33 @@
+{
+  "firstname": "Joe",
+  "lastname": "",
+  "handle": "TryCatchHCF",
+  "birth": "",
+  "death": "2023",
+  "obituary": "",
+  "issue": "190",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Joe, known as TryCatchHCF, was a security researcher and open source developer. He was known in the hacker community for his security tools and contributions on GitHub. He passed away peacefully in his sleep after a battle with cancer, surrounded by people he loved. He was remembered as a private but deeply caring person who enjoyed birds, ethics discussions, and the outdoors.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/TryCatchHCF"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/TryCatchHCF/"
+    }
+  ],
+  "contributions": [],
+  "gallery": [
+    {
+      "url": "https://twitter.com/rotate26chars/status/1612242052955398144",
+      "caption": "Memorial thread by rotate26chars"
+    },
+    {
+      "url": "https://twitter.com/Flex_Capacitor/status/1612551832261238794",
+      "caption": "Remembrance from Joe's child"
+    }
+  ]
+}
