@@ -2,19 +2,19 @@
   "firstname": "Don",
   "lastname": "Blumenthal",
   "handle": "",
-  "birth": "Aug. 4, 1978",
-  "death": "Friday, Jan. 5, 2001",
+  "birth": "1952",
+  "death": "2019",
   "obituary": "https://icannwiki.org/Don_Blumenthal",
   "issue": "117",
-  "affiliations": "ICANN",
+  "affiliations": "CAUCE, PIR, ICANN, APWG, M3AAWG",
   "mainimage": "/images/donblumenthal.jpg",
-  "maintext": "<p>Don Blumenthal is a lawyer and consultant. He esd an expert in law, technology, and policy development, particularly data security and privacy issues, electronic data discovery, cyber crime and civil fraud, Internet evidence development, spam, and malware. He was the Senior Policy Advisor of PIR, the registry operator of the .org TLD. Blumenthal was also a Senior Principal for Global Cyber Risk, LLC., and an Adjunct Professor at the University of Michigan School of Information and at Michigan State University School of Criminal Justice.</p><p> Blumenthal is an active participant in the ICANN community. He is represents PIR at the GNSO's RySG. He is also a member of various Working Groups such as the Joint DNS Security and Stability Analysis (DSSA) Working Group, GNSO Whois Survey WG, and Security and Stability Advisory Committee (SSAC).</p><p>Blumenthal contributed to the ABA publication International Guide to Cyber Security, the International Guide to Privacy and Roadmap to Enterprise Security. In 2005, he served as Co-Chairman to the Roadmap to Government and Private Sector Cyber Security Program and became the Moderator of the Roadmap to Enterprise Security Panel. In 2003, he helped organize the program Doing Business Around the Globe: New Guides to Protecting and Securing Your Data and Network, and participated as panelist during the ABA annual meeting. In 2004, he was the keynote speaker of the Third European IT-Forensics Meetings which was held at Rome, Italy. He is q contributor to FTC's publication, the Fraudbuster, under the Computer Sentinel Program. A complete list of his outreach activities can be found here.</p>",
+  "maintext": "<p>Don Blumenthal passed away on September 28, 2019 in Ann Arbor, Michigan. He was 67.</p><p>Blumenthal was an anti-spammer for as long as there was an anti-spam community. He helped design, deploy and maintain the famous 'Spam Fridge,' the repository of junk email maintained by the Federal Trade Commission (FTC), and contributed the wisdom he gleaned from that experience to the design process of Canada's Spam Freezer. He later worked at the Public Interest Registry (PIR.org), maintaining anti-abuse work for the .ORG TLD.</p><p>Blumenthal was an active participant in the Anti-Phishing Working Group (APWG), the Messaging Anti-Abuse Working Group (M3AAWG), the Internet Corporation for Assigned Names and Numbers (ICANN), and was a long-time board member of the Coalition Against Unsolicited Commercial Email (CAUCE). He was also an expert in law, technology, and policy development, an Adjunct Professor at the University of Michigan School of Information and at Michigan State University School of Criminal Justice, and a football scout for the Oakland Raiders.</p><p>Don Blumenthal worked tirelessly to make the Internet a better place, had a considerable degree of success doing so, and is sorely missed.</p>",
   "socialmedialinks": [],
   "contributions": [
     {
-      "title": "micq",
-      "url": "htps://www.cyberz.tech/",
-      "description": "Micq (Matt's ICQ) is a text mode (console) ICQ client for Linux and Unix based Operating Systems, originally written by Matthew D Smith with the first versions being used very early 1998."
+      "title": "CircleID Obituary",
+      "url": "http://www.circleid.com/posts/20191003_rip_don_blumenthal/",
+      "description": "Memorial by Neil Schwartzman, Executive Director of CAUCE."
     }
   ],
   "gallery": []
