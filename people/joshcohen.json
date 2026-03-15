@@ -4,12 +4,17 @@
   "handle": "PacBell",
   "birth": "1978",
   "death": "2005",
-  "obituary": "",
+  "obituary": "https://www.legacy.com/us/obituaries/sacbee/name/joshua-cohen-obituary?id=33058427",
   "issue": "12",
-  "affiliations": "Goon",
+  "affiliations": "DEF CON Goon",
   "mainimage": "/images/y3t1_Art-Josh_Cohen_aka_PacBell.jpg",
-  "maintext": "",
-  "socialmedialinks": [],
+  "maintext": "<p>Josh Cohen, known as PacBell, was a DEF CON Goon inducted into the Goon Hall of Fame. His Goon bio described him as a \"Ted Turner Wannabe (DEF CON TV Engineer), RBOC, Network Flunkie, Deputy Schmoozer\" with superpowers including \"taking over cable networks without breaking a sweat, cabling/crimping for 36 hrs straight, reading minds of lame telco installers.\" His favorite con moment was Hacker Jeopardy. Josh passed away on February 22, 2005 at the age of 26.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Other",
+      "siteurl": "https://archive.is/VBS1S"
+    }
+  ],
   "contributions": [
     {
       "title": "DEF CON Goon",
