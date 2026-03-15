@@ -1,0 +1,28 @@
+{
+  "firstname": "",
+  "lastname": "",
+  "handle": "TFreak",
+  "birth": "",
+  "death": "2010",
+  "obituary": "",
+  "issue": "297",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>TFreak was a hacker known for creating the smurf attack, a distributed denial-of-service attack that exploits the Internet Control Message Protocol (ICMP). The smurf attack was one of the most well-known and widely discussed network attacks of the late 1990s.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Hackepedia",
+      "siteurl": "https://hackepedia.org/?title=Tfreak"
+    },
+    {
+      "sitename": "Wikipedia - Smurf Attack",
+      "siteurl": "https://en.wikipedia.org/wiki/Smurf_attack"
+    },
+    {
+      "sitename": "Bugtraq Post",
+      "siteurl": "https://seclists.org/bugtraq/1997/Oct/66"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
