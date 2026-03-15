@@ -1,0 +1,26 @@
+{
+  "firstname": "Bram",
+  "lastname": "Moolenaar",
+  "handle": "",
+  "birth": "1961",
+  "death": "2023",
+  "obituary": "https://groups.google.com/g/vim_announce/c/tWahca9zkt4",
+  "issue": "236",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Bram Moolenaar was a Dutch software engineer and the creator, maintainer, and benevolent dictator for life of Vim, one of the most widely used text editors in the world. Moolenaar began developing Vim in 1991 as an improvement on the vi editor. He maintained and developed Vim for over 30 years, making it an essential tool for millions of programmers worldwide. Moolenaar was also the founder of the ICCF Holland charity, which supports children in Uganda.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Bram_Moolenaar"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Vim",
+      "url": "https://github.com/vim/vim",
+      "description": "Creator and maintainer of Vim, one of the most popular and enduring text editors, used by millions of developers worldwide."
+    }
+  ],
+  "gallery": []
+}

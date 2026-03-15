@@ -1,0 +1,32 @@
+{
+  "firstname": "Kris",
+  "lastname": "Nova",
+  "handle": "Kris Nova",
+  "birth": "1986",
+  "death": "2023",
+  "obituary": "https://www.sportskeeda.com/pop-culture/news-kris-nova-accident-tributes-pour-github-engineer-passes-away",
+  "issue": "251",
+  "affiliations": "GitHub, Cloud Native Computing Foundation",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Kris Nova was an author, engineer, computer scientist, and alpinist best known for her work on Linux, Kubernetes, and Aurae. She was a Senior Developer Advocate for Heptio and an ambassador for the Cloud Native Computing Foundation. Prior to Heptio, Nova worked as a developer advocate for Microsoft and as an engineer on Kubernetes in Azure. She was a prolific open source contributor and the founder of Hachyderm, a Mastodon instance for technology professionals. Nova was also an avid mountaineer and YouTube host.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/krisnova"
+    },
+    {
+      "sitename": "Github",
+      "siteurl": "https://github.com/krisnova"
+    },
+    {
+      "sitename": "Website",
+      "siteurl": "https://krisnova.net/"
+    },
+    {
+      "sitename": "Hachyderm",
+      "siteurl": "https://hachyderm.io/@nova"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
