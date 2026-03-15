@@ -21,6 +21,11 @@
   ],
   "contributions": [
     {
+      "title": "FBI FOIA Records",
+      "url": "https://www.muckrock.com/foi/united-states-of-america-10/fbi-barnaby-michael-douglas-jack-24427/#comms",
+      "description": "FBI Freedom of Information Act records related to Barnaby Jack."
+    },
+    {
       "title": "ATM Jackpotting (The Register)",
       "url": "https://www.theregister.co.uk/2010/07/28/atm_hacking_demo/",
       "description": "At the Black Hat security conference in Las Vegas, Barnaby Jack, a security researcher with IOActive, demonstrated attacks against two unpatched models from two of the world's biggest ATM makers."

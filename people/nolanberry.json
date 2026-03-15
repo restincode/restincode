@@ -4,7 +4,7 @@
   "handle": "",
   "birth": "",
   "death": "2018",
-  "obituary": "",
+  "obituary": "https://www.cressfuneralservice.com/obituary/282690/Nolan-Berry/#obituary",
   "issue": "37",
   "affiliations": "Blue Team Village",
   "mainimage": "/images/Nolan_Berry.PNG",
@@ -15,6 +15,12 @@
       "siteurl": "https://twitter.com/d3vnull42"
     }
   ],
-  "contributions": [],
+  "contributions": [
+    {
+      "title": "A Tribute to devnull",
+      "url": "https://blog.opensoc.io/a-tribute-to-devnull/",
+      "description": "Tribute post honoring Nolan's contributions to the Blue Team Village and OpenSOC community."
+    }
+  ],
   "gallery": []
 }
