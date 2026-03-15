@@ -13,6 +13,10 @@
     {
       "sitename": "Wikipedia",
       "siteurl": "https://en.wikipedia.org/wiki/Bram_Moolenaar"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://www.theregister.com/2023/08/07/bram_moolenaar_obituary/"
     }
   ],
   "contributions": [

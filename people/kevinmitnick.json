@@ -19,6 +19,22 @@
       "siteurl": "https://en.wikipedia.org/wiki/Kevin_Mitnick"
     }
   ],
-  "contributions": [],
+  "contributions": [
+    {
+      "title": "CNN Obituary",
+      "url": "https://www.cnn.com/2023/07/21/us/computer-hacker-kevin-mitnick-obit/index.html",
+      "description": "CNN obituary for Kevin Mitnick."
+    },
+    {
+      "title": "BBC Obituary",
+      "url": "https://www.bbc.com/news/world-us-canada-66263235",
+      "description": "BBC obituary for Kevin Mitnick."
+    },
+    {
+      "title": "AP News Obituary",
+      "url": "https://apnews.com/article/mitnick-hacker-ghost-wires-cybersecurity-social-engineering-5648301b615635cb4c781f0c220681d9",
+      "description": "Associated Press obituary for Kevin Mitnick."
+    }
+  ],
   "gallery": []
 }
