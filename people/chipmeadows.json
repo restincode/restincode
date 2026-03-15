@@ -13,6 +13,10 @@
     {
       "sitename": "Twitter",
       "siteurl": "https://twitter.com/chipmeadows"
+    },
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/chipmeadows/"
     }
   ],
   "contributions": [],
