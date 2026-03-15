@@ -1,0 +1,40 @@
+{
+  "firstname": "Kevin",
+  "lastname": "Mitnick",
+  "handle": "Condor",
+  "birth": "1963",
+  "death": "2023",
+  "obituary": "https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668",
+  "issue": "197",
+  "affiliations": "",
+  "mainimage": "/images/KevinMitnick.webp",
+  "maintext": "<p>Kevin David Mitnick was an American computer security consultant, author, and convicted hacker. Once the FBI's most-wanted computer criminal, Mitnick was known for his social engineering skills and his ability to gain unauthorized access to computer systems and networks. After serving five years in prison, he became a security consultant and public speaker. He authored several books including <em>The Art of Deception</em>, <em>The Art of Intrusion</em>, and his autobiography <em>Ghost in the Wires</em>. Mitnick founded Mitnick Security Consulting and KnowBe4's Chief Hacking Officer.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/kevinmitnick"
+    },
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Kevin_Mitnick"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "CNN Obituary",
+      "url": "https://www.cnn.com/2023/07/21/us/computer-hacker-kevin-mitnick-obit/index.html",
+      "description": "CNN obituary for Kevin Mitnick."
+    },
+    {
+      "title": "BBC Obituary",
+      "url": "https://www.bbc.com/news/world-us-canada-66263235",
+      "description": "BBC obituary for Kevin Mitnick."
+    },
+    {
+      "title": "AP News Obituary",
+      "url": "https://apnews.com/article/mitnick-hacker-ghost-wires-cybersecurity-social-engineering-5648301b615635cb4c781f0c220681d9",
+      "description": "Associated Press obituary for Kevin Mitnick."
+    }
+  ],
+  "gallery": []
+}
