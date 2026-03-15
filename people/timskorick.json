@@ -9,7 +9,12 @@
   "affiliations": "303",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "<p>Tim Skorick, known as Timmah, was a member of the 303 hacking group and the information security community.</p>",
-  "socialmedialinks": [],
+  "socialmedialinks": [
+    {
+      "sitename": "GoFundMe",
+      "siteurl": "https://www.gofundme.com/f/support-for-the-skorick-family"
+    }
+  ],
   "contributions": [],
   "gallery": []
 }

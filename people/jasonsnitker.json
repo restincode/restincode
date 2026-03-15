@@ -15,6 +15,21 @@
       "siteurl": "https://bsky.app/profile/did:plc:low75hwexu2oc5v2rj5p2lbu"
     }
   ],
-  "contributions": [],
-  "gallery": []
+  "contributions": [
+    {
+      "title": "Darknet Diaries Episode 169",
+      "url": "https://darknetdiaries.com/transcript/169/",
+      "description": "Jason's story featured on the Darknet Diaries podcast."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "https://fxtwitter.com/WeldPond/status/2024682841292898378",
+      "caption": "WeldPond memorial tweet"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BkeXk9rBBrs&t=1s",
+      "caption": "YouTube video"
+    }
+  ]
 }
