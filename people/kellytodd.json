@@ -1,0 +1,24 @@
+{
+  "firstname": "Kelly",
+  "lastname": "Todd",
+  "handle": "Lyger",
+  "birth": "",
+  "death": "2022",
+  "obituary": "",
+  "issue": "198",
+  "affiliations": "Attrition",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Kelly Todd, known as Lyger, was a member of the Attrition.org crew. He was active in the information security community and contributed to security research and documentation efforts through Attrition.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/lazlo_d_plumber"
+    },
+    {
+      "sitename": "Website",
+      "siteurl": "https://attrition.org/~lyger/"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}

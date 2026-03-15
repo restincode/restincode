@@ -1,0 +1,24 @@
+{
+  "firstname": "Felix",
+  "lastname": "Lindner",
+  "handle": "Fx",
+  "birth": "",
+  "death": "2026",
+  "obituary": "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix",
+  "issue": "308",
+  "affiliations": "Phenoelit",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Felix \"FX\" Lindner was a renowned German security researcher and founder of Recurity Labs. He was a member of Phenoelit, a hacking group known for their research on network infrastructure security. FX was a prolific speaker at security conferences worldwide, presenting research on topics ranging from router exploitation to Cisco IOS security. He was widely respected for his deep technical expertise and contributions to understanding vulnerabilities in critical network infrastructure.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Website",
+      "siteurl": "https://phenoelit.de/"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://infocondb.org/presenter/felix-lindner-fx"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
