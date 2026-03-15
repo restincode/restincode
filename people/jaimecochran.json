@@ -15,6 +15,10 @@
       "siteurl": "https://www.twitter.com/ACKFlags"
     },
     {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/asshurtmacfags"
+    },
+    {
       "sitename": "Github",
       "siteurl": "https://github.com/asshurtmacfags"
     },
@@ -27,8 +31,12 @@
       "siteurl": "https://github.com/compoterhacker"
     },
     {
-      "sitename": "Other",
+      "sitename": "Vice",
       "siteurl": "https://www.vice.com/en_uk/article/nn4gvk/rustle-league-are-making-sure-trolling-stays-funny"
+    },
+    {
+      "sitename": "MuckRock FOIA",
+      "siteurl": "https://www.muckrock.com/foi/united-states-of-america-10/jamie-aka-ackflags-47588/"
     }
   ],
   "contributions": [
@@ -48,6 +56,16 @@
       "url": "/images/JaimeCochran.jpg",
       "title": "Jaime Cochran",
       "caption": "Jaime Cochran sitting at her computer"
+    },
+    {
+      "url": "https://www.reddit.com/r/Drama/comments/7psp0p/one_of_the_internets_most_infamous_trolls_jaime/",
+      "title": "Reddit thread about Jaime",
+      "caption": ""
+    },
+    {
+      "url": "https://www.blogtalkradio.com/canadianglen/2018/01/17/rustle-league-radio-remembers-asshurtmacfags",
+      "title": "Rustle League Radio memorial",
+      "caption": ""
     }
   ]
 }

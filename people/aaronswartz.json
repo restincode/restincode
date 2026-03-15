@@ -17,6 +17,14 @@
     {
       "sitename": "Website",
       "siteurl": "http://www.aaronsw.com/"
+    },
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Aaron_Swartz"
+    },
+    {
+      "sitename": "MuckRock FOIA",
+      "siteurl": "https://www.muckrock.com/foi/united-states-of-america-10/aaron-swartz-fbi-2484/"
     }
   ],
   "contributions": [
