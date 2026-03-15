@@ -25,6 +25,10 @@
     {
       "sitename": "Facebook",
       "siteurl": "https://www.facebook.com/profile.php?id=1096461817085507"
+    },
+    {
+      "sitename": "SoundCloud",
+      "siteurl": "https://soundcloud.com/rev-rance"
     }
   ],
   "contributions": [],
