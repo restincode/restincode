@@ -1,0 +1,20 @@
+{
+  "firstname": "",
+  "lastname": "",
+  "handle": "TFreak",
+  "birth": "",
+  "death": "2010",
+  "obituary": "",
+  "issue": "297",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>TFreak was a hacker known for creating the smurf attack, a distributed denial-of-service attack that exploits the Internet Control Message Protocol (ICMP). The smurf attack was one of the most well-known and widely discussed network attacks of the late 1990s.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Other",
+      "siteurl": "https://hackepedia.org/?title=Tfreak"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
