@@ -19,6 +19,12 @@
       "siteurl": "https://attrition.org/~lyger/"
     }
   ],
-  "contributions": [],
+  "contributions": [
+    {
+      "title": "Tribute Video",
+      "url": "https://www.youtube.com/watch?v=zOH5jEK4dhk",
+      "description": "Video tribute to Kelly Todd (Lyger)."
+    }
+  ],
   "gallery": []
 }
