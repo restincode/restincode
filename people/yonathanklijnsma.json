@@ -1,0 +1,26 @@
+{
+  "firstname": "Yonathan",
+  "lastname": "Klijnsma",
+  "handle": "ydklijnsma",
+  "birth": "",
+  "death": "2021",
+  "obituary": "",
+  "issue": "161",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Yonathan Klijnsma was a security researcher known for his work in threat intelligence and cybersecurity. He passed away due to cancer in January 2021.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/ydklijnsma"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "Cybersecurity Interviews Podcast",
+      "url": "https://cybersecurityinterviews.com/episodes/61-yonathan-klijnsma-get-compromised-get-compromised/",
+      "description": "Episode 61 - Yonathan Klijnsma - Get Compromised, Get Compromised"
+    }
+  ],
+  "gallery": []
+}

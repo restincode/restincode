@@ -1,0 +1,20 @@
+{
+  "firstname": "James",
+  "lastname": "Dolan",
+  "handle": "",
+  "birth": "1981",
+  "death": "2017",
+  "obituary": "",
+  "issue": "162",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>James Dolan was a computer security expert and Marine veteran. He was a co-creator of SecureDrop, the open-source whistleblower submission system, alongside Aaron Swartz and Kevin Poulsen. SecureDrop is used by major news organizations worldwide to securely receive documents from anonymous sources.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/James_Dolan_(computer_security_expert)"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}

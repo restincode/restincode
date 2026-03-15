@@ -1,0 +1,24 @@
+{
+  "firstname": "Adrian",
+  "lastname": "Lamo",
+  "handle": "",
+  "birth": "1981",
+  "death": "2018",
+  "obituary": "",
+  "issue": "209",
+  "affiliations": "2600",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Adrian Lamo was an American threat analyst and hacker. Known as the \"homeless hacker\" for his nomadic lifestyle, Lamo gained attention for breaking into several high-profile computer networks including those of The New York Times, Yahoo!, and Microsoft. He was later known for reporting Chelsea Manning to the U.S. Army in 2010 after Manning confided in him about leaking classified documents to WikiLeaks. Lamo was found dead in a Wichita, Kansas apartment in 2018 at the age of 37.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/LordlOfTheRings"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://www.npr.org/2019/09/19/760317486/the-mysterious-death-of-the-hacker-who-turned-in-chelsea-manning"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
