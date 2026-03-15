@@ -7,12 +7,20 @@
   "obituary": "https://www.legacy.com/funeral-homes/obituaries/name/jerome-heckenkamp-obituary?pid=178007168&v=batesville",
   "issue": "208",
   "affiliations": "",
-  "mainimage": "/images/face-silhouette-clipart.png",
+  "mainimage": "/images/JeromeHeckenkamp.jpg",
   "maintext": "<p>Jerome Heckenkamp, known as Sk8 (also linked to the handle MagicFX), was a hacker who gained notoriety for unauthorized access to computer networks at several organizations including Qualcomm, eBay, and others. His case became notable in computer law, involving questions about search and seizure of computer evidence. He was defended by Jennifer Granick of the Stanford Cyberlaw Clinic.</p>",
   "socialmedialinks": [
     {
-      "sitename": "Other",
+      "sitename": "Memorial Site",
       "siteurl": "https://www.jeromeheckenkamp.com/"
+    },
+    {
+      "sitename": "IT Law Wiki",
+      "siteurl": "https://itlaw.fandom.com/wiki/U.S._v._Heckenkamp"
+    },
+    {
+      "sitename": "Free Sk8 Archive",
+      "siteurl": "https://web.archive.org/web/20031008121704/http://www.freesk8.com/"
     }
   ],
   "contributions": [],

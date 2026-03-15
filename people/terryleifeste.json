@@ -9,7 +9,12 @@
   "affiliations": "DEF CON Goon SpeakerOps",
   "mainimage": "/images/face-silhouette-clipart.png",
   "maintext": "<p>Terry Lynn Leifeste, known as phliKtid, was a DEF CON Goon who worked in SpeakerOps, helping coordinate speakers and presentations at the conference.</p>",
-  "socialmedialinks": [],
+  "socialmedialinks": [
+    {
+      "sitename": "LinkedIn Memorial",
+      "siteurl": "https://www.linkedin.com/posts/activity-7418849222084542464-BktK"
+    }
+  ],
   "contributions": [],
   "gallery": []
 }

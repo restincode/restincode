@@ -7,7 +7,7 @@
   "obituary": "",
   "issue": "295",
   "affiliations": "",
-  "mainimage": "/images/face-silhouette-clipart.png",
+  "mainimage": "/images/RoyDavis_1.png",
   "maintext": "<p>Roy Davis, known as Hack All Things, was a security researcher and hacker. He was known for his engaging conference talks, including a notable presentation on buying and hacking into an ATM. Roy challenged the industry to think about alternative approaches to measuring vulnerability severity through the VISS (Vulnerability Impact Scoring System) project at Zoom. He was active in the bug bounty community and participated in events such as H1-4420.</p>",
   "socialmedialinks": [
     {
@@ -29,7 +29,21 @@
       "title": "VISS - Vulnerability Impact Scoring System",
       "url": "https://viss.zoom.com/",
       "description": "An alternative approach to measuring vulnerability severity developed at Zoom."
+    },
+    {
+      "title": "Zoom H1-4420 Event Blog Post",
+      "url": "https://www.zoom.com/en/blog/zoom-hackerone-h1-4420-event-2023/",
+      "description": "Roy's blog post about the Zoom HackerOne H1-4420 event in London 2023."
     }
   ],
-  "gallery": []
+  "gallery": [
+    {
+      "url": "/images/RoyDavis_2.png",
+      "caption": "Roy Davis at H1-4420 2023 in London"
+    },
+    {
+      "url": "/images/RoyDavis_3.png",
+      "caption": "Roy Davis at Infosecurity Europe 2023 in London"
+    }
+  ]
 }
