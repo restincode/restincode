@@ -19,6 +19,18 @@
       "siteurl": "https://www.facebook.com/groups/359810421318698/"
     }
   ],
-  "contributions": [],
-  "gallery": []
+  "contributions": [
+    {
+      "title": "SecLists ISN Posting",
+      "url": "https://seclists.org/isn/2019/May/33",
+      "description": "SecLists ISN posting about Christian Wright."
+    }
+  ],
+  "gallery": [
+    {
+      "url": "https://www.gofundme.com/in-memory-of-christian-wright",
+      "title": "GoFundMe memorial page",
+      "caption": ""
+    }
+  ]
 }
