@@ -7,7 +7,7 @@
   "obituary": "https://www.legacy.com/us/obituaries/name/vijay-gill-obituary?id=36166748",
   "issue": "232",
   "affiliations": "IAB, IETF, NANOG",
-  "mainimage": "/images/face-silhouette-clipart.png",
+  "mainimage": "/images/VijayGill.jpg",
   "maintext": "<p>Vijay Gill was a prolific network engineer employed by various ISPs and hyperscale networks including UUNet, AOL, Microsoft, Google, and Salesforce. He was a contributor to the wider Internet community through his involvement with the IETF, IAB, and NANOG, and co-authored multiple RFCs related to Internet architecture and routing.</p>",
   "socialmedialinks": [
     {
@@ -27,5 +27,11 @@
       "description": "Co-authored RFC on BGP MED attribute considerations for network routing."
     }
   ],
-  "gallery": []
+  "gallery": [
+    {
+      "url": "/images/VijayGill-robe.jpg",
+      "title": "",
+      "caption": ""
+    }
+  ]
 }
