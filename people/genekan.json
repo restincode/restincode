@@ -1,0 +1,20 @@
+{
+  "firstname": "Gene",
+  "lastname": "Kan",
+  "handle": "",
+  "birth": "1976",
+  "death": "2002",
+  "obituary": "",
+  "issue": "163",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Gene Kan was a computer programmer and open source advocate best known for his work on Gnutella, the peer-to-peer file sharing network. He was an early and prominent developer of the Gnutella protocol and its open source implementations, and became a visible spokesperson for the peer-to-peer movement. Kan was also a contributor to various open source projects and a frequent speaker on decentralized networking technology.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Gene_Kan"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
