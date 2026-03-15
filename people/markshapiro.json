@@ -1,0 +1,26 @@
+{
+  "firstname": "Mark",
+  "lastname": "Shapiro",
+  "handle": "gntlmnguardian",
+  "birth": "1979",
+  "death": "2020",
+  "obituary": "https://www.dignitymemorial.com/obituaries/falls-church-va/mark-shapiro-9170264",
+  "issue": "158",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Mark Edward Shapiro was a cybersecurity professional employed at Jacobs Critical Mission Solutions as a Project Manager of cybersecurity, intelligence, and information operations for the Securities and Exchange Commission in Washington, D.C. Only weeks prior to his death, Mark had completed his first cybersecurity industry convention presentation, giving a featured talk at BSides NoVA on \"Democratizing Intelligence.\" He also trained in Executive Protection and Physical Security, and often assisted in this capacity at media conventions.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/gntlmnguardian"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "BSides NoVA 2020 - Democratized Intelligence: Promises and Pitfalls",
+      "url": "https://www.youtube.com/watch?v=qKWQyk7Xypw&list=PLrwRJhfJmJRjleUT5gEBno3S5csqNIhFo&index=6&t=320s",
+      "description": "A talk on the advancement of privatized intelligence capacity, examining how individuals can stand up a functional intelligence apparatus and the hazards of doing so from analytical and operational perspectives."
+    }
+  ],
+  "gallery": []
+}
