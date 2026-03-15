@@ -1,0 +1,20 @@
+{
+  "firstname": "Kevin",
+  "lastname": "Estis",
+  "handle": "",
+  "birth": "",
+  "death": "2021",
+  "obituary": "",
+  "issue": "165",
+  "affiliations": "DEF CON Goon",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Kevin Estis was a member of the information security community and a DEF CON Goon.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/kevinestis"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
