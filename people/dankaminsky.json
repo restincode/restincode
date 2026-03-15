@@ -1,0 +1,40 @@
+{
+  "firstname": "Dan",
+  "lastname": "Kaminsky",
+  "handle": "",
+  "birth": "",
+  "death": "2021",
+  "obituary": "https://www.securityweek.com/security-researcher-dan-kaminsky-passes-away",
+  "issue": "169",
+  "affiliations": "",
+  "mainimage": "/images/y3t1_Art-Dan_Kaminsky.png",
+  "maintext": "<p>Dan Kaminsky was an American computer security researcher. He was a co-founder and chief scientist of WhiteOps (now HUMAN Security). Kaminsky was widely known for his work on DNS security, most notably for discovering a fundamental flaw in the DNS protocol in 2008 that could allow attackers to easily perform cache poisoning attacks on most nameservers. He worked with DNS vendors worldwide in secret to develop a patch, coordinating one of the largest simultaneous security fixes in internet history. Kaminsky was a popular speaker at conferences including DEF CON and Black Hat, known for his wide-ranging curiosity and infectious enthusiasm for exploring security across diverse domains.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/dakami"
+    },
+    {
+      "sitename": "Wikipedia",
+      "siteurl": "https://en.wikipedia.org/wiki/Dan_Kaminsky"
+    }
+  ],
+  "contributions": [
+    {
+      "title": "DNS Cache Poisoning Research",
+      "url": "https://en.wikipedia.org/wiki/Dan_Kaminsky#DNS_cache_poisoning",
+      "description": "Discovered a fundamental flaw in the DNS protocol in 2008 that allowed cache poisoning attacks, coordinating a massive multi-vendor patch effort."
+    },
+    {
+      "title": "Bitcoin Flaws Analysis",
+      "url": "https://www.businessinsider.com/dan-kaminsky-highlights-flaws-bitcoin-2013-4?op=1",
+      "description": "Research highlighting flaws in Bitcoin."
+    },
+    {
+      "title": "DEF CON Documentary Interview (2012)",
+      "url": "https://www.youtube.com/watch?v=ZkqY4l6mPtc",
+      "description": "Full 30-minute interview with Dan Kaminsky about DEF CON, speaking at hacking cons, and what makes them special. Released from the vaults by @textfiles with permission from @thedarktangent."
+    }
+  ],
+  "gallery": []
+}

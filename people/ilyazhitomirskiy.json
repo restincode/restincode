@@ -1,0 +1,20 @@
+{
+  "firstname": "Ilya",
+  "lastname": "Zhitomirskiy",
+  "handle": "",
+  "birth": "1989",
+  "death": "2011",
+  "obituary": "",
+  "issue": "164",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Ilya Zhitomirskiy was a software developer and co-founder of Diaspora, a decentralized social networking platform created as a privacy-aware alternative to Facebook. While a student at New York University, Zhitomirskiy and three classmates launched a successful Kickstarter campaign in 2010 to fund development of the open source social network. The project drew widespread attention as a response to growing concerns about privacy on centralized social media platforms.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Other",
+      "siteurl": "https://www.forbes.com/sites/meghancasserly/2011/11/16/ilya-zhitomirskiy-diaspora-suicide-speculation-depression-stress-anxiety/"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
