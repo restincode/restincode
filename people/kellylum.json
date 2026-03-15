@@ -27,6 +27,24 @@
       "siteurl": "https://infosec.exchange/@aloria"
     }
   ],
+  "references": [
+    {
+      "title": "SummerCon memorial tweet",
+      "url": "https://twitter.com/SummerC0n/status/1637988841926672384"
+    },
+    {
+      "title": "SummerCon memorial video",
+      "url": "https://vimeo.com/845798078/740f695ed7"
+    },
+    {
+      "title": "Dark Reading obituary",
+      "url": "https://www.darkreading.com/application-security/renowned-researcher-kelly-lum-passes-away"
+    },
+    {
+      "title": "Fox5 NY news piece",
+      "url": "https://www.fox5ny.com/news/lack-of-women-in-cyber-security"
+    }
+  ],
   "contributions": [
     {
       "title": "Infosec Reactions",
