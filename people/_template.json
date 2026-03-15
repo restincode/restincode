@@ -31,6 +31,12 @@
       "siteurl": "https://about.me/"
     }
   ],
+  "references": [
+    {
+      "title": "Reference title",
+      "url": "https://example.com/"
+    }
+  ],
   "contributions": [
     {
       "title": "[project name]",

@@ -387,7 +387,8 @@ aside h4 {
   padding-bottom: 0.4rem;
 }
 
-#social-media a {
+#social-media a,
+#references a {
   display: block;
   margin-bottom: 0.3rem;
   font-size: 0.9rem;

@@ -19,6 +19,24 @@
       "siteurl": "https://en.wikipedia.org/wiki/Dan_Kaminsky"
     }
   ],
+  "references": [
+    {
+      "title": "New York Times obituary",
+      "url": "https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html"
+    },
+    {
+      "title": "Slashdot article",
+      "url": "https://it.slashdot.org/story/21/04/24/1645214/security-researcher-dan-kaminsky-has-died"
+    },
+    {
+      "title": "The Parallax article",
+      "url": "https://www.the-parallax.com/cybersleuth-dan-kaminsky-medical-answers/"
+    },
+    {
+      "title": "List of Dan Kaminsky talks",
+      "url": "https://twitter.com/_videoman_/status/1386126728767102977"
+    }
+  ],
   "contributions": [
     {
       "title": "DNS Cache Poisoning Research",
