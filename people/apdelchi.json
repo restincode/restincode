@@ -15,10 +15,19 @@
       "siteurl": "https://x.com/A_P_Delchi"
     },
     {
-      "sitename": "Other",
+      "sitename": "Mastodon",
       "siteurl": "https://defcon.social/@Delchi"
     }
   ],
   "contributions": [],
-  "gallery": []
+  "gallery": [
+    {
+      "url": "https://x.com/WeldPond/status/1989735824817037473",
+      "caption": "WeldPond memorial tweet"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1V2Hh2deH2Y",
+      "caption": "YouTube memorial video"
+    }
+  ]
 }
