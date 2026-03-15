@@ -1,0 +1,20 @@
+{
+  "firstname": "Jason",
+  "lastname": "Snitker",
+  "handle": "Parmaster",
+  "birth": "",
+  "death": "2026",
+  "obituary": "",
+  "issue": "307",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Jason Snitker, known as Parmaster, was a member of the hacker and information security community. His story was featured on the Darknet Diaries podcast.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Bluesky",
+      "siteurl": "https://bsky.app/profile/did:plc:low75hwexu2oc5v2rj5p2lbu"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
