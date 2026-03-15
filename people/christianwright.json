@@ -8,8 +8,17 @@
   "issue": "11",
   "affiliations": "",
   "mainimage": "/images/y3t1_Art-Christian_Wright_aka_Curiosity.jpg",
-  "maintext": "",
-  "socialmedialinks": [],
+  "maintext": "<p>Christian Wright, known as Curiosity, was a member of the information security community.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/cw_infosec"
+    },
+    {
+      "sitename": "Facebook",
+      "siteurl": "https://www.facebook.com/groups/359810421318698/"
+    }
+  ],
   "contributions": [],
   "gallery": []
 }

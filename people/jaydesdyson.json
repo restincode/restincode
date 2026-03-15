@@ -4,12 +4,21 @@
   "handle": "Cancer Omega",
   "birth": "22 Sept 1962",
   "death": "21 Dec 2011",
-  "obituary": "",
+  "obituary": "https://www.dignitymemorial.com/obituaries/surprise-az/jay-dyson-4930372",
   "issue": "14",
   "affiliations": "attrition.org",
   "mainimage": "/images/Jay_Dyson.jpg",
   "maintext": "Jay Dyson, 49, of Surprise, Arizona, passed away on December 21, 2011. He was preceded in death by his mother, Carole Clough. He is survived by his loving wife, Marie Dyson, children, Andrew and Miranda Dyson, father, Bill Clough, brothers, Douglas, Charlie and Michael Clough, parents-in-law, Ronald and Penny D’Abato and sister-in-law, Cassie Sheline. Jay was a wonderful man who was very dedicated to his family and his work. He absolutely loved Christmas and had a special way making the holiday so cheerful for those around him. Jay’s first Christmas in Heaven will be very special as he will be dearly missed by all those who loved him.",
-  "socialmedialinks": [],
+  "socialmedialinks": [
+    {
+      "sitename": "LinkedIn",
+      "siteurl": "https://www.linkedin.com/in/jaydyson/"
+    },
+    {
+      "sitename": "Website",
+      "siteurl": "http://www.treachery.net/~jdyson/"
+    }
+  ],
   "contributions": [
     {
       "title": "Attrition homepage",
