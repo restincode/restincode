@@ -22,14 +22,5 @@
       "description": "Jason's story featured on the Darknet Diaries podcast."
     }
   ],
-  "gallery": [
-    {
-      "url": "https://fxtwitter.com/WeldPond/status/2024682841292898378",
-      "caption": "WeldPond memorial tweet"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=BkeXk9rBBrs&t=1s",
-      "caption": "YouTube video"
-    }
-  ]
+  "gallery": []
 }

@@ -36,26 +36,5 @@
       "description": "Full 30-minute interview with Dan Kaminsky about DEF CON, speaking at hacking cons, and what makes them special. Released from the vaults by @textfiles with permission from @thedarktangent."
     }
   ],
-  "gallery": [
-    {
-      "url": "https://www.nytimes.com/2021/04/27/technology/daniel-kaminsky-dead.html",
-      "title": "New York Times obituary",
-      "caption": ""
-    },
-    {
-      "url": "https://it.slashdot.org/story/21/04/24/1645214/security-researcher-dan-kaminsky-has-died",
-      "title": "Slashdot article",
-      "caption": ""
-    },
-    {
-      "url": "https://www.the-parallax.com/cybersleuth-dan-kaminsky-medical-answers/",
-      "title": "The Parallax article",
-      "caption": ""
-    },
-    {
-      "url": "https://twitter.com/_videoman_/status/1386126728767102977",
-      "title": "List of Dan Kaminsky's talks",
-      "caption": ""
-    }
-  ]
+  "gallery": []
 }
