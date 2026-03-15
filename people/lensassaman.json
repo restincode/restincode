@@ -1,26 +1,83 @@
 {
   "firstname": "Len",
   "lastname": "Sassaman",
-  "handle": "",
+  "handle": "rabbi",
   "birth": "1980",
   "death": "2011",
   "obituary": "",
   "issue": "6",
-  "affiliations": "",
+  "affiliations": "Shmoo Group",
   "mainimage": "/images/Len_Sassaman.jpg",
   "maintext": "<p>Sassaman was a well-known cypherpunk, cryptographer and privacy advocate. He worked for Network Associates on the PGP encryption software, was a member of the Shmoo Group, a contributor to the OpenPGP IETF working group, the GNU Privacy Guard project, and frequently appeared at technology conferences like DEF CON. Sassaman was the co-founder of CodeCon along with Bram Cohen, co-founder of the HotPETS workshop (with Roger Dingledine of Tor and Thomas Heydt-Benjamin), co-author of the Zimmermann–Sassaman key-signing protocol, and at the age of 21, was an organizer of the protests following the arrest of Russian programmer Dmitry Sklyarov.</p>",
   "socialmedialinks": [
     {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/lensassaman"
+    },
+    {
+      "sitename": "Website",
+      "siteurl": "https://len.sassaman.net/"
+    },
+    {
+      "sitename": "Blog (Archive)",
+      "siteurl": "https://web.archive.org/web/20090406075525/http://rabbi.vox.com/"
+    },
+    {
       "sitename": "Wikipedia",
       "siteurl": "https://en.wikipedia.org/wiki/Len_Sassaman"
+    },
+    {
+      "sitename": "MuckRock FOIA",
+      "siteurl": "https://www.muckrock.com/foi/list/?q=Sassaman+&status=&has_embargo=&has_crowdfund=&minimum_pages=&date_range_min=&date_range_max=&file_types=&search_title="
     }
   ],
-  "contributions": [],
+  "contributions": [
+    {
+      "title": "Zimmermann-Sassaman key-signing protocol",
+      "url": "https://en.wikipedia.org/wiki/Zimmermann%E2%80%93Sassaman_key-signing_protocol",
+      "description": "Co-author of the Zimmermann-Sassaman key-signing protocol."
+    },
+    {
+      "title": "CodeCon",
+      "url": "https://en.wikipedia.org/wiki/CodeCon",
+      "description": "Co-founder of CodeCon along with Bram Cohen."
+    },
+    {
+      "title": "Mixmaster anonymous remailer",
+      "url": "https://en.wikipedia.org/wiki/Mixmaster_anonymous_remailer",
+      "description": "Maintainer of the Mixmaster anonymous remailer."
+    },
+    {
+      "title": "Len Sassaman and Satoshi: a Cypherpunk History",
+      "url": "https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10",
+      "description": "Article exploring Len Sassaman's connection to Satoshi Nakamoto."
+    }
+  ],
   "gallery": [
     {
-      "url": "/images/Len_Sassaman.jpg",
-      "title": "Len Sassaman at the 27th Chaos Communication Congress",
-      "caption": "By Alexander Klink - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=12477326"
+      "url": "/images/len_sassaman1.jpg",
+      "title": "Len and Meredith",
+      "caption": "Len slips a blue cable-tie ring on Meredith's finger"
+    },
+    {
+      "url": "/images/len_sassaman2.jpg",
+      "title": "",
+      "caption": ""
+    },
+    {
+      "url": "/images/len_sassaman3.jpg",
+      "title": "",
+      "caption": ""
+    },
+    {
+      "url": "/images/len_sassaman4.jpg",
+      "title": "Len at Dartmouth",
+      "caption": "Len at Dartmouth"
+    },
+    {
+      "url": "/images/len_sassaman5.jpg",
+      "title": "Len at 27C3",
+      "caption": "Len at the 27th Chaos Communication Congress"
     }
   ]
 }
