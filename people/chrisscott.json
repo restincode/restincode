@@ -17,6 +17,18 @@
     {
       "sitename": "Github",
       "siteurl": "https://github.com/Cyb3r-Assassin"
+    },
+    {
+      "sitename": "YouTube",
+      "siteurl": "https://www.youtube.com/channel/UCr-NX4TPEi9JNrwtBJreIwQ"
+    },
+    {
+      "sitename": "WordPress",
+      "siteurl": "https://cyb3rassassin.wordpress.com/"
+    },
+    {
+      "sitename": "MX Sponsor",
+      "siteurl": "https://www.mxsponsor.com/riders/chris-a-scott"
     }
   ],
   "contributions": [],
