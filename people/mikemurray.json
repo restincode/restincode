@@ -1,0 +1,24 @@
+{
+  "firstname": "Mike",
+  "lastname": "Murray",
+  "handle": "",
+  "birth": "1976",
+  "death": "2022",
+  "obituary": "https://jamesreidfuneralhome.com/tribute/details/14089/Michael-Murray/obituary.html",
+  "issue": "187",
+  "affiliations": "",
+  "mainimage": "/images/face-silhouette-clipart.png",
+  "maintext": "<p>Mike Murray was a cybersecurity professional and the founder of Scope Security. He was known for his work in the information security industry and was active in the security community.</p>",
+  "socialmedialinks": [
+    {
+      "sitename": "Twitter",
+      "siteurl": "https://twitter.com/mmurray"
+    },
+    {
+      "sitename": "Other",
+      "siteurl": "https://scopesecurity.com/"
+    }
+  ],
+  "contributions": [],
+  "gallery": []
+}
