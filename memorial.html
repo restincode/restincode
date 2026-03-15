@@ -119,17 +119,18 @@
 
           if (!Array.isArray(data.references) || !data.references.length) {
             $("#references").append(
-              "<p>No references have been submitted for this person. Help us by submitting <a href='" +
-                data.issue +
-                "'>here.</a></p>",
+              $("<p>").append(
+                "No references have been submitted for this person. Help us by submitting ",
+                $("<a>").attr("href", safeUrl(data.issue)).text("here."),
+              ),
             );
           } else {
             for (var r = 0; r < data.references.length; r++) {
-              var refTitle = data.references[r]["title"];
-              var refUrl = data.references[r]["url"];
-              var ref =
-                '<a href="' + safeUrl(refUrl) + '">' + refTitle + "</a>";
-              $("#references").append(ref);
+              $("#references").append(
+                $("<a>")
+                  .attr("href", safeUrl(data.references[r]["url"]))
+                  .text(data.references[r]["title"]),
+              );
             }
           }
 
