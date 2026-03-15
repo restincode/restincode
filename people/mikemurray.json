@@ -15,10 +15,23 @@
       "siteurl": "https://twitter.com/mmurray"
     },
     {
-      "sitename": "Other",
+      "sitename": "Instagram",
+      "siteurl": "https://www.instagram.com/michael_l_murray/"
+    },
+    {
+      "sitename": "Scope Security",
       "siteurl": "https://scopesecurity.com/"
     }
   ],
   "contributions": [],
-  "gallery": []
+  "gallery": [
+    {
+      "url": "https://www.instagram.com/p/CcJDPCevFBg/?igshid=YmMyMTA2M2Y=",
+      "caption": "Instagram memorial post"
+    },
+    {
+      "url": "https://twitter.com/scopesecurity_/status/1512927318481723394",
+      "caption": "Scope Security memorial tweet"
+    }
+  ]
 }
