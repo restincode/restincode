@@ -29,7 +29,7 @@
         var params = new URLSearchParams(window.location.search);
         if (params.get("name") != null) {
           var name = params.get("name");
-          person = "/people/" + name + ".json";
+          person = "/people/" + encodeURIComponent(name) + ".json";
         } else {
           person = "/people/person.json";
         }
@@ -45,37 +45,47 @@
           }
         }
 
+        function txt(value) {
+          return document.createTextNode(value == null ? "" : String(value));
+        }
+
         $.getJSON(person, function (data) {
           var fullname = data.firstname + " " + data.lastname;
           if (data.handle != "") {
             fullname += " (" + data.handle + ")";
           }
 
-          $("title").append(fullname);
-          $("#subtitle").append(fullname);
-          $("#memorial-name").append(fullname);
-          $(".birth").append(data.birth);
-          $(".death").append(data.death);
-          $(".issue").append(data.issue);
+          document.title = document.title + fullname;
+          $("#subtitle").append(txt(fullname));
+          $("#memorial-name").text(fullname);
+          $(".birth").append(txt(data.birth));
+          $(".death").append(txt(data.death));
 
           if (data.affiliations == null || data.affiliations == "") {
-            $(".affiliations").append("None");
+            $(".affiliations").append(txt("None"));
           } else {
-            $(".affiliations").append(data.affiliations);
+            $(".affiliations").append(txt(data.affiliations));
           }
 
           if (data.obituary != null && data.obituary != "") {
             $(".obituary").append(
-              '<a href="' + safeUrl(data.obituary) + '">Obituary</a>',
+              $("<a>").attr("href", safeUrl(data.obituary)).text("Obituary"),
             );
           }
 
+          var issueUrl;
           if (data.issue == null || data.issue == "") {
-            data.issue =
+            issueUrl =
               "https://github.com/restincode/restincode/blob/master/CONTRIBUTING.md";
           } else {
-            data.issue =
-              "https://github.com/restincode/restincode/issues/" + data.issue;
+            issueUrl =
+              "https://github.com/restincode/restincode/issues/" +
+              encodeURIComponent(data.issue);
+          }
+          var safeIssueUrl = safeUrl(issueUrl);
+
+          function helpLink() {
+            return $("<a>").attr("href", safeIssueUrl).text("here.");
           }
 
           if (data.mainimage == "") {
@@ -84,17 +94,21 @@
               .attr("alt", "placeholder photo");
           } else {
             $(".memorial-main-image")
-              .attr("src", data.mainimage)
+              .attr("src", safeUrl(data.mainimage))
               .attr("alt", "Main photo of " + fullname);
           }
 
           if (data.maintext == "") {
             $("#memorial-text").append(
-              "<p>No information has been submitted for this person. Help us by submitting <a href='" +
-                data.issue +
-                "'>here.</a></p>",
+              $("<p>").append(
+                "No information has been submitted for this person. Help us by submitting ",
+                helpLink(),
+              ),
             );
           } else {
+            // maintext is intentionally rendered as HTML for formatted bios.
+            // Residual XSS risk is mitigated by PR review; track follow-up
+            // to integrate DOMPurify for defense-in-depth.
             $("#memorial-text").append(data.maintext);
           }
 
@@ -103,17 +117,18 @@
             !data.socialmedialinks.length
           ) {
             $("#social-media").append(
-              "<p>No social media links have been submitted for this person. Help us by submitting <a href='" +
-                data.issue +
-                "'>here.</a></p>",
+              $("<p>").append(
+                "No social media links have been submitted for this person. Help us by submitting ",
+                helpLink(),
+              ),
             );
           } else {
             for (var s = 0; s < data.socialmedialinks.length; s++) {
               var sitename = data.socialmedialinks[s]["sitename"];
               var siteurl = data.socialmedialinks[s]["siteurl"];
-              var social =
-                '<a href="' + safeUrl(siteurl) + '">' + sitename + "</a>";
-              $("#social-media").append(social);
+              $("#social-media").append(
+                $("<a>").attr("href", safeUrl(siteurl)).text(sitename),
+              );
             }
           }
 
@@ -121,7 +136,7 @@
             $("#references").append(
               $("<p>").append(
                 "No references have been submitted for this person. Help us by submitting ",
-                $("<a>").attr("href", safeUrl(data.issue)).text("here."),
+                helpLink(),
               ),
             );
           } else {
@@ -139,52 +154,50 @@
             !data.contributions.length
           ) {
             $("#contributions-list").append(
-              "<li>No contributions have been submitted for this person. Help us by submitting <a href='" +
-                data.issue +
-                "'>here.</a></li>",
+              $("<li>").append(
+                "No contributions have been submitted for this person. Help us by submitting ",
+                helpLink(),
+              ),
             );
           } else {
             for (var x = 0; x < data.contributions.length; x++) {
               var title = data.contributions[x]["title"];
               var url = data.contributions[x]["url"];
               var text = data.contributions[x]["description"];
-              var cont;
+              var $li = $("<li>");
               if (url == "") {
-                cont = "<li><b>" + title + "</b> - " + text + "</li>";
+                $li.append($("<b>").text(title));
               } else {
-                cont =
-                  "<li><a href='" +
-                  safeUrl(url) +
-                  "'>" +
-                  title +
-                  "</a> - " +
-                  text +
-                  "</li>";
+                $li.append($("<a>").attr("href", safeUrl(url)).text(title));
               }
-              $("#contributions-list").append(cont);
+              $li.append(txt(" - " + text));
+              $("#contributions-list").append($li);
             }
           }
 
           if (!Array.isArray(data.gallery) || !data.gallery.length) {
             $("#nogallery").append(
-              "<p>No images have been submitted for this person yet. Help us by submitting <a href='" +
-                data.issue +
-                "'>here.</a></p>",
+              $("<p>").append(
+                "No images have been submitted for this person yet. Help us by submitting ",
+                helpLink(),
+              ),
             );
           } else {
             for (var i = 0; i < data.gallery.length; i++) {
               var imgurl = safeUrl(data.gallery[i]["url"]);
               var imgtitle = data.gallery[i]["title"];
               var caption = data.gallery[i]["caption"];
-              var image =
-                "<figure class='memorial-gallery'><img src='" +
-                imgurl +
-                "' alt='" +
-                imgtitle +
-                "' loading='lazy'><figcaption>" +
-                caption +
-                "</figcaption></figure>";
-              $("#gallery").append(image);
+              $("#gallery").append(
+                $("<figure>")
+                  .addClass("memorial-gallery")
+                  .append(
+                    $("<img>")
+                      .attr("src", imgurl)
+                      .attr("alt", imgtitle)
+                      .attr("loading", "lazy"),
+                    $("<figcaption>").text(caption),
+                  ),
+              );
             }
           }
 
