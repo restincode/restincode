@@ -40,28 +40,23 @@
           });
 
           for (var p = 0; p < peoplelist.length; p++) {
-            var displayname = peoplelist[p]["displayname"];
+            var displayname = String(peoplelist[p]["displayname"] || "");
             var file = peoplelist[p]["filename"];
-            var card;
+            var $card;
 
             if (file == "") {
-              card =
-                '<div class="person-card no-link" data-name="' +
-                displayname.toLowerCase() +
-                '">' +
-                displayname +
-                "</div>";
+              $card = $("<div>")
+                .addClass("person-card no-link")
+                .attr("data-name", displayname.toLowerCase())
+                .text(displayname);
             } else {
-              card =
-                '<a href="memorial.html?name=' +
-                file +
-                '" class="person-card" data-name="' +
-                displayname.toLowerCase() +
-                '">' +
-                displayname +
-                "</a>";
+              $card = $("<a>")
+                .attr("href", "memorial.html?name=" + encodeURIComponent(file))
+                .addClass("person-card")
+                .attr("data-name", displayname.toLowerCase())
+                .text(displayname);
             }
-            $("#people-grid").append(card);
+            $("#people-grid").append($card);
           }
 
           $(".loading-message").remove();
