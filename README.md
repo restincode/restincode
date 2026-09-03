@@ -112,6 +112,13 @@ Please see our [CONTRIBUTING](https://github.com/restincode/restincode/blob/main
                     <sub><b>Michael Salsone</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/richardnixondev">
+                    <img src="https://avatars.githubusercontent.com/u/45039331?v=4" width="100;" alt="richardnixondev"/>
+                    <br />
+                    <sub><b>Richard Nixon</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
