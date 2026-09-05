@@ -16,6 +16,8 @@ Verify that an Issue [does not already exist](https://github.com/restincode/rest
 
 Alternatively you can open a <a href="https://github.com/restincode/restincode/issues/new">regular issue</a> or you can also choose to submit the json file (located in [people/](https://github.com/restincode/restincode/tree/master/people)) directly (via a pull request). If you wish to submit your own json, please utilize this [template](https://github.com/restincode/restincode/blob/master/people/_template.json) to get started.
 
+Before opening a pull request, run `pre-commit run --all-files`. This formats the files and runs `scripts/validate_people.py`, which checks every `people/*.json` against [schema/person.schema.json](schema/person.schema.json), confirms `peoplelist.json` and the image files line up, and rejects HTML in text-only fields.
+
 ### Adding data to existing person
 
 Every person on RiC should have an open [Issue](https://github.com/restincode/restincode/issues) within the project. The first step is to search and locate the existing Issue for the person who's data you want to add to. Once you've located it, just leave a comment on the Issue with the new information to be added.

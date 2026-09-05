@@ -1,0 +1,32 @@
+# Validates memorial data (people/*.json, peoplelist.json) against
+# schema/person.schema.json and the site's cross-file conventions.
+name: Validate memorial data
+
+on:
+  pull_request:
+    paths:
+      - "people/**"
+      - "peoplelist.json"
+      - "images/**"
+      - "schema/**"
+      - "scripts/**"
+      - ".github/workflows/validate-people.yml"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/validate_people.py
