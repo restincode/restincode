@@ -80,10 +80,17 @@ def load_json(path: Path, report: Report):
         return None
 
 
-def check_schema(path: Path, data, validator: jsonschema.Validator, report: Report) -> None:
-    for err in sorted(validator.iter_errors(data), key=lambda e: list(e.absolute_path)):
+def check_schema(path: Path, data, validator: jsonschema.Validator, report: Report) -> bool:
+    """Report schema errors. Returns True when the data is valid.
+
+    The convention checks below assume schema-valid structure (arrays of
+    objects with the expected keys), so callers skip them on False.
+    """
+    errors = sorted(validator.iter_errors(data), key=lambda e: list(e.absolute_path))
+    for err in errors:
         loc = "/".join(str(p) for p in err.absolute_path) or "(root)"
         report.error(str(path), f"schema: {loc}: {err.message}")
+    return not errors
 
 
 def check_text(where: str, field: str, value, report: Report) -> None:
@@ -176,10 +183,12 @@ def main() -> int:
     peoplelist_path = root / "peoplelist.json"
     peoplelist = load_json(peoplelist_path, report)
     listed: dict[str, int] = {}
-    if peoplelist is not None:
-        check_schema(peoplelist_path.relative_to(root), peoplelist, list_validator, report)
-        for entry in peoplelist.get("people", []):
-            name = entry.get("filename", "")
+    peoplelist_ok = peoplelist is not None and check_schema(
+        peoplelist_path.relative_to(root), peoplelist, list_validator, report
+    )
+    if peoplelist_ok:
+        for entry in peoplelist["people"]:
+            name = entry["filename"]
             if name == "":
                 continue  # intentional no-link card
             listed[name] = listed.get(name, 0) + 1
@@ -191,15 +200,14 @@ def main() -> int:
 
     for stem, path in files.items():
         where = str(path.relative_to(root))
-        if stem not in listed:
+        if peoplelist_ok and stem not in listed:
             report.error(where, "not listed in peoplelist.json")
         if not FILENAME_RE.match(stem) and stem not in LEGACY_FILENAMES:
             report.error(where, "filename must be lowercase alphanumeric (a-z, 0-9)")
         data = load_json(path, report)
         if data is None:
             continue
-        check_schema(path.relative_to(root), data, person_validator, report)
-        if isinstance(data, dict):
+        if check_schema(path.relative_to(root), data, person_validator, report):
             check_person(path, data, root, images, report)
 
     print(f"checked {len(files)} memorial files, {len(listed)} peoplelist entries")
