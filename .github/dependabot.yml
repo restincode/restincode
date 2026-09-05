@@ -13,3 +13,11 @@ updates:
     target-branch: "main"
     assignees:
       - "mauvehed"
+  # Python dependencies for scripts/validate_people.py
+  - package-ecosystem: "pip"
+    directory: "/scripts"
+    schedule:
+      interval: "weekly"
+    target-branch: "main"
+    assignees:
+      - "mauvehed"

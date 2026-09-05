@@ -13,5 +13,14 @@ repos:
     hooks:
     -   id: prettier
         types_or: [json, html, css, javascript, yaml, markdown]
+-   repo: local
+    hooks:
+    -   id: validate-people
+        name: validate memorial data
+        entry: python scripts/validate_people.py
+        language: python
+        additional_dependencies: [jsonschema==4.26.0]
+        pass_filenames: false
+        files: ^(people/.*\.json|peoplelist\.json|images/.*|schema/.*|scripts/validate_people\.py)$
 ci:
     autofix_prs: true # set false to stop pull-request commits being added by pre-commit.ci

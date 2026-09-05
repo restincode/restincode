@@ -1,0 +1,93 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://restincode.com/schema/person.schema.json",
+  "title": "RestInCode memorial entry",
+  "description": "Shape of a people/<name>.json file. See people/_template.json for a starting point.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "firstname",
+    "lastname",
+    "handle",
+    "birth",
+    "death",
+    "obituary",
+    "issue",
+    "affiliations",
+    "mainimage",
+    "maintext",
+    "socialmedialinks",
+    "references",
+    "contributions",
+    "gallery"
+  ],
+  "properties": {
+    "firstname": { "type": "string" },
+    "lastname": { "type": "string" },
+    "handle": { "type": "string" },
+    "birth": { "type": "string" },
+    "death": { "type": "string" },
+    "obituary": { "type": "string" },
+    "issue": {
+      "type": "string",
+      "pattern": "^[0-9]*$",
+      "description": "GitHub issue number as a string, or empty"
+    },
+    "affiliations": { "type": "string" },
+    "mainimage": { "type": "string", "minLength": 1 },
+    "maintext": {
+      "type": "string",
+      "description": "Raw HTML. This is the only field rendered as HTML."
+    },
+    "socialmedialinks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["sitename", "siteurl"],
+        "properties": {
+          "sitename": { "type": "string", "minLength": 1 },
+          "siteurl": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "url"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "contributions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["title", "url", "description"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string" },
+          "description": { "type": "string" }
+        }
+      }
+    },
+    "gallery": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["url", "caption"],
+        "properties": {
+          "url": { "type": "string", "minLength": 1 },
+          "title": { "type": "string" },
+          "caption": { "type": "string" }
+        }
+      }
+    }
+  }
+}
