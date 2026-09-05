@@ -100,24 +100,38 @@ def check_link(where: str, field: str, value, report: Report) -> None:
         report.error(where, f"{field}: not an http(s) URL: {value!r}")
 
 
-def check_image(where: str, field: str, value, root: Path, report: Report) -> None:
+def list_images(root: Path) -> set[str]:
+    """Site-relative paths of every file under images/, e.g. 'images/Foo.jpg'.
+
+    Compared as exact strings so a case mismatch fails here the same way it
+    fails on GitHub Pages, even on a case-insensitive local filesystem.
+    """
+    images_dir = root / "images"
+    return {p.relative_to(root).as_posix() for p in images_dir.rglob("*") if p.is_file()}
+
+
+def check_image(
+    where: str, field: str, value, images: set[str], report: Report
+) -> None:
     if not isinstance(value, str) or value == "":
         return
     if value.startswith("/images/"):
-        if not (root / value.lstrip("/")).is_file():
-            report.error(where, f"{field}: image not found: {value}")
+        if value.lstrip("/") not in images:
+            report.error(where, f"{field}: image not found (case-sensitive): {value}")
     else:
         check_link(where, field, value, report)
 
 
-def check_person(path: Path, data: dict, root: Path, report: Report) -> None:
+def check_person(
+    path: Path, data: dict, root: Path, images: set[str], report: Report
+) -> None:
     where = str(path.relative_to(root))
 
     for field in TEXT_FIELDS:
         check_text(where, field, data.get(field), report)
 
     check_link(where, "obituary", data.get("obituary"), report)
-    check_image(where, "mainimage", data.get("mainimage"), root, report)
+    check_image(where, "mainimage", data.get("mainimage"), images, report)
 
     for i, item in enumerate(data.get("socialmedialinks") or []):
         check_text(where, f"socialmedialinks[{i}].sitename", item.get("sitename"), report)
@@ -135,7 +149,7 @@ def check_person(path: Path, data: dict, root: Path, report: Report) -> None:
     for i, item in enumerate(data.get("gallery") or []):
         check_text(where, f"gallery[{i}].title", item.get("title"), report)
         check_text(where, f"gallery[{i}].caption", item.get("caption"), report)
-        check_image(where, f"gallery[{i}].url", item.get("url"), root, report)
+        check_image(where, f"gallery[{i}].url", item.get("url"), images, report)
         if not item.get("title"):
             report.warn(where, f"gallery[{i}]: no title (used as the image alt text)")
 
@@ -156,6 +170,7 @@ def main() -> int:
     list_validator = jsonschema.Draft202012Validator(PEOPLELIST_SCHEMA)
 
     people_dir = root / "people"
+    images = list_images(root)
     files = {p.stem: p for p in sorted(people_dir.glob("*.json")) if p.stem != "_template"}
 
     peoplelist_path = root / "peoplelist.json"
@@ -185,7 +200,7 @@ def main() -> int:
             continue
         check_schema(path.relative_to(root), data, person_validator, report)
         if isinstance(data, dict):
-            check_person(path, data, root, report)
+            check_person(path, data, root, images, report)
 
     print(f"checked {len(files)} memorial files, {len(listed)} peoplelist entries")
     return finish(report)
